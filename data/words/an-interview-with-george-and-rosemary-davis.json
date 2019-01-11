@@ -1,0 +1,21 @@
+{
+  "authors": [
+    {
+      "author": "george-davis"
+    },
+    {
+      "author": "rosemary-davis"
+    },
+    {
+      "author": "caleb-ellwood"
+    }
+  ],
+  "showOnPodcast": false,
+  "itunesImage": "/uploads/logo.jpg",
+  "colour": "red",
+  "date": "2016-05-15T11:59:00+01:00",
+  "audioFile": "/uploads/160515 Interview.mp3",
+  "subtitle": "Caleb interviews George and Rosemary Davis about their work with the Oasis cafe.",
+  "title": "An interview with George and Rosemary Davis",
+  "image": "/uploads/IMG_7161 (Large).jpg"
+}

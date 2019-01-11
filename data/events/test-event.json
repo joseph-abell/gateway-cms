@@ -1,0 +1,11 @@
+{
+  "title": "Test Event",
+  "draft": true,
+  "image": "/uploads/10904433_10204839081471488_2618138572075207480_o.jpg",
+  "header": {
+    "menuColour": "green"
+  },
+  "dateTime": "2019-01-03T22:16:08+00:00",
+  "deck": "This is a test event that should not be shown.",
+  "article": "This is the article for the test event."
+}

@@ -1,0 +1,12 @@
+{
+  "title": "Words",
+  "header": {
+    "image": "/uploads/microphone.jpg",
+    "menuColour": "green"
+  },
+  "subtitle": {
+    "subtitle": "On this page you will find Sunday sermons as well as articles and news updates. ",
+    "image": ""
+  },
+  "optionalContent": "words"
+}

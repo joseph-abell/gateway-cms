@@ -1,0 +1,55 @@
+{
+  "title": "What We Do",
+  "header": {
+    "image": "/uploads/IMG_7011 (Large).jpg",
+    "menuColour": "purple"
+  },
+  "subtitle": {
+    "subtitle": "Sundays",
+    "image": "/uploads/IMG_0071 (Large).jpg"
+  },
+  "deck": {
+    "title": "",
+    "paragraph": "At Gateway you will find that church is far more than a weekly gathering. Having said that, our Sunday morning worship service is the focal point of our church life and is our main weekly event.",
+    "colour": "purple"
+  },
+  "contents": [
+    {
+      "content": {
+        "left": {
+          "image": "/uploads/IMG_0780 (Large).jpg",
+          "colour": "purple"
+        },
+        "right": {
+          "deck": "We meet at the Gateway Centre every Sunday at 10:40am for worship and teaching for all ages. Refreshments are served from 10:15am in the cafe, before we spend time singing and worshipping together. Part way through the service the children and young people (up to the age of 16) head out to a full range of excellent children's groups, while the adults hear teaching and continue to worship together.",
+          "colour": "purple"
+        }
+      }
+    },
+    {
+      "content": {
+        "left": {
+          "image": "/uploads/IMG_0035 (Large).jpg",
+          "colour": "purple"
+        },
+        "right": {
+          "image": "/uploads/Baptism.jpg",
+          "colour": "purple"
+        }
+      }
+    },
+    {
+      "content": {
+        "left": {
+          "deck": "All our sermons are recorded and can be found on the Words page. Once a month we have a Welcome Lunch where we invite newcomers to the church to a lunch at a church family's home.",
+          "colour": "purple"
+        },
+        "right": {
+          "image": "/uploads/IMG_0037 (Large).jpg",
+          "colour": "purple"
+        }
+      }
+    }
+  ],
+  "optionalContent": "noContent"
+}

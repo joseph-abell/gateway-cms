@@ -1,0 +1,11 @@
+{
+  "title": "Sarah Mills",
+  "deck": "<p>I'm married to Mark and have two daughters Lucy and Alice. I'm the Finance Director for a Telecoms Company, which Mark and I run together. I enjoy being outdoors, gardening or riding my bike. On a chilly evening I'll be by the fire with my crochet.\n</p>",
+  "menuColour": "red",
+  "image": "/uploads/Sarah Mills.jpg",
+  "titleRole": "Trustee",
+  "filters": {
+    "all": "true",
+    "trustees": "true"
+  }
+}

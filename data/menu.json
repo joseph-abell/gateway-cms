@@ -1,0 +1,42 @@
+{
+  "menu": [
+    {
+      "title": "Who We Are",
+      "link": "/who-we-are"
+    },
+    {
+      "title": "What We Do",
+      "link": "/sundays",
+      "childMenu": [
+        {
+          "title": "Sundays",
+          "link": "/sundays"
+        },
+        {
+          "title": "Connecting In",
+          "link": "/connecting-in"
+        },
+        {
+          "title": "Serving The Community",
+          "link": "/serving-the-community"
+        }
+      ]
+    },
+    {
+      "title": "Events",
+      "link": "/events"
+    },
+    {
+      "title": "People",
+      "link": "/people"
+    },
+    {
+      "title": "Words",
+      "link": "/words"
+    },
+    {
+      "title": "Contact Us",
+      "link": "/contact-us"
+    }
+  ]
+}

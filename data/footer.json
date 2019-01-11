@@ -1,0 +1,56 @@
+{
+  "title": "Footer",
+  "address": {
+    "name": "Gateway Church",
+    "addressLine1": "Gateway Centre",
+    "addressLine2": " Front Street",
+    "city": " York",
+    "postcode": "YO24 3BZ"
+  },
+  "contact": {
+    "title": "Contact",
+    "contactNumber": "01904 781983",
+    "email": "office@gatewaychurch.co.uk"
+  },
+  "socialMedia": {
+    "title": "Connect",
+    "list": [
+      {
+        "image": "/uploads/facebook.png",
+        "link": "https://facebook.com/gatewayyork"
+      },
+      {
+        "image": "/uploads/twitter.png",
+        "link": "https://twitter.com/gatewayyork"
+      },
+      {
+        "image": "/uploads/instagram.png",
+        "link": "https://instagram.com/gatewayyork"
+      }
+    ]
+  },
+  "credits": [
+    {
+      "role": "Design",
+      "links": [
+        {
+          "name": "Dave Rax",
+          "link": "www.daverax.co.uk"
+        }
+      ]
+    },
+    {
+      "role": "Development",
+      "links": [
+        {
+          "name": "Joseph Abell",
+          "link": "https://josephabell.co.uk"
+        },
+        {
+          "name": "Vicky Abell - Weck",
+          "link": "http://vickyaw.com"
+        }
+      ]
+    }
+  ]
+}

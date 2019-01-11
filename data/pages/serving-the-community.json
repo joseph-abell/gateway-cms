@@ -1,0 +1,97 @@
+{
+  "title": "What We Do",
+  "header": {
+    "image": "/uploads/IMG_7011 (Large).jpg",
+    "menuColour": "red"
+  },
+  "subtitle": {
+    "subtitle": "Serving the Community",
+    "image": "/uploads/IMG_0807 (Large).jpg"
+  },
+  "deck": {
+    "title": "",
+    "paragraph": "From the Gateway Centre we run several services for the benefit of the wider community.",
+    "colour": "red"
+  },
+  "contents": [
+    {
+      "content": {
+        "left": {
+          "deck": "The Gateway Centre",
+          "image": "/uploads/IMG_0801 (Large).jpg",
+          "colour": "red"
+        },
+        "right": {
+          "deck": "The Gateway Centre provides a context for much of our work with the community. The Centre is available for hire to local groups - contact Wendy Neary for more details.",
+          "colour": "red"
+        }
+      }
+    },
+    {
+      "content": {
+        "left": {
+          "deck": "A group for new parents in our local community to get to know one another.\nWednesdays 12:30-2:00pm.",
+          "colour": "red"
+        },
+        "right": {
+          "deck": "Acomb Babies",
+          "image": "/uploads/IMG_6806 (Large).jpg",
+          "colour": "red"
+        }
+      }
+    },
+    {
+      "content": {
+        "left": {
+          "deck": "Toddler Group",
+          "image": "/uploads/DSC_3450 (Large).JPG",
+          "colour": "red"
+        },
+        "right": {
+          "deck": "A friendly, fun place for parents to bring their toddlers for free play and story time.\nWednesdays 9:30-11:00am.",
+          "colour": "red"
+        }
+      }
+    },
+    {
+      "content": {
+        "left": {
+          "deck": "We partner with the award-winning national charity Christians Against Poverty (CAP) to deliver a free debt advice service to those struggling with unmanageable debt. Our Debt Coaches, Jackie Adie and Lucy den Braber, work with individuals and families to support them out of debt. For more information you can visit the CAP website or call 0800 328 0006.",
+          "colour": "red"
+        },
+        "right": {
+          "deck": "CAP Debt Advice",
+          "image": "/uploads/Vajneishie-punkty-dogovora-na-potrebitelskii-kredit.jpg",
+          "colour": "red"
+        }
+      }
+    },
+    {
+      "content": {
+        "left": {
+          "deck": "Foodbank",
+          "image": "/uploads/Food large.jpg",
+          "colour": "red"
+        },
+        "right": {
+          "deck": "On a Monday we run distribution sessions in partnership with York Foodbank, offering people in crisis 3 days of emergency food and a chance to talk and pray with one of our volunteers.",
+          "colour": "red"
+        }
+      }
+    },
+    {
+      "content": {
+        "left": {
+          "deck": "Several partner agencies run services and projects from the Gateway Centre.\nThey include York Foodbank, Reflect Pregnancy Support, Dayspring Counselling, Restore York, Tiny Toes Music and Alcoholics Anonymous.",
+          "colour": "red"
+        },
+        "right": {
+          "deck": "Partner Agencies",
+          "image": "/uploads/P1100359 (Large).JPG",
+          "colour": "red"
+        }
+      }
+    }
+  ],
+  "optionalContent": "noContent"
+}

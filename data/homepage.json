@@ -1,0 +1,51 @@
+{
+  "header": {
+    "title": "Welcome",
+    "image": "/uploads/church_family.jpg",
+    "menuColour": "red"
+  },
+  "cta": [
+    {
+      "title": "Sundays",
+      "deck": "We gather every Sunday at 10.40am at the Gateway Centre. More details here.",
+      "link": "/sundays",
+      "image": "/uploads/IMG_0072 (Small).jpg",
+      "colour": "green"
+    },
+    {
+      "title": "Upcoming Events",
+      "deck": "Information about all events happening in the coming months.",
+      "link": "/events",
+      "image": "/uploads/Ceilidh - edited.jpg",
+      "colour": "orange"
+    },
+    {
+      "title": "Latest Sermon",
+      "deck": "Listen to the sermon from last Sunday.",
+      "link": "/words",
+      "image": "/uploads/IMG_0051 (Large).jpg",
+      "colour": "purple"
+    }
+  ],
+  "quotes": [
+    {
+      "author": "David",
+      "quote": "I love Gateway. It's my family!"
+    },
+    {
+      "author": "Jill",
+      "quote": "My Lifegroup are the warmest, kindest people."
+    },
+    {
+      "author": "Karen",
+      "quote": "I've been made to feel so welcome at Gateway."
+    }
+  ],
+  "deck": {
+    "text": "<p>Gateway Church is a community of people committed to following Jesus and loving other people. Our church community is made up of people of all ages and from all walks of life. Words on a webpage can never give a true reflection of who we are, so we think the best way to get to know us is to come along on a Sunday then come to one of our monthly welcome lunches.\n</p>",
+    "colour": "orange",
+    "image": "/uploads/IMG_0049 (Large).jpg"
+  },
+  "eventsImage": "/uploads/FullSizeRender (6).jpg",
+  "twitterImage": "/uploads/10904433_10204839081471488_2618138572075207480_o.jpg"
+}

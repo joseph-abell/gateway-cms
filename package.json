@@ -1,0 +1,45 @@
+{
+  "name": "gateway-cms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "serve -p 3001",
+    "import-homepage": "node ./scripts/homepage/index",
+    "import-who-we-are": "node ./scripts/who-we-are/index",
+    "import-what-we-do": "node ./scripts/what-we-do/index",
+    "import-connecting-in": "node ./scripts/connecting-in/index",
+    "import-serving-the-community": "node ./scripts/serving-the-community/index",
+    "import-events-list": "node ./scripts/events-list/index",
+    "import-people-list": "node ./scripts/people-list/index",
+    "import-words-list": "node ./scripts/words-list/index",
+    "import-contact-us": "node ./scripts/contact-us/index",
+    "import-events": "node ./scripts/events/index",
+    "import-people": "node ./scripts/people/index",
+    "import-words": "node ./scripts/words/index",
+    "import-data": "npm run import-homepage; npm run import-who-we-are; npm run import-what-we-do; npm run import-connecting-in; npm run import-serving-the-community; npm run import-events-list; npm run people-list; npm run words-list; npm run import-contact-us; npm run import-events; npm run import-people; npm run import-words;",
+    "build": "node ./create-indexes.js; node ./create-search.js;  node ./create-relationships; node ./resize-images;"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gerbilsinspace/gateway-cms.git"
+  },
+  "author": "Joseph Abell",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gerbilsinspace/gateway-cms/issues"
+  },
+  "homepage": "https://github.com/gerbilsinspace/gateway-cms#readme",
+  "dependencies": {
+    "date-fns": "^2.0.0-alpha.22",
+    "glob": "^7.1.3",
+    "isomorphic-fetch": "^2.2.1",
+    "luxon": "^1.4.3",
+    "music-metadata": "^3.1.4",
+    "prettify-xml": "^1.2.0",
+    "query-string": "^6.2.0",
+    "request": "^2.88.0",
+    "sharp": "^0.20.8",
+    "string-strip-html": "^3.2.0"
+  }
+}

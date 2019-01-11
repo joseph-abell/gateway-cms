@@ -1,0 +1,67 @@
+{
+  "title": "Who we are",
+  "header": {
+    "image": "/uploads/IMG_9968 (Large).jpg",
+    "menuColour": "orange"
+  },
+  "subtitle": {
+    "subtitle": "",
+    "image": "/uploads/IMG_5854a.jpg"
+  },
+  "deck": {
+    "title": "Our church community is made up of people of all ages and from all walks of life. We define our mission in three words: KNOWING, GROWING and GOING.",
+    "paragraph": "Our first priority is to KNOW God - not just knowing things about him, but following him in a life-giving relationship and experiencing his empowering presence. \n\n\nGod wants us to GROW in our faith, and he wants us to grow together as a church community. Both happen as we love and serve one another with the gifts he gives us. \n\n\nBecoming a disciple of Jesus changes our relationship with the world. God calls us to join him in his mission to GO and reach every person with the good news that Jesus is now King. Just as Jesus was sent into the world, he now sends us.",
+    "colour": "orange"
+  },
+  "contents": [
+    {
+      "content": {
+        "left": {
+          "deck": "",
+          "image": "/uploads/IMG_9997.jpg",
+          "colour": "orange"
+        },
+        "right": {
+          "deck": "When new to a church, many people ask “Who are the leaders?”\nAt Gateway Caleb Ellwood leads a team of elders - Nathan Bulley, David Donkin and John Wilson.\nBoth Caleb and John serve as part of the church staff team.",
+          "colour": "orange"
+        }
+      }
+    },
+    {
+      "content": {
+        "left": {
+          "deck": "",
+          "image": "/uploads/John-Wilson-6.jpg",
+          "colour": "orange"
+        },
+        "right": {
+          "colour": "orange"
+        }
+      }
+    },
+    {
+      "content": {
+        "left": {
+          "deck": "Gateway Church relates to ChristCentral Churches, part of the worldwide Newfrontiers network of churches. The ChristCentral Team, led by Jeremy Simpkins, serves a growing number of churches and church plants across Britain and the nations.\nGateway Church subscribes to the Evangelical Alliance Statement of Faith.",
+          "colour": "orange"
+        },
+        "right": {
+          "image": "/uploads/Christ Central Churches.jpg",
+          "colour": "orange"
+        }
+      }
+    },
+    {
+      "content": {
+        "left": {
+          "deck": "Gateway Church is a working name of Gateway (York) CIO. Gateway (York) CIO is a charitable incorporated organisation registered in England and Wales, charity number 1165744. Our profile on the Charity Commission website can be found here.\nOur Data Privacy Notice can be viewed here.\nPrincipal Office: The Gateway Centre, Front Street, Acomb, YORK, YO24 3BZ, UK.",
+          "colour": "orange"
+        },
+        "right": {
+          "colour": "orange"
+        }
+      }
+    }
+  ],
+  "optionalContent": "noContent"
+}

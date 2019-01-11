@@ -1,0 +1,134 @@
+backend:
+    name: git-gateway
+media_folder: uploads
+public_folder: /uploads
+editor:
+    preview: false
+collections:
+    -
+        label: Homepage
+        name: homepage
+        extension: json
+        files:
+            - {label: Homepage, name: homepage, file: data/homepage.json, fields: [{label: Header, name: header, widget: object, fields: [{label: Title, name: title, widget: string}, {label: Image, name: image, widget: image}, {label: 'Menu Colour', name: menuColour, widget: select, options: [{label: Red, value: red}, {label: Orange, value: orange}, {label: Purple, value: purple}, {label: Green, value: green}]}]}, {label: 'Call To Actions', name: cta, widget: list, fields: [{label: Title, name: title, widget: string}, {label: Description, name: deck, widget: text}, {label: Link, name: link, widget: string}, {label: Image, name: image, widget: image}, {label: Colour, name: colour, widget: select, options: [{label: Red, value: red}, {label: Orange, value: orange}, {label: Purple, value: purple}, {label: Green, value: green}]}]}, {label: Quotes, name: quotes, widget: list, fields: [{label: Quote, name: quote, widget: string}, {label: Author, name: author, widget: string}]}, {label: Description, name: deck, widget: object, fields: [{label: Text, name: text, widget: text}, {label: Colour, name: colour, widget: select, options: [{label: Red, value: red}, {label: Orange, value: orange}, {label: Purple, value: purple}, {label: Green, value: green}]}, {label: Image, name: image, widget: image}]}, {label: 'Events Image', name: eventsImage, widget: image}, {label: 'Twitter Image', name: twitterImage, widget: image}]}
+    -
+        label: Menu
+        name: menu
+        extension: json
+        files:
+            - {label: Menu, name: menu, file: data/menu.json, fields: [{label: Menu, name: menu, widget: list, required: false, fields: [{label: Title, name: title, widget: string}, {label: Link, name: link, widget: string}, {label: 'Child Menu', name: childMenu, widget: list, required: false, fields: [{label: Title, name: title, widget: string}, {label: Link, name: link, widget: string}]}]}]}
+    -
+        label: Footer
+        name: footer
+        extension: json
+        files:
+            - {label: Footer, name: footer, file: data/footer.json, fields: [{label: Title, name: title, widget: string}, {label: Address, name: address, widget: object, fields: [{label: Name, name: name, widget: string}, {label: 'Address Line 1', name: addressLine1, widget: string}, {label: 'Address Line 2', name: addressLine2, widget: string}, {label: City, name: city, widget: string}, {label: Postcode, name: postcode, widget: string}]}, {label: Contact, name: contact, widget: object, fields: [{label: Title, name: title, widget: string}, {label: 'Contact number', name: contactNumber, widget: string}, {label: Email, name: email, widget: string}]}, {label: 'Social Media', name: socialMedia, widget: object, fields: [{label: Title, name: title, widget: string}, {label: List, name: list, widget: list, fields: [{label: Image, name: image, widget: image}, {label: Link, name: link, widget: string}]}]}, {label: Credits, name: credits, widget: list, fields: [{label: Role, name: role, widget: string}, {label: Links, name: links, widget: list, fields: [{label: Name, name: name, widget: string}, {label: Link, name: link, widget: string}]}]}]}
+    -
+        label: Logos
+        name: logos
+        folder: data/logos
+        extension: json
+        format: json
+        fields:
+            - {label: Title, name: title, widget: string}
+            - {label: Colour, name: colour, widget: select, options: [{label: Red, value: red}, {label: Orange, value: orange}, {label: Purple, value: purple}, {label: Green, value: green}]}
+            - {label: Image, name: image, widget: image}
+    -
+        label: Pages
+        name: pages
+        folder: data/pages
+        extension: json
+        format: json
+        create: true
+        fields:
+            - {label: Title, name: title, widget: string}
+            - {label: Header, name: header, widget: object, fields: [{label: Image, name: image, widget: image}, {label: 'Menu Colour', name: menuColour, widget: select, options: [{label: Red, value: red}, {label: Orange, value: orange}, {label: Purple, value: purple}, {label: Green, value: green}]}]}
+            - {label: Subtitle, name: subtitle, widget: object, required: false, fields: [{label: Subtitle, name: subtitle, widget: string}, {label: Image, name: image, widget: image}]}
+            - {label: Description, name: deck, widget: object, required: false, fields: [{label: Title, name: title, widget: text}, {label: Paragraph, name: paragraph, widget: text}, {label: Colour, name: colour, widget: select, options: [{label: Red, value: red}, {label: Orange, value: orange}, {label: Purple, value: purple}, {label: Green, value: green}]}]}
+            - {label: Contents, name: contents, widget: list, required: false, fields: [{label: Content, name: content, widget: object, fields: [{label: Left, name: left, widget: object, fields: [{label: Description, name: deck, widget: markdown, required: false}, {label: Image, name: image, widget: image, required: false}, {label: Colour, name: colour, widget: select, options: [{label: Red, value: red}, {label: Orange, value: orange}, {label: Purple, value: purple}, {label: Green, value: green}]}]}, {label: Right, name: right, widget: object, fields: [{label: Description, name: deck, widget: markdown, required: false}, {label: Image, name: image, widget: image, required: false}, {label: Colour, name: colour, widget: select, options: [{label: Red, value: red}, {label: Orange, value: orange}, {label: Purple, value: purple}, {label: Green, value: green}]}]}]}]}
+            - {label: 'Optional Content', name: optionalContent, widget: select, default: noContent, required: false, options: [{label: 'No Content', value: noContent}, {label: Events, value: events}, {label: People, value: people}, {label: Words, value: words}]}
+    -
+        label: Events
+        name: events
+        folder: data/events
+        extension: json
+        format: json
+        create: true
+        fields:
+            - {label: Title, name: title, widget: string}
+            - {label: Draft, name: draft, widget: boolean}
+            - {label: Image, name: image, widget: image}
+            - {label: Header, name: header, widget: object, fields: [{label: 'Menu Colour', name: menuColour, widget: select, options: [{label: Red, value: red}, {label: Orange, value: orange}, {label: Purple, value: purple}, {label: Green, value: green}]}]}
+            - {label: 'Date Time', name: dateTime, widget: datetime}
+            - {label: Description, name: deck, widget: markdown}
+            - {label: Article, name: article, widget: markdown}
+    -
+        label: People
+        name: people
+        folder: data/people
+        extension: json
+        format: json
+        create: true
+        fields:
+            - {label: Title, name: title, widget: string}
+            - {label: Description, name: deck, widget: markdown}
+            - {label: 'Menu Colour', name: menuColour, widget: select, options: [{label: Red, value: red}, {label: Orange, value: orange}, {label: Purple, value: purple}, {label: Green, value: green}]}
+            - {label: Image, name: image, widget: image}
+            - {label: Email, name: email, widget: string, required: false}
+            - {label: 'Phone Number', name: phoneNumber, required: false, widget: string}
+            - {label: 'Title / Role', name: titleRole, widget: string}
+            - {label: Filters, name: filters, widget: object, fields: [{label: All, name: all, widget: select, default: 'true', options: [{label: Yes, value: 'true'}, {label: No, value: 'false'}]}, {label: Elders, name: elders, widget: select, default: 'false', options: [{label: No, value: 'false'}, {label: Yes, value: 'true'}]}, {label: 'Lifegroup Leaders', name: lifegroupLeaders, widget: select, default: 'false', options: [{label: No, value: 'false'}, {label: Yes, value: 'true'}]}, {label: 'Ministry Leaders', name: ministryLeaders, widget: select, default: 'false', options: [{label: No, value: 'false'}, {label: Yes, value: 'true'}]}, {label: Staff, name: staff, widget: select, default: 'false', options: [{label: No, value: 'false'}, {label: Yes, value: 'true'}]}, {label: Trustees, name: trustees, widget: select, default: 'false', options: [{label: No, value: 'false'}, {label: Yes, value: 'true'}]}]}
+    -
+        label: 'People Filters'
+        name: peopleFilters
+        folder: data/peopleFilters
+        extension: json
+        format: json
+        create: true
+        fields:
+            - {label: Title, name: title, widget: string}
+            - {label: Name, name: name, widget: string}
+            - {label: Colour, name: colour, widget: select, options: [{label: Red, value: red}, {label: Orange, value: orange}, {label: Purple, value: purple}, {label: Green, value: green}]}
+            - {label: Deck, name: deck, widget: text}
+    -
+        label: Words
+        name: words
+        folder: data/words
+        extension: json
+        format: json
+        create: true
+        fields:
+            - {label: Title, name: title, widget: string}
+            - {label: Date, name: date, widget: date}
+            - {label: Subtitle, name: subtitle, widget: string}
+            - {label: Image, name: image, widget: image}
+            - {label: Description, name: deck, widget: markdown}
+            - {label: Authors, name: authors, widget: list, fields: [{label: Author, name: author, widget: relation, collection: people, searchFields: [title], valueField: title}]}
+            - {label: Tags, name: tags, widget: list, fields: [{label: Tag, name: tag, widget: relation, collection: tags, searchFields: [title], valueField: title}]}
+            - {label: 'Audio File', name: audioFile, widget: string, required: false}
+            - {label: File, name: file, widget: file, required: false}
+            - {label: 'Youtube link', name: youtubeLink, widget: string, required: false}
+            - {label: Colour, name: colour, widget: select, options: [{label: Red, value: red}, {label: Orange, value: orange}, {label: Purple, value: purple}, {label: Green, value: green}]}
+            - {label: 'Show on Podcast', name: showOnPodcast, widget: boolean, required: false}
+            - {label: 'iTunes Image', name: itunesImage, widget: image, required: false}
+    -
+        label: 'Contact Us'
+        name: contactUs
+        extension: json
+        files:
+            - {label: 'Contact Us', name: contactUs, file: data/contact-us.json, fields: [{label: Title, name: title, widget: string}, {label: Image, name: image, widget: image}, {label: 'Menu Colour', name: menuColour, widget: select, options: [{label: Red, value: red}, {label: Orange, value: orange}, {label: Purple, value: purple}, {label: Green, value: green}]}, {label: 'Content Image', name: contentImage, widget: image}, {label: Description, name: deck, widget: text}]}
+    -
+        label: 'Podcast Information'
+        name: podcastInfo
+        extension: json
+        files:
+            - {label: 'Podcast Information', name: podcastInfo, file: data/podcast-info.json, fields: [{label: Title, name: title, widget: string}, {label: Link, name: link, widget: string}, {label: Copyright, name: copyright, widget: string}, {label: Subtitle, name: subtitle, widget: string}, {label: Author, name: author, widget: string}, {label: Summary, name: summary, widget: string}, {label: 'Owner Name', name: ownerName, widget: string}, {label: 'Support Email', name: supportEmail, widget: string}, {label: Image, name: image, widget: image}]}
+    -
+        label: Tags
+        name: tags
+        folder: data/tags
+        extension: json
+        format: json
+        create: true
+        fields:
+            - {label: Title, name: title, widget: string}

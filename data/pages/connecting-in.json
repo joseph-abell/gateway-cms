@@ -1,0 +1,120 @@
+{
+  "title": "What We Do",
+  "header": {
+    "image": "/uploads/IMG_7011 (Large).jpg",
+    "menuColour": "green"
+  },
+  "subtitle": {
+    "subtitle": "Connecting In",
+    "image": "/uploads/Group - edited.jpg"
+  },
+  "deck": {
+    "title": "",
+    "paragraph": "Throughout the Bible we see the church described in all kinds of word pictures. Each one speaks of connectedness and relationship. At Gateway we are passionate about people connecting with one another and encouraging one another. Whatever your life stage, we want to help you discover God's best for you. ",
+    "colour": "green"
+  },
+  "contents": [
+    {
+      "content": {
+        "left": {
+          "deck": "Welcome Lunch",
+          "image": "/uploads/soup.jpg",
+          "colour": "green"
+        },
+        "right": {
+          "deck": "We feel that one of the best ways for newcomers to get connected in to other people at Gateway Church is to come along to a Welcome Lunch. They are held monthly towards the end of the month, at various church members homes. They provide an opportunity to meet people and ask questions about Gateway. The next Welcome Lunch can be found on the Events page.",
+          "colour": "green"
+        }
+      }
+    },
+    {
+      "content": {
+        "left": {
+          "deck": "Lifegroups are small groups of 8-12 people meeting in people's homes across the city of York. Lifegroups form the backbone of our church community, enabling people to connect on a deeper level in a small group. We believe that transformation happens in the context of relationships, and Lifegroups are a great place to learn and grow together. Email office@gatewaychurch.co.uk if you're interested in joining one.",
+          "colour": "green"
+        },
+        "right": {
+          "deck": "Lifegroups",
+          "image": "/uploads/IMG_6185a - edited.jpg",
+          "colour": "green"
+        }
+      }
+    },
+    {
+      "content": {
+        "left": {
+          "image": "/uploads/the city.jpg",
+          "colour": "green"
+        },
+        "right": {
+          "deck": "To help people communicate with one another, we have our own social media website called The City. If you have already set up an account, you can click through to it here and enter your username and password.\nIf you would like to join The City, please contact the office.",
+          "colour": "green"
+        }
+      }
+    },
+    {
+      "content": {
+        "left": {
+          "deck": "We are passionate about children and young people at Gateway. Our heart is to see children grow up with a genuine relationship with Jesus. We provide several activities and groups through the week for parents, children and young people. During our Sunday worship services we also cater for children and young people with age-specific groups. For enquiries about youth work contact Laura Crane, and for children's work contact Sarah Hogben.",
+          "colour": "green"
+        },
+        "right": {
+          "deck": "Children and Youth",
+          "image": "/uploads/15631111_10157960361465296_136285202_o (1).jpg",
+          "colour": "green"
+        }
+      }
+    },
+    {
+      "content": {
+        "left": {
+          "deck": "Acomb Babies\nA group for new parents in our local community to get to know one another.\nWednesdays 12:30-2:00pm.",
+          "colour": "green"
+        },
+        "right": {
+          "deck": "Gateway Toddlers\nA friendly, fun place for parents to bring their toddlers for free play and story time.\nWednesdays 9:30-11:00am.",
+          "colour": "green"
+        }
+      }
+    },
+    {
+      "content": {
+        "left": {
+          "deck": "Lights\nA group for young people (school year 7 upwards) to explore more about what it means to follow Jesus. Games, worship, talks, groups, activities, trips out and more.\nFridays 7:00-9:00pm\nFor more information contact Laura Crane.",
+          "colour": "green"
+        },
+        "right": {
+          "deck": "Sundays\nAs part of our weekly worship gathering we offer provision for children and young people up to the age of 16.\nSee the Info Point on Sundays for more details.",
+          "colour": "green"
+        }
+      }
+    },
+    {
+      "content": {
+        "left": {
+          "deck": "Oasis",
+          "image": "/uploads/IMG_0798 (Large).jpg",
+          "colour": "green"
+        },
+        "right": {
+          "deck": "A friendly group for the over 65s offering hot drinks and snacks and a place for people to meet together for friendship and fellowship.\nFridays 10:00am-12:00pm",
+          "colour": "green"
+        }
+      }
+    },
+    {
+      "content": {
+        "left": {
+          "deck": "Connect, an informal gathering hosted by Caleb Ellwood, is an opportunity to learn more about Gateway's distinctives as a church family and hear about how to become a Member of Gateway Church.\nDetails of the next Connect can be found in the Events section.",
+          "colour": "green"
+        },
+        "right": {
+          "deck": "Connect",
+          "image": "/uploads/IMG_5867a - edited.jpg",
+          "colour": "green"
+        }
+      }
+    }
+  ],
+  "optionalContent": "noContent"
+}

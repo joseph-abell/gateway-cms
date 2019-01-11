@@ -1,0 +1,18 @@
+{
+  "authors": [
+    {
+      "author": "christine-hobson"
+    },
+    {
+      "author": "john-wilson"
+    }
+  ],
+  "showOnPodcast": false,
+  "itunesImage": "/uploads/logo.jpg",
+  "colour": "red",
+  "date": "2016-07-03T11:59:00+01:00",
+  "audioFile": "/uploads/160703 Interview.mp3",
+  "subtitle": "John Wilson interviews Christine Hobson about her time overseas, and her appointment to the staff team at Gateway.",
+  "title": "An interview with Christine Hobson",
+  "image": "/uploads/Interview.jpg"
+}

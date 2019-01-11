@@ -1,0 +1,17 @@
+{
+  "title": "Events",
+  "header": {
+    "image": "/uploads/aerial.jpg",
+    "menuColour": "green"
+  },
+  "subtitle": {
+    "subtitle": "",
+    "image": "/uploads/squish.jpg"
+  },
+  "deck": {
+    "title": "",
+    "paragraph": "Our Sunday morning worship services take place at the Gateway Centre, Front Street, YO24 3BZ. The services start at 10.40am, with tea/coffee served from 10.15am. \nThere are always plenty of other things also happening at Gateway. Click on any event below to see more details.",
+    "colour": "green"
+  },
+  "optionalContent": "events"
+}

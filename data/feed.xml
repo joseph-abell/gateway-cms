@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Gateway Church York</title>
+    <link>https://www.gatewaychurch.co.uk/data/feed.xml</link>
+    <language>en</language>
+    <copyright>© Gateway Church</copyright>
+    <itunes:subtitle>Gateway Church York, Gateway Church York, Gateway Church York, Gateway Church York, Gateway Church York</itunes:subtitle>
+    <itunes:author>Joseph Abell</itunes:author>
+    <itunes:summary>Gateway Church York, Gateway Church York, Gateway Church York, Gateway Church York, Gateway Church York, Gateway Church York, Gateway Church York, Gateway Church York, Gateway Church York, Gateway Church York, Gateway Church York, Gateway Church York</itunes:summary>
+    <description>Gateway Church York, Gateway Church York, Gateway Church York, Gateway Church York, Gateway Church York, Gateway Church York, Gateway Church York, Gateway Church York, Gateway Church York, Gateway Church York, Gateway Church York, Gateway Church York</description>
+    <itunes:owner>
+      <itunes:name>Caleb Ellwood</itunes:name>
+      <itunes:email>gatewaychurch@josephabell.co.uk</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://data.gatewaychurch.co.uk/uploads/church_family.jpg"/>
+    <itunes:category text="Religion & Spirituality"/>
+    <itunes:explicit>no</itunes:explicit>
+    <item>
+      <enclosure url="https://data.gatewaychurch.co.uk/uploads/20180916-john-wilson.mp3" length="34075260" type="audio/mpeg"/>
+      <description>You can watch the Alpha video that Jon mentions below</description>
+      <guid>Bought With a Price - Sat, 01 Sep 2018 23:00:00 GMT</guid>
+      <title>Bought With a Price</title>
+      <pubDate>Sat, 01 Sep 2018 23:00:00 GMT</pubDate>
+      <author>Caleb Ellwood</author>
+      <itunes:image>/uploads/general-sermon.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>2027.7289795918368</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk//uploads/general-sermon.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://data.gatewaychurch.co.uk/uploads/20180916-john-wilson.mp3" length="34075260" type="audio/mpeg"/>
+      <description>asdfadsfdsaf</description>
+      <guid>dfasdfadsfdsaf - Sun, 07 Oct 2018 23:00:00 GMT</guid>
+      <title>dfasdfadsfdsaf</title>
+      <pubDate>Sun, 07 Oct 2018 23:00:00 GMT</pubDate>
+      <author>Caleb Ellwood</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>2027.7289795918368</itunes:duration>
+    </item>
+  </channel>
+</rss>

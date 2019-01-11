@@ -1,0 +1,14 @@
+{
+  "authors": [
+    { "author": "john-wilson" }
+  ],
+  "showOnPodcast": true,
+  "deck": "John Wilson continues our mini-series with the second part of Stop. Look. Listen.",
+  "itunesImage": "/uploads/logo.jpg",
+  "colour": "green",
+  "date": "2016-04-24T12:00:00+01:00",
+  "audioFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/160424%20John%20Wilson.mp3",
+  "subtitle": "John Wilson continues our mini-series with the second part of Stop. Look. Listen.",
+  "title": "Stop. Look. Listen (Part 2)",
+  "image": "/uploads/stop look listen.jpg"
+}
