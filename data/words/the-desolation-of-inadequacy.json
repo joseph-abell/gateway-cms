@@ -8,7 +8,7 @@
   "itunesImage": "/uploads/logo.jpg",
   "colour": "green",
   "date": "2018-05-20T12:00:00+01:00",
-  "audioFile": "/uploads/20180520 Caleb Ellwood.mp3",
+  "audioFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/uploads/20180520 Caleb Ellwood.mp3",
   "subtitle": "Caleb leads the church in a response to a picture God gave him",
   "title": "The Desolation of Inadequacy",
   "image": "/uploads/General Sermon.jpg"

@@ -8,7 +8,7 @@
   "itunesImage": "/uploads/logo.jpg",
   "colour": "green",
   "date": "2017-09-10T12:00:00+01:00",
-  "audioFile": "/uploads/170910 Caleb Ellwood.mp3",
+  "audioFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/uploads/170910 Caleb Ellwood.mp3",
   "subtitle": "Before we begin a new series on Colossians next week, Caleb starts a conversation on what it means to have faith in Jesus in 21st century Britain. ",
   "title": "The Power You Have Today",
   "image": "/uploads/General Sermon.jpg"

@@ -8,7 +8,7 @@
   "itunesImage": "/uploads/logo.jpg",
   "colour": "green",
   "date": "2015-05-03T12:00:00+01:00",
-  "audioFile": "/uploads/150503 Billy Geraghty.mp3",
+  "audioFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/uploads/150503 Billy Geraghty.mp3",
   "subtitle": "Billy Geraghty tells us his story and encourages us to make the right choices when challenging times hit.",
   "title": "Choices in the wilderness",
   "image": "/uploads/IMG_7161 (Large).jpg"

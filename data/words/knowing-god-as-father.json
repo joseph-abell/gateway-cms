@@ -8,7 +8,7 @@
   "itunesImage": "/uploads/logo.jpg",
   "colour": "green",
   "date": "2017-08-25T20:00:00+01:00",
-  "audioFile": "/uploads/20170825 Church Weekend Away Session 1.mp3",
+  "audioFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/uploads/20170825 Church Weekend Away Session 1.mp3",
   "subtitle": "Dave Matthias begins our Church Weekend Away by sharing his experience of knowing God as Father",
   "title": "Knowing God As Father",
   "image": "/uploads/Group.jpg"

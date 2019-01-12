@@ -8,7 +8,7 @@
   "itunesImage": "/uploads/logo.jpg",
   "colour": "green",
   "date": "2016-03-20T12:00:00+00:00",
-  "audioFile": "/uploads/160320 Rachael Bulley.mp3",
+  "audioFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/uploads/160320 Rachael Bulley.mp3",
   "subtitle": "On Palm Sunday, Rachael Bulley takes us through the story of Jesus entering Jerusalem and the expectations of the crowds of people cheering him on.",
   "title": "The triumphal entry",
   "image": "/uploads/IMG_7161 (Large).jpg"

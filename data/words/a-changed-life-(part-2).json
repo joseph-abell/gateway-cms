@@ -8,7 +8,7 @@
   "itunesImage": "/uploads/logo.jpg",
   "colour": "green",
   "date": "2015-05-10T12:00:00+01:00",
-  "audioFile": "/uploads/150510 John Wilson.mp3",
+  "audioFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/uploads/150510 John Wilson.mp3",
   "subtitle": "John gives part two of his message about how we fundamentally change when we follow Jesus.",
   "title": "A changed life (part 2)",
   "image": "/uploads/Ephesians.jpg"

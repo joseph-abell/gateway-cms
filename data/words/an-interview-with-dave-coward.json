@@ -11,7 +11,7 @@
   "itunesImage": "/uploads/logo.jpg",
   "colour": "red",
   "date": "2016-11-06T11:59:00+00:00",
-  "audioFile": "/uploads/161106 Interview Dave Coward.mp3",
+  "audioFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/uploads/161106 Interview Dave Coward.mp3",
   "subtitle": "Dave Coward shares his thoughts on being a welcoming church",
   "title": "An Interview with Dave Coward",
   "image": "/uploads/Interview.jpg"

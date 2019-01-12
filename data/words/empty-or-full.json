@@ -11,7 +11,7 @@
   "itunesImage": "/uploads/logo.jpg",
   "colour": "green",
   "date": "2016-05-29T12:00:00+01:00",
-  "audioFile": "/uploads/160529 John Wilson.mp3",
+  "audioFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/uploads/160529 John Wilson.mp3",
   "subtitle": "John Wilson begins a two part series looking at how the Spiritual Gifts work in the local church.",
   "title": "Empty or full?",
   "image": "/uploads/IMG_7161 (Large).jpg"

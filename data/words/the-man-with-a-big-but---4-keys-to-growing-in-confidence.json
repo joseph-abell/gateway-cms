@@ -8,7 +8,7 @@
   "itunesImage": "/uploads/logo.jpg",
   "colour": "green",
   "date": "2016-09-11T12:00:00+01:00",
-  "audioFile": "/uploads/1609011 John Wilson.mp3",
+  "audioFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/uploads/1609011 John Wilson.mp3",
   "subtitle": "John Wilson shares four keys to growing in confidence from the story of Jephthah in the book of Judges",
   "title": "The Man with a Big But - 4 Keys to Growing in Confidence",
   "image": "/uploads/IMG_7161 (Small).jpg"

@@ -8,7 +8,7 @@
   "itunesImage": "/uploads/logo.jpg",
   "colour": "green",
   "date": "2018-02-04T12:00:00+00:00",
-  "audioFile": "/uploads/20180204 Caleb Ellwood.mp3",
+  "audioFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/uploads/20180204 Caleb Ellwood.mp3",
   "subtitle": "Caleb starts a new series on the DNA of the church by sharing a picture God gave him and looking at 3 images of the church in the Bible. ",
   "title": "DNA: Lifting the Blanket",
   "image": "/uploads/DNA.jpg"

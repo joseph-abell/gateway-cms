@@ -8,7 +8,7 @@
   "itunesImage": "/uploads/logo.jpg",
   "colour": "green",
   "date": "2017-06-25T12:00:00+01:00",
-  "audioFile": "/uploads/170625 Caleb Elwood.mp3",
+  "audioFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/uploads/170625 Caleb Elwood.mp3",
   "subtitle": "Caleb concludes our Kingdom Living series as we reach the end of Jesus' Sermon on the Mount",
   "title": "A Sermon on a Sermon",
   "image": "/uploads/Kingdom Living.jpg"

@@ -8,7 +8,7 @@
   "itunesImage": "/uploads/logo.jpg",
   "colour": "green",
   "date": "2015-01-11T12:00:00+00:00",
-  "audioFile": "/uploads/150111 Peter Sloan.mp3",
+  "audioFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/uploads/150111 Peter Sloan.mp3",
   "title": "Knowing",
   "image": "/uploads/Jesus the man.jpg"
 }

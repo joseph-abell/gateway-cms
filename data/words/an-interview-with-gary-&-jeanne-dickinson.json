@@ -14,7 +14,7 @@
   "itunesImage": "/uploads/logo.jpg",
   "colour": "red",
   "date": "2016-02-07T11:59:00+00:00",
-  "audioFile": "/uploads/160207 Dickinsons Interview.mp3",
+  "audioFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/uploads/160207 Dickinsons Interview.mp3",
   "subtitle": "Caleb Ellwood interviews Gary and Jeanne Dickinson about how God has been their rock and fortress through ongoing challenges.",
   "title": "An interview with Gary & Jeanne Dickinson",
   "image": "/uploads/General Sermon.jpg"

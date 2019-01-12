@@ -8,7 +8,7 @@
   "itunesImage": "/uploads/logo.jpg",
   "colour": "green",
   "date": "2016-12-25T12:00:00+00:00",
-  "audioFile": "/uploads/161225 Dan Wheeler.mp3",
+  "audioFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/uploads/161225 Dan Wheeler.mp3",
   "subtitle": "Dan Wheeler shares at our Christmas morning all-age celebration",
   "title": "A Christmas Gift",
   "image": "/uploads/General Sermon.jpg"

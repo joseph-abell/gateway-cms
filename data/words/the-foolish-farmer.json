@@ -8,7 +8,7 @@
   "itunesImage": "/uploads/logo.jpg",
   "colour": "green",
   "date": "2015-07-26T12:00:00+01:00",
-  "audioFile": "/uploads/150726 Jamie Holliday.mp3",
+  "audioFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/uploads/150726 Jamie Holliday.mp3",
   "subtitle": "Jamie Holliday continues our summer series with teaching from Jesus' parable of the foolish farmer.",
   "title": "The foolish farmer",
   "image": "/uploads/Parables.jpg"

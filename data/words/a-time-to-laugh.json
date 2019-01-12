@@ -8,7 +8,7 @@
   "itunesImage": "/uploads/logo.jpg",
   "colour": "green",
   "date": "2018-11-25T12:00:00+00:00",
-  "audioFile": "/uploads/20181125 John Wilson.mp3",
+  "audioFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/uploads/20181125 John Wilson.mp3",
   "subtitle": "God sets His redemptive plan in motion through Abraham and Sarah",
   "title": "A Time to Laugh",
   "image": "/uploads/The Promise.jpg"

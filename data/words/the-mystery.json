@@ -8,7 +8,7 @@
   "itunesImage": "/uploads/logo.jpg",
   "colour": "green",
   "date": "2017-10-01T12:00:00+01:00",
-  "audioFile": "/uploads/171001 Rachel Bulley.mp3",
+  "audioFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/uploads/171001 Rachel Bulley.mp3",
   "subtitle": "Rachael continues our series on Colossians as she looks at the the mystery revealed through Jesus",
   "title": "The Mystery",
   "image": "/uploads/Colossians.jpg"

@@ -8,7 +8,7 @@
   "itunesImage": "/uploads/logo.jpg",
   "colour": "green",
   "date": "2018-10-07T12:00:00+01:00",
-  "audioFile": "/uploads/20181007 Mike Sprenger.mp3",
+  "audioFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/uploads/20181007 Mike Sprenger.mp3",
   "subtitle": "Mike Sprenger takes a look at Isaiah 6 and reminds us that everything starts with a meeting with God",
   "title": "I Saw the Lord",
   "image": "/uploads/General Sermon.jpg"

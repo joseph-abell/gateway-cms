@@ -8,7 +8,7 @@
   "itunesImage": "/uploads/logo.jpg",
   "colour": "green",
   "date": "2016-11-06T12:00:00+00:00",
-  "audioFile": "/uploads/161106 Caleb Ellwood.mp3",
+  "audioFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/uploads/161106 Caleb Ellwood.mp3",
   "subtitle": "Caleb begins a two-part series looking at Galatians 5",
   "title": "Freedom",
   "image": "/uploads/Living Free.jpg"

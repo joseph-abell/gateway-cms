@@ -8,7 +8,7 @@
   "itunesImage": "/uploads/logo.jpg",
   "colour": "green",
   "date": "2018-04-08T12:00:00+01:00",
-  "audioFile": "/uploads/20180408 John Wilson.mp3",
+  "audioFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/uploads/20180408 John Wilson.mp3",
   "subtitle": "John looks at how we can press in to see more of God's healing power",
   "title": "Healing",
   "image": "/uploads/General Sermon.jpg"

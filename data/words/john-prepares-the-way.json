@@ -8,7 +8,7 @@
   "itunesImage": "/uploads/logo.jpg",
   "colour": "green",
   "date": "2017-01-08T12:00:00+00:00",
-  "audioFile": "/uploads/170108 David Donkin.mp3",
+  "audioFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/uploads/170108 David Donkin.mp3",
   "subtitle": "David Donkin begins our new Starting Right series and speaks on John the Baptist preparing the way",
   "title": "John Prepares the Way",
   "image": "/uploads/Starting Right.jpg"

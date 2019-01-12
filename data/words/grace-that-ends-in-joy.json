@@ -8,7 +8,7 @@
   "itunesImage": "/uploads/logo.jpg",
   "colour": "green",
   "date": "2018-09-16T12:00:00+01:00",
-  "audioFile": "/uploads/20180916 John Wilson.mp3",
+  "audioFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/uploads/20180916 John Wilson.mp3",
   "subtitle": "In the second talk of our \"This is Grace\" series, we look at the wedding at Cana and hear about the grace that never runs out",
   "title": "Grace That Ends In Joy",
   "image": "/uploads/This is Grace.jpg"
