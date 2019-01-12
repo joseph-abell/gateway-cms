@@ -68,11 +68,11 @@
     {
       "content": {
         "left": {
-          "deck": "Acomb Babies\nA group for new parents in our local community to get to know one another.\nWednesdays 12:30-2:00pm.",
+          "deck": "## Acomb Babies\n\n\nA group for new parents in our local community to get to know one another.\n\nWednesdays 12:30-2:00pm.",
           "colour": "green"
         },
         "right": {
-          "deck": "Gateway Toddlers\nA friendly, fun place for parents to bring their toddlers for free play and story time.\nWednesdays 9:30-11:00am.",
+          "deck": "## Gateway Toddlers\n\nA friendly, fun place for parents to bring their toddlers for free play and story time.\n\nWednesdays 9:30-11:00am.",
           "colour": "green"
         }
       }
@@ -80,11 +80,11 @@
     {
       "content": {
         "left": {
-          "deck": "Lights\nA group for young people (school year 7 upwards) to explore more about what it means to follow Jesus. Games, worship, talks, groups, activities, trips out and more.\nFridays 7:00-9:00pm\nFor more information contact Laura Crane.",
+          "deck": "## Lights\n\n\nA group for young people (school year 7 upwards) to explore more about what it means to follow Jesus. Games, worship, talks, groups, activities, trips out and more.\n\n\nFridays 7:00-9:00pm\n\n\nFor more information contact Laura Crane.",
           "colour": "green"
         },
         "right": {
-          "deck": "Sundays\nAs part of our weekly worship gathering we offer provision for children and young people up to the age of 16.\nSee the Info Point on Sundays for more details.",
+          "deck": "## Sundays\n\nAs part of our weekly worship gathering we offer provision for children and young people up to the age of 16.\n\nSee the Info Point on Sundays for more details.",
           "colour": "green"
         }
       }
