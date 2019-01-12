@@ -7,7 +7,6 @@ const {promisify} = require('es6-promisify');
 
 const f = promisify(fetch);
 const g = promisify(glob);
-console.log(f);
 
 (async () => {
   const filenames = await g('data/words/*.*', {});
@@ -23,7 +22,7 @@ console.log(f);
     }))
     let result = JSON.stringify(file, null, 2);
     mp3s.forEach(mp3 => {
-      result = result.split(mp3.old).join(mp3.n);
+      result = result.split(mp3.old).join(mp3.new);
     });
     fs.writeFileSync(filename, result, 'utf8');
   });
