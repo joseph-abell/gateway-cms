@@ -56,7 +56,7 @@ collections:
         create: true
         fields:
             - {label: Title, name: title, widget: string}
-            - {label: Draft, name: draft, widget: boolean}
+            - {label: Draft, name: draft, widget: boolean, required: false}
             - {label: Image, name: image, widget: image}
             - {label: Header, name: header, widget: object, fields: [{label: 'Menu Colour', name: menuColour, widget: select, options: [{label: Red, value: red}, {label: Orange, value: orange}, {label: Purple, value: purple}, {label: Green, value: green}]}]}
             - {label: 'Date Time', name: dateTime, widget: datetime}
