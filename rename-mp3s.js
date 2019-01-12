@@ -8,12 +8,12 @@ glob('data/words/*.*', {}, (err, filenames) => {
     const file = JSON.parse(fs.readFileSync(filename, 'utf8'));
     const flatFile = flat(file);
     const mp3s = Object.values(flatFile).filter(
-      f => typeof f === 'string' && f.includes('.mp3'),
-    ).map(old => ({old, n: encodeurl(old)}));
+      f => typeof f === 'string' && f.includes('.mp3') && f.includes('upload'),
+    ).map(f => ({old: f, n: f.split('/uploads/').join('/')}));
     let result = JSON.stringify(file, null, 2);
     mp3s.forEach(mp3 => {
-      result = result.split(mp3.old).join(mp3.n)
+      result = result.split(mp3.old).join(mp3.n);
     });
-    fs.writeFileSync(filename, result, 'utf8');
+    fs.writeFileSync(filename, result, 'utf8')
   });
 });
