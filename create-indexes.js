@@ -89,7 +89,7 @@ const addDataToFileStructure = async fileStructure => {
   data.forEach(item => {
     const keys = Object.keys(fileStructure);
     keys.forEach(key => {
-      if (`${item.title.split(',').join('')}.json` === key) {
+      if (`${item.title.split(',').join('').split("'").join('')}.json` === key) {
         fileStructure[key].data = item.json;
       }
     });
