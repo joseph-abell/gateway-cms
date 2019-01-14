@@ -2,8 +2,8 @@ const {
   getDataPromise,
   getFileNamesPromise,
   writeFile,
-  flatten
-} = require("./helpers");
+  flatten,
+} = require('./helpers');
 
 const getFileNames = async pageTypes => {
   // We have a lot of different page types to create index files for.
@@ -40,7 +40,7 @@ const getFileNames = async pageTypes => {
 
   const fileNames = await Promise.all(promises);
 
-  return flatten(fileNames).filter(file => !file.includes("index.json"));
+  return flatten(fileNames).filter(file => !file.includes('index.json'));
 };
 
 const buildFileStructure = async fileNames => {
@@ -56,7 +56,7 @@ const buildFileStructure = async fileNames => {
   const fileStructure = {};
 
   fileNames.forEach(async fileName => {
-    const splitName = fileName.split("/");
+    const splitName = fileName.split('/');
     const type = splitName[splitName.length - 2];
     const appendix = splitName[splitName.length - 1];
     const url = `https://gateway-cms.netlify.com/data/${type}/${appendix}`;
@@ -64,7 +64,7 @@ const buildFileStructure = async fileNames => {
     fileStructure[appendix] = {
       url,
       type,
-      data: getDataPromise(fileName)
+      data: getDataPromise(fileName),
     };
   });
 
@@ -89,12 +89,25 @@ const addDataToFileStructure = async fileStructure => {
   data.forEach(item => {
     const keys = Object.keys(fileStructure);
     keys.forEach(key => {
-      if (`${item.title.split(',').join('').split("'").join('')}.json` === key) {
+      if (
+        `${item.title
+          .split('(')
+          .join('')
+          .split(')')
+          .join('')
+          .split('%26')
+          .join('')
+          .split('&')
+          .join('')
+          .split(',')
+          .join('')
+          .split("'")
+          .join('')}.json` === key
+      ) {
         fileStructure[key].data = item.json;
       }
     });
   });
-
 
   return fileStructure;
 };
@@ -110,12 +123,12 @@ const buildIndexFiles = fileStructure => {
 
 const saveIndexFiles = (pageTypes, indexPages) => {
   pageTypes.forEach(type => {
-    writeFile(type, "index.json", indexPages[type]);
+    writeFile(type, 'index.json', indexPages[type]);
   });
 };
 
 const createIndexes = async () => {
-  const pageTypes = ["events", "pages", "people", "peopleFilters", "words"];
+  const pageTypes = ['events', 'pages', 'people', 'peopleFilters', 'words'];
   const fileNames = await getFileNames(pageTypes);
   let fileStructure = await buildFileStructure(fileNames);
   fileStructure = await addDataToFileStructure(fileStructure);
