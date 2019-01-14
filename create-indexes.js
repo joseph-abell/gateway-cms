@@ -97,8 +97,6 @@ const addDataToFileStructure = async fileStructure => {
           .join('')
           .split('%26')
           .join('')
-          .split('&')
-          .join('')
           .split(',')
           .join('')
           .split("'")
