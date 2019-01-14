@@ -105,6 +105,8 @@ const addDataToFileStructure = async fileStructure => {
           .join('')
           .split("'")
           .join('')
+          .split('!')
+          .join('')
           .trim()}.json` === key
       ) {
         fileStructure[key].data = item.json;
