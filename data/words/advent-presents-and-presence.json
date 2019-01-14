@@ -7,9 +7,14 @@
   "showOnPodcast": true,
   "itunesImage": "/uploads/logo.jpg",
   "colour": "green",
-  "date": "2018-12-16T12:00:00+00:00",
+  "date": "2018-12-16",
   "audioFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20181216%2520Mike%2520Sprenger.mp3",
   "subtitle": "Mike Sprenger speaks about the message of hope that Advent brings",
   "title": "Advent, Presents and Presence",
+  "tags": [
+    {
+      "tag": "Advent"
+    }
+  ],
   "image": "/uploads/General Sermon.jpg"
 }
