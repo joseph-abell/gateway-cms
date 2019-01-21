@@ -6,9 +6,8 @@ const createRelationships = async () => {
 
   Object.entries(words).forEach(([wordFileName, { data } = {}]) => {
     const { authors, title } = data;
-
     if (authors) {
-      authors.forEach(author => {
+      authors.forEach(({author = 'caleb-ellwood'}) => {
         if (!peopleData[author]) {
           peopleData[author] = [title];
         } else {
