@@ -1,10 +1,11 @@
 {
   "title": "Connect",
   "image": "/uploads/Connect Image.jpg",
+  "listImage": "/uploads/Connect Logo.jpg",
   "header": {
     "menuColour": "green"
   },
   "dateTime": "2019-03-07T19:30:00+00:00",
   "deck": "New to Gateway? Come along to Connect",
-  "article": "<iframe frameborder=\"0\" height=\"1000\" scrolling=\"yes\" src=\"https://gateway.churchsuite.co.uk/events/k9cexdba?details=1&photo=0&description=1&location=1&gmap=0&signup_form=1\" style=\"border-width:0\" width=\"100%\"></iframe>"
+  "article": "For full details and to reserve your place, go to: <https://gateway.churchsuite.co.uk/events/k9cexdba>"
 }
