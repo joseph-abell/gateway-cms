@@ -5,10 +5,7 @@
   "image": "/uploads/Jeanne (Small).jpg",
   "titleRole": "Welcome Ministry Coordinator",
   "filters": {
-    "all": "true",
-    "ministryLeaders": "true"
-  },
-  "words": [
-    "An interview with Gary & Jeanne Dickinson"
-  ]
+    "all": "false",
+    "ministryLeaders": "false"
+  }
 }

@@ -5,12 +5,7 @@
   "image": "/uploads/IMG_4189.jpg",
   "titleRole": "Connect Leader",
   "filters": {
-    "all": "true",
-    "ministryLeaders": "true"
-  },
-  "words": [
-    "Empty or full?",
-    "Gateway Women Together Event",
-    "Reflections from John and Pam's Sabbatical"
-  ]
+    "all": "false",
+    "ministryLeaders": "false"
+  }
 }

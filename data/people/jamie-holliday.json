@@ -5,11 +5,7 @@
   "image": "/uploads/Jamie (Small).JPG",
   "titleRole": "Lifegroup Leader and Cluster Leader",
   "filters": {
-    "all": "true",
-    "lifegroupLeaders": "true"
-  },
-  "words": [
-    "The foolish farmer",
-    "Insecurity"
-  ]
+    "all": "false",
+    "lifegroupLeaders": "false"
+  }
 }

@@ -5,7 +5,7 @@
   "image": "/uploads/Hannah (Small).jpg",
   "titleRole": "Lifegroup leader",
   "filters": {
-    "all": "true",
-    "lifegroupLeaders": "true"
+    "all": "false",
+    "lifegroupLeaders": "false"
   }
 }
