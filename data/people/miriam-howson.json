@@ -5,10 +5,7 @@
   "image": "/uploads/Miriam Howson.jpg",
   "titleRole": "Lifegroup Leader",
   "filters": {
-    "lifegroupLeaders": "true",
-    "all": "true"
-  },
-  "words": [
-    "An Interview with Miriam Howson"
-  ]
+    "all": "false",
+    "lifegroupLeaders": "false"
+  }
 }
