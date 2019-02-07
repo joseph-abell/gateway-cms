@@ -3,22 +3,10 @@
   "deck": "<p>I am the father of Leah, Sarah and Jessica and husband of Rachael. I've been a teacher for far too long, but remain passionate about my favourite subjects: history and politics. Combined with my involvement in church, that probably amounts to three topics never to bring up at dinner parties. I enjoy reading and photography as well as the occasional data-related spreadsheet.\n</p>",
   "menuColour": "green",
   "image": "/uploads/nathan bulley.jpg",
-  "titleRole": "Elder and Trustee",
+  "titleRole": "Elder, Trustee and Lifegroup Leader",
   "filters": {
     "all": "true",
     "elders": "true",
-    "preachingTeam": "true",
     "trustees": "true"
-  },
-  "words": [
-    "Stepping up; stepping out",
-    "Speculate to accumulate",
-    "Love and life",
-    "I AM",
-    "God is good",
-    "The Righteous",
-    "Jesus and...",
-    "A Tale of Three Monuments",
-    "Choose Faith"
-  ]
+  }
 }
