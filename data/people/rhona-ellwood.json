@@ -5,7 +5,7 @@
   "image": "/uploads/Rhona.jpg",
   "titleRole": "Together (Women's meetings) Co-ordinator",
   "filters": {
-    "all": "true",
-    "ministryLeaders": "true"
+    "all": "false",
+    "ministryLeaders": "false"
   }
 }
