@@ -3,13 +3,10 @@
   "deck": "<p>I’ve been part of Gateway for more than 20 years, but spent 11 of those years working in Asia for a mission organisation. Now back in York, I’m delighted to be able to serve as administrator in the Gateway office. You’ll also sometimes find me manning the Info Point on Sundays. I enjoy spending time with people from other countries and I regularly help at the Monday night international cafe in the Spurriergate Centre here in York.\n</p>",
   "menuColour": "green",
   "image": "/uploads/Christine Hobson 2.jpg",
-  "titleRole": "Administrator",
+  "titleRole": "Administrator/Info Point Team Leader",
   "filters": {
     "all": "true",
+    "ministryLeaders": "true",
     "staff": "true"
-  },
-  "words": [
-    "An interview with Christine Hobson",
-    "All Things to All Men"
-  ]
+  }
 }
