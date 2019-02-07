@@ -1,30 +1,34 @@
-const fs = require("fs");
-const path = require("path");
-const glob = require("glob");
+const fs = require('fs');
+const path = require('path');
+const glob = require('glob');
 
 const getDataPromise = (filename, includeIndex = false) =>
   new Promise(resolve => {
-    if (!includeIndex && filename.includes("index.json")) {
+    if (!includeIndex && filename.includes('index.json')) {
       return resolve();
     }
 
     if (includeIndex) {
       const data = JSON.parse(
         fs.readFileSync(
-          path.join(__dirname, "data", filename, "index.json"),
-          "utf8"
-        )
+          path.join(__dirname, 'data', filename, 'index.json'),
+          'utf8',
+        ),
       );
       return resolve(data);
     } else {
-      const data = JSON.parse(fs.readFileSync(filename, "utf8"));
+      const data = JSON.parse(fs.readFileSync(filename, 'utf8'));
+
       const title = data.title
         .toLowerCase()
-        .split(" ")
-        .join("-");
+        .split(' ')
+        .join('-')
+        .split(':')
+        .join('');
+
       const result = {
         title,
-        json: data
+        json: data,
       };
 
       return resolve(result);
@@ -33,7 +37,7 @@ const getDataPromise = (filename, includeIndex = false) =>
 
 const getFileNamesPromise = type =>
   new Promise((resolve, reject) => {
-    glob(path.join(__dirname, "data", type, "*"), (error, files) => {
+    glob(path.join(__dirname, 'data', type, '*'), (error, files) => {
       if (error) {
         return reject();
       }
@@ -43,9 +47,9 @@ const getFileNamesPromise = type =>
 
 const writeFile = (type, fileName, data) => {
   fs.writeFileSync(
-    path.join(__dirname, "data", type, fileName),
+    path.join(__dirname, 'data', type, fileName),
     JSON.stringify(data, null, 2),
-    "utf8"
+    'utf8',
   );
 };
 

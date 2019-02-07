@@ -109,7 +109,8 @@ const addDataToFileStructure = async fileStructure => {
           .join('')
           .toLowerCase()
           .trim()
-          .split(' ').join('-')}.json` === key
+          .split(' ')
+          .join('-')}.json` === key
       ) {
         fileStructure[key].data = item.json;
       }
