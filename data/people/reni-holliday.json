@@ -5,7 +5,7 @@
   "image": "/uploads/Reni (Small).JPG",
   "titleRole": "Lifegroup Leader and Cluster Leader",
   "filters": {
-    "all": "true",
-    "lifegroupLeaders": "true"
+    "all": "false",
+    "lifegroupLeaders": "false"
   }
 }
