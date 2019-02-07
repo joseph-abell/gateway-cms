@@ -5,10 +5,7 @@
   "image": "/uploads/Photo Dave (Small).jpg",
   "titleRole": "Stewarding Team Leader",
   "filters": {
-    "all": "true",
-    "ministryLeaders": "true"
-  },
-  "words": [
-    "An Interview with Dave Coward"
-  ]
+    "all": "false",
+    "ministryLeaders": "false"
+  }
 }

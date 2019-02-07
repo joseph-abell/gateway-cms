@@ -5,7 +5,7 @@
   "image": "/uploads/joan (Small).jpg",
   "titleRole": "Acomb Babies Leader",
   "filters": {
-    "all": "true",
-    "ministryLeaders": "true"
+    "all": "false",
+    "ministryLeaders": "false"
   }
 }

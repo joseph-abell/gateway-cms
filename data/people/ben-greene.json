@@ -1,11 +1,12 @@
 {
   "title": "Ben Greene",
-  "deck": "<p>I’m Ben and I’ve been at Gateway since 2006 after marrying Katie and coming to York to study at York University. Together we are kept busy looking after our 3 boys: Jacob, Zach and Caleb. In my spare time I work as a primary school teacher in the Early Years and love working with families and children at Gateway Church. I also enjoy getting out into the garden, walking, reading and drinking the occasional single malt whisky. I also lead a Life Group with Katie.\n</p>",
+  "deck": "<p>I’m Ben and I’ve been at Gateway since 2006 after marrying Katie and coming to York to study at York University. Together we are kept busy looking after our 3 boys: Jacob, Zach and Caleb. In my spare time I work as a primary school teacher in the Early Years and love working with families and children at Gateway Church. I also enjoy getting out into the garden, walking, reading and drinking the occasional single malt whisky. \n</p>",
   "menuColour": "purple",
   "image": "/uploads/37641_411074091009_4057493_n.jpg",
-  "titleRole": "Lifegroup Leader",
+  "titleRole": "'Who Let the Dads Out?' Leader",
   "filters": {
-    "lifegroupLeaders": "true",
-    "all": "true"
+    "all": "true",
+    "lifegroupLeaders": "false",
+    "ministryLeaders": "true"
   }
 }
