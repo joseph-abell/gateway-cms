@@ -1,11 +1,12 @@
 {
   "title": "Hannah Racher",
-  "deck": "<p>I'm from Dorset but have lived in York for 9 years now and love it here.Our little boy Peter has a great Dorset-Yorkshire fusion accent going on!  I'm married to Steve who you'll most likely hear drumming on a Sunday. I work part time as a Speech and Language Therapist at York Hospital.\n</p>\n<p>At Gateway I help out as one of the Lifegroup leaders.I would say my favourite thing would be sitting in bed with tea, toast and a good book!\n</p>",
+  "deck": "<p>I'm from Dorset but have lived in York for 9 years now and love it here. Our little boy Peter has a great Dorset-Yorkshire fusion accent going on!  I'm married to Steve who you'll most likely hear drumming on a Sunday. I work part time as a Speech and Language Therapist at York Hospital.\n</p>\n<p>I lead the Toddlers Group at Gateway. I would say my favourite thing would be sitting in bed with tea, toast and a good book!\n</p>",
   "menuColour": "purple",
   "image": "/uploads/Hannah (Small).jpg",
-  "titleRole": "Lifegroup leader",
+  "titleRole": "Toddlers Leader",
   "filters": {
-    "all": "false",
-    "lifegroupLeaders": "false"
+    "all": "true",
+    "lifegroupLeaders": "false",
+    "ministryLeaders": "true"
   }
 }
