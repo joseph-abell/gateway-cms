@@ -7,5 +7,9 @@
   "filters": {
     "all": "false",
     "ministryLeaders": "false"
-  }
+  },
+  "words": [
+    "Empty or full?",
+    "Gateway Women Together Event"
+  ]
 }

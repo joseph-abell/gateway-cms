@@ -7,5 +7,8 @@
   "filters": {
     "all": "false",
     "ministryLeaders": "false"
-  }
+  },
+  "words": [
+    "An Interview with Dave Coward"
+  ]
 }

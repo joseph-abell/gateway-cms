@@ -5,16 +5,26 @@ const createRelationships = async () => {
   let peopleData = {};
 
   Object.entries(words).forEach(([wordFileName, {data} = {}]) => {
-    const {authors, title} = data;
-    if (authors) {
+    const {authors = [], title} = data;
+    if (title) {
+      if (authors.length === 0) {
+        authors.push({author: 'caleb-ellwood'});
+      }
+
       authors
-        .map(({author}) => ({author: (author || 'caleb-ellwood').trim()}))
+        .map(({author}) => ({
+          author: (author || 'caleb-ellwood')
+            .trim()
+            .toLowerCase()
+            .split(' ')
+            .join('-'),
+        }))
         .forEach(({author}) => {
           if (!peopleData[author]) {
-            peopleData[author] = [title];
-          } else {
-            peopleData[author].push(title);
+            peopleData[author] = [];
           }
+
+          peopleData[author].push(title);
         });
     }
   });
@@ -25,6 +35,7 @@ const createRelationships = async () => {
       .split(' ')
       .join('-');
     const fileName = name.concat('.json');
+    console.log(personName);
     if (fileName !== '.json') {
       const personData = await getDataPromise(
         `${__dirname}/data/people/${fileName}`,
