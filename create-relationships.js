@@ -35,7 +35,6 @@ const createRelationships = async () => {
       .split(' ')
       .join('-');
     const fileName = name.concat('.json');
-    console.log(personName);
     if (fileName !== '.json') {
       const personData = await getDataPromise(
         `${__dirname}/data/people/${fileName}`,
