@@ -30,7 +30,11 @@ const createRelationships = async () => {
         `${__dirname}/data/people/${fileName}`,
       );
 
-      personData.words = wordsList;
+      if (personData.json) {
+        personData.json.words = wordsList;
+      } else {
+        personData.words = wordsList;
+      }
       writeFile('people', fileName, personData);
     }
   });
