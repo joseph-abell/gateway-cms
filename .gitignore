@@ -1,1 +1,9 @@
 node_modules
+uploads/desktop
+uploads/mobile
+uploads/tablet
+data/pages/index.json
+data/events/index.json
+data/people/index.json
+data/search/index.json
+data/words/index.json
