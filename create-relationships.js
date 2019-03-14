@@ -8,8 +8,8 @@ const createRelationships = async () => {
     const {authors, title} = data;
     if (authors) {
       authors
-        .filter(({author}) => author && author.trim().length > 0)
-        .forEach(({author = 'caleb-ellwood'}) => {
+        .map(({author}) => ({author: (author || 'caleb-ellwood').trim()}))
+        .forEach(({author}) => {
           if (!peopleData[author]) {
             peopleData[author] = [title];
           } else {
@@ -25,11 +25,14 @@ const createRelationships = async () => {
       .split(' ')
       .join('-');
     const fileName = name.concat('.json');
-    const personData = await getDataPromise(
-      `${__dirname}/data/people/${fileName}`,
-    );
-    personData.json.words = wordsList;
-    writeFile('people', fileName, personData);
+    if (fileName !== '.json') {
+      const personData = await getDataPromise(
+        `${__dirname}/data/people/${fileName}`,
+      );
+
+      personData.words = wordsList;
+      writeFile('people', fileName, personData);
+    }
   });
 };
 
