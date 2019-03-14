@@ -29,12 +29,7 @@ const createRelationships = async () => {
       const personData = await getDataPromise(
         `${__dirname}/data/people/${fileName}`,
       );
-
-      if (personData.json) {
-        personData.json.words = wordsList;
-      } else {
-        personData.words = wordsList;
-      }
+      personData.words = wordsList;
       writeFile('people', fileName, personData);
     }
   });

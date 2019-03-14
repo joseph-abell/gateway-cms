@@ -28,7 +28,7 @@ const getDataPromise = (filename, includeIndex = false) =>
 
       const result = {
         title,
-        json: data,
+        ...data,
       };
 
       return resolve(result);
