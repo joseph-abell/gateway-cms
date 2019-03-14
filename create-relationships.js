@@ -1,33 +1,35 @@
-const { getDataPromise, writeFile } = require("./helpers");
+const {getDataPromise, writeFile} = require('./helpers');
 
 const createRelationships = async () => {
-  const words = await getDataPromise("words", true);
+  const words = await getDataPromise('words', true);
   let peopleData = {};
 
-  Object.entries(words).forEach(([wordFileName, { data } = {}]) => {
-    const { authors, title } = data;
+  Object.entries(words).forEach(([wordFileName, {data} = {}]) => {
+    const {authors, title} = data;
     if (authors) {
-      authors.forEach(({author = 'caleb-ellwood'}) => {
-        if (!peopleData[author]) {
-          peopleData[author] = [title];
-        } else {
-          peopleData[author].push(title);
-        }
-      });
+      authors
+        .filter(({author}) => author && author.trim().length > 0)
+        .forEach(({author = 'caleb-ellwood'}) => {
+          if (!peopleData[author]) {
+            peopleData[author] = [title];
+          } else {
+            peopleData[author].push(title);
+          }
+        });
     }
   });
 
   Object.entries(peopleData).forEach(async ([personName, wordsList]) => {
     const name = personName
       .toLowerCase()
-      .split(" ")
-      .join("-");
-    const fileName = name.concat(".json");
+      .split(' ')
+      .join('-');
+    const fileName = name.concat('.json');
     const personData = await getDataPromise(
-      `${__dirname}/data/people/${fileName}`
+      `${__dirname}/data/people/${fileName}`,
     );
     personData.json.words = wordsList;
-    writeFile("people", fileName, personData);
+    writeFile('people', fileName, personData);
   });
 };
 
