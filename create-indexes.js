@@ -112,7 +112,11 @@ const addDataToFileStructure = async fileStructure => {
           .split(' ')
           .join('-')}.json` === key
       ) {
-        fileStructure[key].data = item.json;
+        if (item.json) {
+          fileStructure[key].data = item.json;
+        } else {
+          fileStructure[key].data = item;
+        }
       }
     });
   });
