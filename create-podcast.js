@@ -1,7 +1,7 @@
 const request = require('request');
 const fetch = require('isomorphic-fetch');
 const sound = require('music-metadata');
-const { DateTime } = require('luxon');
+const {DateTime} = require('luxon');
 const xml = require('prettify-xml');
 const fs = require('fs');
 
@@ -29,12 +29,12 @@ const createText = (text = '') => {
 
 (async () => {
   const podcastInfoRequest = await fetch(
-    'http://gateway-cms.netlify.com/data/podcast-info.json'
+    'http://gateway-cms.netlify.com/data/podcast-info.json',
   );
   const data = await podcastInfoRequest.json();
 
   const wordsRequest = await fetch(
-    'http://gateway-cms.netlify.com/data/words/index.json'
+    'http://gateway-cms.netlify.com/data/words/index.json',
   );
   const wordsData = await wordsRequest.json();
 
@@ -52,11 +52,11 @@ const createText = (text = '') => {
   createText('<?xml version="1.0" encoding="UTF-8"?>');
 
   createElement('rss', [
-    { name: 'version', value: '2.0' },
+    {name: 'version', value: '2.0'},
     {
       name: 'xmlns:itunes',
-      value: 'http://www.itunes.com/dtds/podcast-1.0.dtd'
-    }
+      value: 'http://www.itunes.com/dtds/podcast-1.0.dtd',
+    },
   ]);
 
   createElement('channel');
@@ -120,16 +120,16 @@ const createText = (text = '') => {
     [
       {
         name: 'href',
-        value: `https://data.gatewaychurch.co.uk${data.image}`
-      }
+        value: `https://data.gatewaychurch.co.uk${data.image}`,
+      },
     ],
-    true
+    true,
   );
 
   createElement(
     'itunes:category',
-    [{ name: 'text', value: 'Religion & Spirituality' }],
-    true
+    [{name: 'text', value: 'Religion & Spirituality'}],
+    true,
   );
 
   createElement('itunes:explicit');
@@ -146,12 +146,13 @@ const createText = (text = '') => {
   const fileMetadata = await Promise.all(promises).catch(e => e);
   console.log(fileMetadata);
   podcasts.forEach(async (item = {}, index) => {
-    const { data = {} } = item;
-    let { audioFile = '' } = data;
+    const {data = {}} = item;
+    let {audioFile = ''} = data;
     audioFile = audioFile
       .split('%20')
       .join('-')
       .toLowerCase();
+    console.log(audioFile);
     //     const { format } = fileMetadata[index];
     //     const { duration } = format;
     //     const { size } = fs.statSync(`.${audioFile}`);
@@ -188,7 +189,7 @@ const createText = (text = '') => {
     createElement('/pubDate');
 
     if (item.data.authors && item.data.authors.length) {
-      item.data.authors.forEach(({ author }) => {
+      item.data.authors.forEach(({author}) => {
         createElement('author');
         createText(author);
         createElement('/author');
@@ -210,7 +211,7 @@ const createText = (text = '') => {
     createElement('/itunes:isClosedCaptioned');
 
     createElement('itunes:duration');
-    // createText(duration);
+    createText(duration);
     createElement('/itunes:duration');
 
     if (item.data.itunesImage) {
@@ -219,10 +220,10 @@ const createText = (text = '') => {
         [
           {
             name: 'href',
-            value: `https://data.gatewaychurch.co.uk/${item.data.itunesImage}`
-          }
+            value: `https://data.gatewaychurch.co.uk/${item.data.itunesImage}`,
+          },
         ],
-        true
+        true,
       );
     } else if (data.defaultImage) {
       createElement(
@@ -230,10 +231,10 @@ const createText = (text = '') => {
         [
           {
             name: 'href',
-            value: `https://data.gatewaychurch.co.uk${data.image}`
-          }
+            value: `https://data.gatewaychurch.co.uk${data.image}`,
+          },
         ],
-        true
+        true,
       );
     }
 
