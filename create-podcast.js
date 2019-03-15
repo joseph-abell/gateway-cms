@@ -31,7 +31,7 @@ const createText = (text = '') => {
   const podcastInfoRequest = await fetch(
     'http://gateway-cms.netlify.com/data/podcast-info.json'
   );
-  const podcastInfoData = await podcastInfoRequest.json();
+  const data = await podcastInfoRequest.json();
 
   const wordsRequest = await fetch(
     'http://gateway-cms.netlify.com/data/words/index.json'
@@ -40,18 +40,11 @@ const createText = (text = '') => {
 
   let podcasts = Object.values(wordsData);
 
-  podcasts = await Promise.all(
-    podcasts.map(async ({ url }) => {
-      const podcastResponse = await fetch(url);
-      const podcastData = await podcastResponse.json();
-      return { ...podcastData };
-    })
-  ).catch(e => console.log(e));
-  podcasts = podcasts
-    .filter(podcast => (podcast || {}).showOnPodcast)
+  podcasts = (podcasts || [])
+    .filter(podcast => (podcast || {}).data.showOnPodcast)
     .sort((a, b) => {
-      const aDate = parseInt(a.date.split('-').join(''));
-      const bDate = parseInt(b.date.split('-').join(''));
+      const aDate = parseInt(a.data.date.split('-').join(''));
+      const bDate = parseInt(b.data.date.split('-').join(''));
 
       return aDate - bDate;
     });
@@ -146,33 +139,35 @@ const createText = (text = '') => {
   let promises = [];
 
   podcasts.forEach(async item => {
-    const audioFile = item.audioFile || '';
-    promises.push(sound.parseFile(`${audioFile}`));
+    const audioFile = item.data.audioFile || '';
+    promises.push(sound.parseFile(`"${audioFile}"`));
   });
 
-  const fileMetadata = await Promise.all(promises);
-
-  podcasts.forEach(async (item, index) => {
-    const audioFile = item.data.audioFile
+  const fileMetadata = await Promise.all(promises).catch(e => e);
+  console.log(fileMetadata);
+  podcasts.forEach(async (item = {}, index) => {
+    const { data = {} } = item;
+    let { audioFile = '' } = data;
+    audioFile = audioFile
       .split('%20')
       .join('-')
       .toLowerCase();
-    const { format } = fileMetadata[index];
-    const { duration } = format;
-    const { size } = fs.statSync(`.${audioFile}`);
-    createElement('item');
-    createElement(
-      'enclosure',
-      [
-        {
-          name: 'url',
-          value: `https://data.gatewaychurch.co.uk${item.data.audioFile}`
-        },
-        { name: 'length', value: size },
-        { name: 'type', value: 'audio/mpeg' }
-      ],
-      true
-    );
+    //     const { format } = fileMetadata[index];
+    //     const { duration } = format;
+    //     const { size } = fs.statSync(`.${audioFile}`);
+    //     createElement('item');
+    //     createElement(
+    //       'enclosure',
+    //       [
+    //         {
+    //           name: 'url',
+    //           value: `https://data.gatewaychurch.co.uk${item.data.audioFile}`
+    //         },
+    //         { name: 'length', value: size },
+    //         { name: 'type', value: 'audio/mpeg' }
+    //       ],
+    //       true
+    //     );
 
     createElement('description');
     createText(item.data.deck);
@@ -215,7 +210,7 @@ const createText = (text = '') => {
     createElement('/itunes:isClosedCaptioned');
 
     createElement('itunes:duration');
-    createText(duration);
+    // createText(duration);
     createElement('/itunes:duration');
 
     if (item.data.itunesImage) {
