@@ -211,7 +211,7 @@ const createText = (text = '') => {
     createElement('/itunes:isClosedCaptioned');
 
     createElement('itunes:duration');
-    createText(duration);
+    //createText(duration);
     createElement('/itunes:duration');
 
     if (item.data.itunesImage) {
