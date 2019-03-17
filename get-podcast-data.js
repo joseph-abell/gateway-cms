@@ -48,13 +48,10 @@ function httpGet(url) {
     }
   });
 
-  let podcastCount = 0;
-
   podcasts.forEach(async podcast => {
     const item = podcast[1];
-    if (podcastCount > 10) return;
-    if (!item.contentType) {
-      podcastCount = podcastCount + 1;
+
+    if (!item.data.contentType) {
       const podcastFile = item.data.podcastFile || '';
 
       if (podcastFile.length && podcastFile.includes('aws')) {
@@ -79,5 +76,9 @@ function httpGet(url) {
         }
       }
     }
+  });
+
+  podcasts.forEach(async podcast => {
+    console.log(podcast);
   });
 })();
