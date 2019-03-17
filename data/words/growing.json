@@ -11,5 +11,7 @@
   "audioFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20150118.mp3",
   "title": "Growing",
   "image": "/uploads/Jesus the man.jpg",
-  "podcastFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20150118.mp3"
+  "podcastFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20150118.mp3",
+  "contentLength": "20286622",
+  "contentType": "audio/mp3"
 }

@@ -11,5 +11,7 @@
   "audioFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20150201.mp3",
   "title": "Faith",
   "image": "/uploads/General Sermon.jpg",
-  "podcastFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20150201.mp3"
+  "podcastFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20150201.mp3",
+  "contentLength": "21447071",
+  "contentType": "audio/mp3"
 }

@@ -11,5 +11,7 @@
   "audioFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20141123.mp3",
   "title": "Living Stones",
   "image": "/uploads/General Sermon.jpg",
-  "podcastFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20141123.mp3"
+  "podcastFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20141123.mp3",
+  "contentLength": "19917026",
+  "contentType": "audio/mp3"
 }

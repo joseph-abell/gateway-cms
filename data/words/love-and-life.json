@@ -11,5 +11,7 @@
   "audioFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20150222.mp3",
   "title": "Love and life",
   "image": "/uploads/Ephesians.jpg",
-  "podcastFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20150222.mp3"
+  "podcastFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20150222.mp3",
+  "contentLength": "18560448",
+  "contentType": "audio/mp3"
 }

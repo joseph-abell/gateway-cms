@@ -11,5 +11,7 @@
   "audioFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20141005.mp3",
   "title": "A call to worship",
   "image": "/uploads/General Sermon.jpg",
-  "podcastFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20141005.mp3"
+  "podcastFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20141005.mp3",
+  "contentLength": "8250552",
+  "contentType": "audio/mp3"
 }

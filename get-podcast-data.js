@@ -49,16 +49,34 @@ function httpGet(url) {
   });
 
   let podcastCount = 0;
+
   podcasts.forEach(async podcast => {
     const item = podcast[1];
-    if (podcastCount > 4) return;
-    if (!item.podcastMetadata) {
+    if (podcastCount > 0) return;
+    if (!item.contentType) {
       podcastCount = podcastCount + 1;
       const podcastFile = item.data.podcastFile || '';
-      console.log(podcastFile);
-      if (podcastFile.length) {
-        const httpData = await httpGet(audioFile);
-        console.log(httpData);
+
+      if (podcastFile.length && podcastFile.includes('aws')) {
+        const httpData = await httpGet(podcastFile).catch(e => e);
+        if (httpData.statusCode === 200) {
+          console.log(podcast[0]);
+          const contentLength = httpData.headers['content-length'];
+          const contentType = httpData.headers['content-type'];
+
+          const data = JSON.parse(
+            fs.readFileSync('./data/words/' + podcast[0], 'utf-8'),
+          );
+
+          data.contentLength = contentLength;
+          data.contentType = contentType;
+
+          fs.writeFileSync(
+            './data/words/' + podcast[0],
+            JSON.stringify(data, null, 2),
+            'utf-8',
+          );
+        }
       }
     }
   });
