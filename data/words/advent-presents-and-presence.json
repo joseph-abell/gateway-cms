@@ -17,7 +17,5 @@
     }
   ],
   "image": "/uploads/General Sermon.jpg",
-  "podcastFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20181216.mp3",
-  "contentLength": "28886540",
-  "contentType": "audio/mp3"
+  "podcastFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20181216.mp3"
 }

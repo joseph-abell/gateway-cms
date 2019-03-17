@@ -11,7 +11,5 @@
   "audioFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20161211.mp3",
   "title": "Follow Jesus",
   "image": "/uploads/Advent 2016.jpg",
-  "podcastFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20161211.mp3",
-  "contentLength": "24675043",
-  "contentType": "audio/mp3"
+  "podcastFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20161211.mp3"
 }

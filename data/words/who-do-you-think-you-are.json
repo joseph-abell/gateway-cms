@@ -11,7 +11,5 @@
   "audioFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20150208.mp3",
   "title": "Who do you think you are?",
   "image": "/uploads/Ephesians.jpg",
-  "podcastFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20150208.mp3",
-  "contentLength": "20138862",
-  "contentType": "audio/mp3"
+  "podcastFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20150208.mp3"
 }

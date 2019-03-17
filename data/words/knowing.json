@@ -11,7 +11,5 @@
   "audioFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20150111.mp3",
   "title": "Knowing",
   "image": "/uploads/Jesus the man.jpg",
-  "podcastFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20150111.mp3",
-  "contentLength": "18830523",
-  "contentType": "audio/mp3"
+  "podcastFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20150111.mp3"
 }

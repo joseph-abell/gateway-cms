@@ -11,7 +11,5 @@
   "audioFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20150215.mp3",
   "title": "Turn on the lights",
   "image": "/uploads/Ephesians.jpg",
-  "podcastFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20150215.mp3",
-  "contentLength": "18649254",
-  "contentType": "audio/mp3"
+  "podcastFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20150215.mp3"
 }
