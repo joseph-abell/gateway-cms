@@ -10,5 +10,6 @@
   "date": "2014-11-23T12:00:00+00:00",
   "audioFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20141123.mp3",
   "title": "Living Stones",
-  "image": "/uploads/General Sermon.jpg"
+  "image": "/uploads/General Sermon.jpg",
+  "podcastFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20141123.mp3"
 }

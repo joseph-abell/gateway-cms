@@ -11,5 +11,6 @@
   "audioFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20151004.mp3",
   "subtitle": "John begins a mini-series looking at the third foundational practice of a culture where transformation can take place; hospitality.",
   "title": "A place called welcome",
-  "image": "/uploads/Transformation Culture.jpg"
+  "image": "/uploads/Transformation Culture.jpg",
+  "podcastFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20151004.mp3"
 }

@@ -11,5 +11,6 @@
   "audioFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20180107.mp3",
   "subtitle": "John starts the new year by asking what kind of harvest are we looking for and what can we do to bring about that harvest",
   "title": "Plough Sunday",
-  "image": "/uploads/General Sermon.jpg"
+  "image": "/uploads/General Sermon.jpg",
+  "podcastFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20180107.mp3"
 }

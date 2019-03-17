@@ -14,5 +14,6 @@
   "audioFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20150531.mp3",
   "subtitle": "Tom and Jill Ross team up to discuss Paul's encouragement to married couples in his letter to the Ephesians.",
   "title": "Marriage",
-  "image": "/uploads/Ephesians.jpg"
+  "image": "/uploads/Ephesians.jpg",
+  "podcastFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20150531.mp3"
 }

@@ -11,5 +11,6 @@
   "audioFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20170903.mp3",
   "subtitle": "Jamie speaks about insecurity, what it looks like, where it comes from and how to deal with it. ",
   "title": "Insecurity",
-  "image": "/uploads/General Sermon.jpg"
+  "image": "/uploads/General Sermon.jpg",
+  "podcastFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20170903.mp3"
 }

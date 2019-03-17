@@ -11,5 +11,6 @@
   "audioFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20161204.mp3",
   "subtitle": "Pete continues our Advent series and looks at the Adoption Story in Matthew 1",
   "title": "An Adoption Story",
-  "image": "/uploads/Advent 2016.jpg"
+  "image": "/uploads/Advent 2016.jpg",
+  "podcastFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20161204.mp3"
 }

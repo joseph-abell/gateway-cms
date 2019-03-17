@@ -11,5 +11,6 @@
   "audioFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20150816.mp3",
   "subtitle": "Rachael Bulley teaches from Jesus' parable of the wise and foolish builders",
   "title": "The wise and foolish builders",
-  "image": "/uploads/Parables.jpg"
+  "image": "/uploads/Parables.jpg",
+  "podcastFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20150816.mp3"
 }

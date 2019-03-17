@@ -11,5 +11,6 @@
   "audioFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20150412.mp3",
   "subtitle": "Simon Neary encourages us to live in unity as followers of Jesus",
   "title": "Walk worthy. Walk together.",
-  "image": "/uploads/Ephesians.jpg"
+  "image": "/uploads/Ephesians.jpg",
+  "podcastFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20150412.mp3"
 }

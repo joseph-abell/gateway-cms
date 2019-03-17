@@ -11,5 +11,6 @@
   "audioFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20160110.mp3",
   "subtitle": "John kicks off a new series looking at the first book in the Bible - Genesis. ",
   "title": "In the beginning",
-  "image": "/uploads/Genesis.jpg"
+  "image": "/uploads/Genesis.jpg",
+  "podcastFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20160110.mp3"
 }

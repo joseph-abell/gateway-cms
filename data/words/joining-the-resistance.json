@@ -11,5 +11,6 @@
   "audioFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20180506.mp3",
   "subtitle": "Tom shares from the story of Gideon as he looks at how God works in our lives so that we overcome fears",
   "title": "Joining the Resistance",
-  "image": "/uploads/General Sermon.jpg"
+  "image": "/uploads/General Sermon.jpg",
+  "podcastFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20180506.mp3"
 }

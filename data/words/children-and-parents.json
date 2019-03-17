@@ -11,5 +11,6 @@
   "audioFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20150614.mp3",
   "subtitle": "Paul and Nicola Betts teach from Paul's instructions to children and parents.",
   "title": "Children and parents",
-  "image": "/uploads/Ephesians.jpg"
+  "image": "/uploads/Ephesians.jpg",
+  "podcastFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20150614.mp3"
 }

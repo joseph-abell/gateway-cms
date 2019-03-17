@@ -11,5 +11,6 @@
   "audioFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20161127.mp3",
   "subtitle": "Caleb begins an Advent series looking at the Salvation Story in Matthew 1",
   "title": "A Salvation Story",
-  "image": "/uploads/Advent 2016.jpg"
+  "image": "/uploads/Advent 2016.jpg",
+  "podcastFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20161127.mp3"
 }

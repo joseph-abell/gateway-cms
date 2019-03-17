@@ -36,7 +36,7 @@ function httpGet(url) {
         fileData.podcastFile = fileData.audioFile || fileData.file;
         fs.writeFileSync(
           localDirectory,
-          JSON.stringify(fileData.podcastFile, null, 2),
+          JSON.stringify(fileData, null, 2),
           'utf-8',
         );
       }

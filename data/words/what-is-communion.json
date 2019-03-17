@@ -11,5 +11,6 @@
   "audioFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20160306.mp3",
   "subtitle": "John Wilson explains why we share communion when we gather together as a church community.",
   "title": "What is Communion?",
-  "image": "/uploads/IMG_7161 (Large).jpg"
+  "image": "/uploads/IMG_7161 (Large).jpg",
+  "podcastFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20160306.mp3"
 }

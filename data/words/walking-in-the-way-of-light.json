@@ -11,5 +11,6 @@
   "audioFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20150517.mp3",
   "subtitle": "Simon Desborough encourages us to imitate Jesus in the whole of our lives",
   "title": "Walking in the way of light",
-  "image": "/uploads/Ephesians.jpg"
+  "image": "/uploads/Ephesians.jpg",
+  "podcastFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20150517.mp3"
 }

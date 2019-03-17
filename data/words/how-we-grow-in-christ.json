@@ -11,5 +11,6 @@
   "audioFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20171008.mp3",
   "subtitle": "In the next talk in our series on Colossians, John speaks about how we grow as we continue to live in Christ",
   "title": "How We Grow in Christ",
-  "image": "/uploads/Colossians.jpg"
+  "image": "/uploads/Colossians.jpg",
+  "podcastFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20171008.mp3"
 }

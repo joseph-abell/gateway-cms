@@ -11,5 +11,6 @@
   "audioFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20170115.mp3",
   "subtitle": "Caleb continues our Starting Right series and looks at Matthew 4",
   "title": "The Testing",
-  "image": "/uploads/Starting Right.jpg"
+  "image": "/uploads/Starting Right.jpg",
+  "podcastFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20170115.mp3"
 }

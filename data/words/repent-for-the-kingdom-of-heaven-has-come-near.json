@@ -11,5 +11,6 @@
   "audioFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20170122.mp3",
   "subtitle": "Dan continues our Starting Right series and looks at how Jesus starts his ministry",
   "title": "Repent for the Kingdom of Heaven has come near",
-  "image": "/uploads/Starting Right.jpg"
+  "image": "/uploads/Starting Right.jpg",
+  "podcastFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20170122.mp3"
 }

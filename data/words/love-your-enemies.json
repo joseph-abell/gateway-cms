@@ -11,5 +11,6 @@
   "audioFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20170326.mp3",
   "subtitle": "John continues our Kingdom Living series and asks how are we supposed to relate to those whom we consider to be our enemies. ",
   "title": "Love your Enemies",
-  "image": "/uploads/Kingdom Living.jpg"
+  "image": "/uploads/Kingdom Living.jpg",
+  "podcastFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20170326.mp3"
 }

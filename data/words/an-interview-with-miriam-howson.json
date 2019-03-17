@@ -14,5 +14,6 @@
   "audioFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20171105.mp3",
   "subtitle": "Miriam Howson shares about her plans to serve in Africa",
   "title": "An Interview with Miriam Howson",
-  "image": "/uploads/Interview.jpg"
+  "image": "/uploads/Interview.jpg",
+  "podcastFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20171105.mp3"
 }

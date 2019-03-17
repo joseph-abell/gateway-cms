@@ -11,5 +11,6 @@
   "audioFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20150125.mp3",
   "subtitle": "",
   "title": "Going",
-  "image": "/uploads/Jesus the man.jpg"
+  "image": "/uploads/Jesus the man.jpg",
+  "podcastFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20150125.mp3"
 }

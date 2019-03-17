@@ -11,5 +11,6 @@
   "audioFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20170129.mp3",
   "subtitle": "Caleb concludes our Starting Right series as he looks at how Jesus calls the first disciples",
   "title": "Repurposed for God",
-  "image": "/uploads/Starting Right.jpg"
+  "image": "/uploads/Starting Right.jpg",
+  "podcastFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20170129.mp3"
 }

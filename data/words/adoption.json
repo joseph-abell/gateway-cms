@@ -11,5 +11,6 @@
   "audioFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20170826.mp3",
   "subtitle": "In the third session at our Church Weekend Away Dave Matthias talks about how we are all adopted into God's family.",
   "title": "Adoption",
-  "image": "/uploads/Group.jpg"
+  "image": "/uploads/Group.jpg",
+  "podcastFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20170826.mp3"
 }

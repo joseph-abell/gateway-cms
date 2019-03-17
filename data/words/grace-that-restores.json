@@ -11,5 +11,6 @@
   "audioFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20180909.mp3",
   "subtitle": "Our new sermon series, \"This is Grace\", starts as Caleb looks at how Jesus restores his disciple Peter",
   "title": "Grace That Restores",
-  "image": "/uploads/This is Grace.jpg"
+  "image": "/uploads/This is Grace.jpg",
+  "podcastFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20180909.mp3"
 }

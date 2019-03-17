@@ -11,5 +11,6 @@
   "audioFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20160626.mp3",
   "subtitle": "David Donkin teaches from the life of the Old Testament character Nehemiah.",
   "title": "Nehemiah",
-  "image": "/uploads/IMG_7161.jpg"
+  "image": "/uploads/IMG_7161.jpg",
+  "podcastFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20160626.mp3"
 }

@@ -11,5 +11,6 @@
   "audioFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20180805.mp3",
   "subtitle": "Jenny continues our 'From Fear to Faith' series as she looks at the fear of giving up control",
   "title": "Strength in Surrender",
-  "image": "/uploads/From Fear to Faith (Medium).jpg"
+  "image": "/uploads/From Fear to Faith (Medium).jpg",
+  "podcastFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20180805.mp3"
 }

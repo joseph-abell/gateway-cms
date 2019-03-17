@@ -11,5 +11,6 @@
   "audioFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20181021.mp3",
   "subtitle": "Jenny speaks about the importance God places on compassion and how this impacts our lives",
   "title": "Propelled into Action",
-  "image": "/uploads/Compassion & Justice.jpg"
+  "image": "/uploads/Compassion & Justice.jpg",
+  "podcastFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20181021.mp3"
 }

@@ -11,5 +11,6 @@
   "audioFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20180225.mp3",
   "subtitle": "In the next talk in our DNA series, Caleb looks at baptism in the Holy Spirit",
   "title": "Waiting, Filling",
-  "image": "/uploads/DNA.jpg"
+  "image": "/uploads/DNA.jpg",
+  "podcastFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20180225.mp3"
 }

@@ -7,5 +7,6 @@
   "audioFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20181104.mp3",
   "subtitle": "Alan Rose speaks about the relevance of the Old Testament food laws to us today",
   "title": "The Kids are Alright",
-  "image": "/uploads/General Sermon.jpg"
+  "image": "/uploads/General Sermon.jpg",
+  "podcastFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20181104.mp3"
 }

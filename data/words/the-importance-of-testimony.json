@@ -6,5 +6,6 @@
   "date": "2014-11-02T12:00:00+00:00",
   "audioFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20141102.mp3",
   "title": "The importance of testimony",
-  "image": "/uploads/General Sermon.jpg"
+  "image": "/uploads/General Sermon.jpg",
+  "podcastFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20141102.mp3"
 }

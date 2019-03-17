@@ -11,5 +11,6 @@
   "audioFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20170917.mp3",
   "subtitle": "Simon Neary kicks off our new series looking at Paul's letter to the church in Colosse. ",
   "title": "A Present and a Hint",
-  "image": "/uploads/Colossians.jpg"
+  "image": "/uploads/Colossians.jpg",
+  "podcastFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20170917.mp3"
 }

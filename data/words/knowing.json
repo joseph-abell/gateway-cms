@@ -10,5 +10,6 @@
   "date": "2015-01-11T12:00:00+00:00",
   "audioFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20150111.mp3",
   "title": "Knowing",
-  "image": "/uploads/Jesus the man.jpg"
+  "image": "/uploads/Jesus the man.jpg",
+  "podcastFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20150111.mp3"
 }

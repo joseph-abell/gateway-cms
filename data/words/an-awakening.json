@@ -11,5 +11,6 @@
   "audioFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20171203.mp3",
   "subtitle": "Mike Sprenger speaks about an awakening, a meeting with God that brings about a life-changing experience",
   "title": "An Awakening",
-  "image": "/uploads/General Sermon.jpg"
+  "image": "/uploads/General Sermon.jpg",
+  "podcastFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20171203.mp3"
 }

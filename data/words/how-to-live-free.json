@@ -11,5 +11,6 @@
   "audioFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20161120.mp3",
   "subtitle": "Caleb concludes a two-part series looking at Galatians 5",
   "title": "How to Live Free",
-  "image": "/uploads/Living Free.jpg"
+  "image": "/uploads/Living Free.jpg",
+  "podcastFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20161120.mp3"
 }

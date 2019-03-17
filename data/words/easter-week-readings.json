@@ -11,5 +11,6 @@
   "audioFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20150329.mp3",
   "subtitle": "A telling of the Easter week by several people reading passages from all four Gospel accounts - Matthew, Mark, Luke and John.",
   "title": "Easter week readings",
-  "image": "/uploads/IMG_7161 (Large).jpg"
+  "image": "/uploads/IMG_7161 (Large).jpg",
+  "podcastFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20150329.mp3"
 }

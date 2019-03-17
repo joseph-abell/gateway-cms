@@ -11,5 +11,6 @@
   "audioFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20150823.mp3",
   "subtitle": "David Donkin finishes our summer series by teaching from the Jesus' parable of the mustard seed.",
   "title": "The mustard seed",
-  "image": "/uploads/Parables.jpg"
+  "image": "/uploads/Parables.jpg",
+  "podcastFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20150823.mp3"
 }

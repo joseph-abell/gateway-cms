@@ -11,5 +11,6 @@
   "audioFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20170702.mp3",
   "subtitle": "Caleb looks at the story of Zacchaeus in Luke 19: 1-10",
   "title": "Zacchaeus",
-  "image": "/uploads/General Sermon.jpg"
+  "image": "/uploads/General Sermon.jpg",
+  "podcastFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20170702.mp3"
 }

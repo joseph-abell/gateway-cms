@@ -11,5 +11,6 @@
   "audioFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20161023.mp3",
   "subtitle": "John Wilson concludes his series on 'Is God good?' and consider the question: If God is good, why does my life suck?",
   "title": "If God is good, why does my life suck?",
-  "image": "/uploads/Is Good good.jpg"
+  "image": "/uploads/Is Good good.jpg",
+  "podcastFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20161023.mp3"
 }

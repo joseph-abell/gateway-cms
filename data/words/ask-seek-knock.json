@@ -11,5 +11,6 @@
   "audioFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20170611.mp3",
   "subtitle": "As we continue our Kingdom Living series, Bethany speaks on prayer",
   "title": "Ask, Seek, Knock",
-  "image": "/uploads/Kingdom Living.jpg"
+  "image": "/uploads/Kingdom Living.jpg",
+  "podcastFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20170611.mp3"
 }

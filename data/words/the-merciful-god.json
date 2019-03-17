@@ -11,5 +11,6 @@
   "audioFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20150719.mp3",
   "subtitle": "Dan Wheeler introduces our summer sermon series for 2016 and teaches from the parable of the unmerciful servant.",
   "title": "The merciful God",
-  "image": "/uploads/Parables.jpg"
+  "image": "/uploads/Parables.jpg",
+  "podcastFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20150719.mp3"
 }

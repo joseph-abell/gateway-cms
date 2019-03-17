@@ -11,5 +11,6 @@
   "audioFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20171112.mp3",
   "subtitle": "As we continue our series in Colossians, Caleb asks how can we change ourselves",
   "title": "Identifying with Christ",
-  "image": "/uploads/Colossians.jpg"
+  "image": "/uploads/Colossians.jpg",
+  "podcastFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20171112.mp3"
 }

@@ -11,5 +11,6 @@
   "audioFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20160207.mp3",
   "subtitle": "Simon Desborough teaches from Psalm 62, encouraging us to trust only in God.",
   "title": "Trusting only in the Rock",
-  "image": "/uploads/General Sermon.jpg"
+  "image": "/uploads/General Sermon.jpg",
+  "podcastFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20160207.mp3"
 }

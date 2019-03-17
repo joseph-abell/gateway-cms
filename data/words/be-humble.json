@@ -11,5 +11,6 @@
   "audioFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20170813.mp3",
   "subtitle": "Stop, look, listen and live - 4 steps to consider as we seek to be humble",
   "title": "Be Humble",
-  "image": "/uploads/General Sermon.jpg"
+  "image": "/uploads/General Sermon.jpg",
+  "podcastFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20170813.mp3"
 }

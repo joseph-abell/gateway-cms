@@ -14,5 +14,6 @@
   "audioFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20150524.mp3",
   "subtitle": "John Wilson and Bethany Wheeler use Paul's words to encourage us to be filled with the Holy Spirit.",
   "title": "Be filled with the Spirit",
-  "image": "/uploads/Ephesians.jpg"
+  "image": "/uploads/Ephesians.jpg",
+  "podcastFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20150524.mp3"
 }

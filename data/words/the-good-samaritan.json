@@ -11,5 +11,6 @@
   "audioFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20150802.mp3",
   "subtitle": "Simon Neary teaches from the parable that Jesus tells of the Good Samaritan.",
   "title": "The good Samaritan",
-  "image": "/uploads/Parables.jpg"
+  "image": "/uploads/Parables.jpg",
+  "podcastFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20150802.mp3"
 }
