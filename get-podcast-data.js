@@ -52,7 +52,7 @@ function httpGet(url) {
 
   podcasts.forEach(async podcast => {
     const item = podcast[1];
-    if (podcastCount > 0) return;
+    if (podcastCount > 10) return;
     if (!item.contentType) {
       podcastCount = podcastCount + 1;
       const podcastFile = item.data.podcastFile || '';
