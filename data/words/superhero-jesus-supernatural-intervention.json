@@ -22,5 +22,8 @@
   ],
   "image": "/uploads/superhero-jesus.jpg",
   "file": "/uploads/20190317-bethany-wheeler.mp3",
-  "podcastFile": "/uploads/20190317-bethany-wheeler.mp3"
+  "podcastFile": "http://gateway-cms.netlify.com/uploads/20190317-bethany-wheeler.mp3",
+  "contentLength": "26894397",
+  "contentType": "audio/mpeg",
+  "duration": 2052.728163265306
 }

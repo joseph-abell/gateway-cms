@@ -22,5 +22,8 @@
   ],
   "image": "/uploads/superhero-jesus.jpg",
   "file": "/uploads/20190217-caleb-ellwood.mp3",
-  "podcastFile": "/uploads/20190217-caleb-ellwood.mp3"
+  "podcastFile": "http://gateway-cms.netlify.com/uploads/20190217-caleb-ellwood.mp3",
+  "contentLength": "31459851",
+  "contentType": "audio/mpeg",
+  "duration": 2109.2832653061223
 }

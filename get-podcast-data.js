@@ -1,12 +1,21 @@
 const https = require('https');
+const http = require('http');
 const fetch = require('isomorphic-fetch');
 const sound = require('music-metadata');
 const fs = require('fs');
 const util = require('util');
 
 function httpGet(url) {
+  let cleanedUrl = url;
+  if (url.includes('/uploads') && !url.includes('gateway-cms'))
+    cleanedUrl = `http://gateway-cms.netlify.com${url}`;
+
   return new Promise((resolve, reject) => {
-    https.get(url, async function(res) {
+    let httpType = https;
+    if (cleanedUrl.includes('http://')) {
+      httpType = http;
+    }
+    httpType.get(cleanedUrl, async function(res) {
       switch (res.statusCode) {
         case 200:
           return resolve(res);
@@ -39,7 +48,17 @@ function httpGet(url) {
     ) {
       const fileData = JSON.parse(fs.readFileSync(localDirectory, 'utf-8'));
 
-      fileData.podcastFile = fileData.audioFile || fileData.file;
+      let podcastFile = fileData.audioFile || fileData.file;
+      if (
+        podcastFile &&
+        podcastFile.length > 0 &&
+        podcastFile.includes('/uploads') &&
+        !podcastFile.includes('gateway-cms')
+      ) {
+        podcastFile = `http://gateway-cms.netlify.com${podcastFile}`;
+      }
+
+      fileData.podcastFile = podcastFile;
 
       fs.writeFileSync(
         localDirectory,
@@ -49,33 +68,53 @@ function httpGet(url) {
     }
   });
 
-  let showData = false;
-  podcasts.forEach(async (podcast, index) => {
+  podcasts.forEach(async podcast => {
     const item = podcast[1];
+    let podcastFile = item.data.podcastFile || '';
 
-    const podcastFile = item.data.podcastFile || '';
+    if (
+      podcastFile.includes('/uploads') &&
+      !podcastFile.includes('gateway-cms')
+    ) {
+      podcastFile = `http://gateway-cms.netlify.com${podcastFile}`;
+    }
+  });
 
-    if (podcastFile.length && podcastFile.includes('aws')) {
+  let count = 0;
+  podcasts.forEach(async podcast => {
+    if (count > 5) return;
+    const item = podcast[1];
+    let podcastFile = item.data.podcastFile || '';
+    if ((podcastFile || '').trim().length > 0) {
       const httpData = await httpGet(podcastFile).catch(e => e);
+
       if (httpData.statusCode === 200) {
+        count = count + 1;
         const contentLength = httpData.headers['content-length'];
         const contentType = httpData.headers['content-type'];
-
         const data = JSON.parse(
           fs.readFileSync('./data/words/' + podcast[0], 'utf-8'),
         );
-
-        const {
-          format: {duration},
-        } = await sound.parseStream(httpData, contentType);
         data.contentLength = contentLength;
         data.contentType = contentType;
-        data.duration = duration;
         fs.writeFileSync(
           './data/words/' + podcast[0],
           JSON.stringify(data, null, 2),
           'utf-8',
         );
+
+        if (!data.duration) {
+          const {
+            format: {duration},
+          } = await sound.parseStream(httpData, contentType);
+          console.log(podcast[0]);
+          data.duration = duration;
+          fs.writeFileSync(
+            './data/words/' + podcast[0],
+            JSON.stringify(data, null, 2),
+            'utf-8',
+          );
+        }
       }
     }
   });

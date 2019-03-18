@@ -22,5 +22,8 @@
   ],
   "image": "/uploads/28070547_1814014815330047_482469622474938652_o.jpg",
   "file": "/uploads/20190120-dave-donkin.mp3",
-  "podcastFile": "/uploads/20190120-dave-donkin.mp3"
+  "podcastFile": "http://gateway-cms.netlify.com/uploads/20190120-dave-donkin.mp3",
+  "contentLength": "33445516",
+  "contentType": "audio/mpeg",
+  "duration": 2486.9616326530613
 }
