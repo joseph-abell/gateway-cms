@@ -155,45 +155,17 @@ const createText = (text = '') => {
   createText('no');
   createElement('/itunes:explicit');
 
-  let promises1 = [];
-
-  const item = podcasts[0];
-
-  podcasts.forEach(async (item, index) => {
-    const audioFile = item.data.audioFile || '';
-
-    if (audioFile.length) {
-      promises1.push(httpGet(audioFile));
-    } else {
-      promises1.push(Promise.resolve());
-    }
-  });
-
-  const result1 = await Promise.all(promises1).catch(e => e);
-
-  let promises2 = [];
-
-  result1.forEach(metadata => {
-    const mimeType = metadata && metadata.headers['content-type'];
-    promises2.push(
-      metadata
-        ? sound.parseStream(metadata, mimeType).catch(e => console.log(e))
-        : Promise.resolve(),
-    );
-  });
-
-  const fileMetadata = await Promise.all(promises2).catch(e => e);
-
   podcasts.forEach(async (item = {}, index) => {
+    console.log(item);
     const {data = {}} = item;
     let {audioFile = ''} = data;
     audioFile = audioFile
       .split('%20')
       .join('-')
       .toLowerCase();
-    const {format} = fileMetadata[index] || {};
+    const {format} = {};
     const {duration} = format || {};
-    const size = result1[index].headers['content-length'];
+    const size = {};
     createElement('item');
     createElement(
       'enclosure',

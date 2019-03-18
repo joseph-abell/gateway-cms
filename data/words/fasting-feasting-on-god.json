@@ -12,5 +12,6 @@
   "audioFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20170507.mp3",
   "subtitle": "Our Kingdom Living series continues as Caleb looks at how fasting is an outward expression of a heart hungry for God",
   "title": "Fasting: Feasting on God",
-  "image": "/uploads/Kingdom Living.jpg"
+  "image": "/uploads/Kingdom Living.jpg",
+  "podcastFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20170507.mp3"
 }
