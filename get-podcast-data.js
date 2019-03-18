@@ -49,31 +49,44 @@ function httpGet(url) {
     }
   });
 
-  podcasts.forEach(async podcast => {
+  let showData = false;
+  podcasts.forEach(async (podcast, index) => {
     const item = podcast[1];
 
-    if (!item.data.contentType) {
-      const podcastFile = item.data.podcastFile || '';
+    const podcastFile = item.data.podcastFile || '';
 
-      if (podcastFile.length && podcastFile.includes('aws')) {
-        const httpData = await httpGet(podcastFile).catch(e => e);
-        if (httpData.statusCode === 200) {
-          const contentLength = httpData.headers['content-length'];
-          const contentType = httpData.headers['content-type'];
+    if (podcastFile.length && podcastFile.includes('aws')) {
+      const httpData = await httpGet(podcastFile).catch(e => e);
+      if (httpData.statusCode === 200) {
+        const contentLength = httpData.headers['content-length'];
+        const contentType = httpData.headers['content-type'];
 
-          const data = JSON.parse(
-            fs.readFileSync('./data/words/' + podcast[0], 'utf-8'),
-          );
+        const data = JSON.parse(
+          fs.readFileSync('./data/words/' + podcast[0], 'utf-8'),
+        );
 
-          data.contentLength = contentLength;
-          data.contentType = contentType;
-          data.metadata = util.inspect(httpData);
-          fs.writeFileSync(
-            './data/words/' + podcast[0],
-            JSON.stringify(data, null, 2),
-            'utf-8',
-          );
-        }
+        data.contentLength = contentLength;
+        data.contentType = contentType;
+        data.metadata = JSON.stringify(httpData, function(key, value) {
+          switch (key) {
+            case '[Symbol(owner)]':
+            case 'socket':
+            case 'connection':
+            case 'res':
+            case 'incoming':
+            case '0':
+            case 'parser':
+            case 'agent':
+              return key;
+            default:
+              return value;
+          }
+        });
+        fs.writeFileSync(
+          './data/words/' + podcast[0],
+          JSON.stringify(data, null, 2),
+          'utf-8',
+        );
       }
     }
   });
