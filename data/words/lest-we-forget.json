@@ -14,5 +14,6 @@
   "image": "/uploads/General Sermon.jpg",
   "podcastFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20170806.mp3",
   "contentLength": "27088757",
-  "contentType": "audio/mp3"
+  "contentType": "audio/mp3",
+  "duration": 1535.164081632653
 }
