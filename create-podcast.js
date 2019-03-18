@@ -169,6 +169,8 @@ const createText = (text = '') => {
     ) {
       podcastFile = `http://gateway-cms.netlify.com${podcastFile}`;
     }
+    console.log(item);
+    return;
     const size = item.data.contentLength;
     if (podcastFile) {
       createElement('item');
