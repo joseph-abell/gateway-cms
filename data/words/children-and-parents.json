@@ -14,5 +14,6 @@
   "image": "/uploads/Ephesians.jpg",
   "podcastFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20150614.mp3",
   "contentLength": "21097651",
-  "contentType": "audio/mp3"
+  "contentType": "audio/mp3",
+  "duration": 2637.072
 }

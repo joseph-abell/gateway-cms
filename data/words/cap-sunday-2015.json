@@ -14,5 +14,6 @@
   "image": "/uploads/IMG_7161 (Large).jpg",
   "podcastFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20151122.mp3",
   "contentLength": "21283295",
-  "contentType": "audio/mp3"
+  "contentType": "audio/mp3",
+  "duration": 2660.28
 }

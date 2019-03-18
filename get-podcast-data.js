@@ -70,7 +70,7 @@ function httpGet(url) {
 
   let count = 0;
   podcasts.forEach(async podcast => {
-    if (count > 0) return;
+    if (count > 5) return;
     const item = podcast[1];
 
     let podcastFile = item.data.podcastFile || '';
@@ -91,10 +91,11 @@ function httpGet(url) {
         delete data.metadata;
         const result = await sound.parseStream(httpData, contentType, {
           native: true,
+          duration: true,
         });
         const {format} = result;
         const {duration} = format;
-        console.log(result.native, podcastFile);
+        console.log(podcastFile);
         data.duration = duration;
         fs.writeFileSync(
           './data/words/' + podcast[0],

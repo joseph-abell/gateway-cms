@@ -14,5 +14,6 @@
   "image": "/uploads/Transformation Culture.jpg",
   "podcastFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20151004.mp3",
   "contentLength": "10337018",
-  "contentType": "audio/mp3"
+  "contentType": "audio/mp3",
+  "duration": 1291.992
 }
