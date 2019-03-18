@@ -2,6 +2,7 @@ const https = require('https');
 const fetch = require('isomorphic-fetch');
 const sound = require('music-metadata');
 const fs = require('fs');
+const util = require('util');
 
 function httpGet(url) {
   return new Promise((resolve, reject) => {
@@ -66,8 +67,7 @@ function httpGet(url) {
 
           data.contentLength = contentLength;
           data.contentType = contentType;
-          data.podcastMetadata = httpData;
-
+          data.metadata = JSON.stringify(util.inspect(httpData));
           fs.writeFileSync(
             './data/words/' + podcast[0],
             JSON.stringify(data, null, 2),
@@ -76,9 +76,5 @@ function httpGet(url) {
         }
       }
     }
-  });
-
-  podcasts.forEach(async podcast => {
-    console.log(podcast);
   });
 })();
