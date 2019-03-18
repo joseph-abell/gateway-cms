@@ -70,7 +70,7 @@ function httpGet(url) {
 
   let count = 0;
   podcasts.forEach(async podcast => {
-    if (count > 5) return;
+    if (count > 10) return;
     const item = podcast[1];
 
     let podcastFile = item.data.podcastFile || '';
@@ -79,6 +79,7 @@ function httpGet(url) {
       (!item.data.contentType || !item.data.duration)
     ) {
       count = count + 1;
+      console.log(podcast[0]);
       const httpData = await httpGet(podcastFile).catch(e => e);
       if (httpData.statusCode === 200) {
         const contentLength = httpData.headers['content-length'];
