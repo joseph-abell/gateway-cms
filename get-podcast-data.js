@@ -65,23 +65,12 @@ function httpGet(url) {
           fs.readFileSync('./data/words/' + podcast[0], 'utf-8'),
         );
 
+        const {
+          format: {duration},
+        } = await sound.parseStream(httpData, contentType);
         data.contentLength = contentLength;
         data.contentType = contentType;
-        data.metadata = JSON.stringify(httpData, function(key, value) {
-          switch (key) {
-            case '[Symbol(owner)]':
-            case 'socket':
-            case 'connection':
-            case 'res':
-            case 'incoming':
-            case '0':
-            case 'parser':
-            case 'agent':
-              return key;
-            default:
-              return value;
-          }
-        });
+        data.duration = duration;
         fs.writeFileSync(
           './data/words/' + podcast[0],
           JSON.stringify(data, null, 2),
