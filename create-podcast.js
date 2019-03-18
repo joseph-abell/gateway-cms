@@ -67,7 +67,6 @@ const createText = (text = '') => {
 
       return aDate - bDate;
     });
-
   createText('<?xml version="1.0" encoding="UTF-8"?>');
 
   createElement('rss', [
@@ -156,7 +155,6 @@ const createText = (text = '') => {
   createElement('/itunes:explicit');
 
   podcasts.forEach(async (item = {}, index) => {
-    console.log(item);
     const {data = {}} = item;
     let {audioFile = ''} = data;
     audioFile = audioFile
@@ -167,12 +165,22 @@ const createText = (text = '') => {
     const {duration} = format || {};
     const size = {};
     createElement('item');
+    let podcastFile = item.data.audioFile || item.data.file;
+
+    if (
+      podcastFile &&
+      podcastFile.includes('/uploads') &&
+      !podcastFile.includes('gateway-cms')
+    ) {
+      podcastFile = `http://gateway-cms.netlify.com${podcastFile}`;
+    }
+
     createElement(
       'enclosure',
       [
         {
           name: 'url',
-          value: `https://data.gatewaychurch.co.uk${item.data.audioFile}`,
+          value: podcastFile,
         },
         {name: 'length', value: size},
         {name: 'type', value: 'audio/mpeg'},
