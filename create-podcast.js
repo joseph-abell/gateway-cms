@@ -161,11 +161,15 @@ const createText = (text = '') => {
       .split('%20')
       .join('-')
       .toLowerCase();
-    const {format} = {};
-    const {duration} = format || {};
-    const size = {};
-    createElement('item');
     let podcastFile = item.data.audioFile || item.data.file;
+    const metadata = JSON.parse(data.metadata);
+    if (index === 0) {
+      console.log(metadata);
+    }
+
+    const {duration} = data.contentType;
+    const size = data.contentLength;
+    createElement('item');
 
     if (
       podcastFile &&
