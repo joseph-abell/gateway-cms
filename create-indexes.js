@@ -67,7 +67,6 @@ const buildFileStructure = async fileNames => {
       data: getDataPromise(fileName),
     };
   });
-
   return fileStructure;
 };
 
@@ -83,14 +82,17 @@ const addDataToFileStructure = async fileStructure => {
   // and add the data to the file structure. Now we should have
   // everything we need to create the index files.
   const keys = Object.keys(fileStructure);
-  const promises = keys.map(item => fileStructure[item].data);
+  const promises = keys.map(async item => {
+    const i = fileStructure[item];
+    const data = await i.data;
+    return {...i, data};
+  });
   const data = await Promise.all(promises);
-
   data.forEach(item => {
-    const keys = Object.keys(fileStructure);
+    const {data} = item;
     keys.forEach(key => {
       if (
-        `${item.title
+        `${data.title
           .split('(')
           .join('')
           .split(')')
@@ -112,10 +114,10 @@ const addDataToFileStructure = async fileStructure => {
           .split(' ')
           .join('-')}.json` === key
       ) {
-        if (item.json) {
-          fileStructure[key].data = item.json;
+        if (data.json) {
+          fileStructure[key].data = data.json;
         } else {
-          fileStructure[key].data = item;
+          fileStructure[key].data = data;
         }
       }
     });

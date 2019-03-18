@@ -25,10 +25,9 @@ const getDataPromise = (filename, includeIndex = false) =>
         .join('-')
         .split(':')
         .join('');
-
       const result = {
-        title,
         ...data,
+        title,
       };
 
       return resolve(result);
