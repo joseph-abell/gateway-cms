@@ -67,7 +67,7 @@ function httpGet(url) {
 
           data.contentLength = contentLength;
           data.contentType = contentType;
-          data.metadata = JSON.stringify(util.inspect(httpData));
+          data.metadata = util.inspect(httpData);
           fs.writeFileSync(
             './data/words/' + podcast[0],
             JSON.stringify(data, null, 2),
