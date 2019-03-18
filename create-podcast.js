@@ -162,15 +162,6 @@ const createText = (text = '') => {
       .join('-')
       .toLowerCase();
     let podcastFile = item.data.audioFile || item.data.file;
-    const metadata = JSON.parse(data.metadata);
-    if (index === 0) {
-      console.log(metadata);
-    }
-
-    const {duration} = data.contentType;
-    const size = data.contentLength;
-    createElement('item');
-
     if (
       podcastFile &&
       podcastFile.includes('/uploads') &&
@@ -178,89 +169,93 @@ const createText = (text = '') => {
     ) {
       podcastFile = `http://gateway-cms.netlify.com${podcastFile}`;
     }
+    const size = item.data.contentLength;
+    if (podcastFile) {
+      createElement('item');
 
-    createElement(
-      'enclosure',
-      [
-        {
-          name: 'url',
-          value: podcastFile,
-        },
-        {name: 'length', value: size},
-        {name: 'type', value: 'audio/mpeg'},
-      ],
-      true,
-    );
-
-    createElement('description');
-    createText(item.data.deck);
-    createElement('/description');
-
-    const date = DateTime.fromISO(item.data.date).toHTTP();
-
-    createElement('guid');
-    createText(`${item.data.title} - ${date}`);
-    createElement('/guid');
-
-    createElement('title');
-    createText(item.data.title);
-    createElement('/title');
-
-    createElement('pubDate');
-    createText(date);
-    createElement('/pubDate');
-
-    if (item.data.authors && item.data.authors.length) {
-      item.data.authors.forEach(({author}) => {
-        createElement('author');
-        createText(author);
-        createElement('/author');
-      });
-    }
-
-    if (item.data.itunesImage) {
-      createElement('itunes:image');
-      createText(item.data.itunesImage);
-      createElement('/itunes:image');
-    }
-
-    createElement('itunes:explicit');
-    createText('no');
-    createElement('/itunes:explicit');
-
-    createElement('itunes:isClosedCaptioned');
-    createText('no');
-    createElement('/itunes:isClosedCaptioned');
-
-    createElement('itunes:duration');
-    createText(duration);
-    createElement('/itunes:duration');
-
-    if (item.data.itunesImage) {
       createElement(
-        'itunes:image',
+        'enclosure',
         [
           {
-            name: 'href',
-            value: `https://data.gatewaychurch.co.uk${item.data.itunesImage}`,
+            name: 'url',
+            value: podcastFile,
           },
+          {name: 'length', value: size},
+          {name: 'type', value: 'audio/mpeg'},
         ],
         true,
       );
-    } else if (data.defaultImage) {
-      createElement(
-        'itunes:image',
-        [
-          {
-            name: 'href',
-            value: `https://data.gatewaychurch.co.uk${data.image}`,
-          },
-        ],
-        true,
-      );
-    }
 
-    createElement('/item');
+      createElement('description');
+      createText(item.data.deck);
+      createElement('/description');
+
+      const date = DateTime.fromISO(item.data.date).toHTTP();
+
+      createElement('guid');
+      createText(`${item.data.title} - ${date}`);
+      createElement('/guid');
+
+      createElement('title');
+      createText(item.data.title);
+      createElement('/title');
+
+      createElement('pubDate');
+      createText(date);
+      createElement('/pubDate');
+
+      if (item.data.authors && item.data.authors.length) {
+        item.data.authors.forEach(({author}) => {
+          createElement('author');
+          createText(author);
+          createElement('/author');
+        });
+      }
+
+      if (item.data.itunesImage) {
+        createElement('itunes:image');
+        createText(item.data.itunesImage);
+        createElement('/itunes:image');
+      }
+
+      createElement('itunes:explicit');
+      createText('no');
+      createElement('/itunes:explicit');
+
+      createElement('itunes:isClosedCaptioned');
+      createText('no');
+      createElement('/itunes:isClosedCaptioned');
+
+      createElement('itunes:duration');
+      createText(item.data.duration);
+      createElement('/itunes:duration');
+
+      if (item.data.itunesImage) {
+        createElement(
+          'itunes:image',
+          [
+            {
+              name: 'href',
+              value: `https://data.gatewaychurch.co.uk${item.data.itunesImage}`,
+            },
+          ],
+          true,
+        );
+      } else if (data.defaultImage) {
+        createElement(
+          'itunes:image',
+          [
+            {
+              name: 'href',
+              value: `https://data.gatewaychurch.co.uk${data.image}`,
+            },
+          ],
+          true,
+        );
+      }
+
+      createElement('/item');
+    }
   });
 
   createElement('/channel');
