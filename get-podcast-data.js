@@ -68,28 +68,19 @@ function httpGet(url) {
     }
   });
 
-  podcasts.forEach(async podcast => {
-    const item = podcast[1];
-    let podcastFile = item.data.podcastFile || '';
-
-    if (
-      podcastFile.includes('/uploads') &&
-      !podcastFile.includes('gateway-cms')
-    ) {
-      podcastFile = `http://gateway-cms.netlify.com${podcastFile}`;
-    }
-  });
-
   let count = 0;
   podcasts.forEach(async podcast => {
-    if (count > 5) return;
+    if (count > 0) return;
     const item = podcast[1];
-    let podcastFile = item.data.podcastFile || '';
-    if ((podcastFile || '').trim().length > 0) {
-      const httpData = await httpGet(podcastFile).catch(e => e);
 
+    let podcastFile = item.data.podcastFile || '';
+    if (
+      (podcastFile || '').trim().length > 0 &&
+      (!item.data.contentType || !item.data.duration)
+    ) {
+      count = count + 1;
+      const httpData = await httpGet(podcastFile).catch(e => e);
       if (httpData.statusCode === 200) {
-        count = count + 1;
         const contentLength = httpData.headers['content-length'];
         const contentType = httpData.headers['content-type'];
         const data = JSON.parse(
@@ -97,24 +88,19 @@ function httpGet(url) {
         );
         data.contentLength = contentLength;
         data.contentType = contentType;
+        delete data.metadata;
+        const result = await sound.parseStream(httpData, contentType, {
+          native: true,
+        });
+        const {format} = result;
+        const {duration} = format;
+        console.log(result.native, podcastFile);
+        data.duration = duration;
         fs.writeFileSync(
           './data/words/' + podcast[0],
           JSON.stringify(data, null, 2),
           'utf-8',
         );
-
-        if (!data.duration) {
-          const {
-            format: {duration},
-          } = await sound.parseStream(httpData, contentType);
-          console.log(podcast[0]);
-          data.duration = duration;
-          fs.writeFileSync(
-            './data/words/' + podcast[0],
-            JSON.stringify(data, null, 2),
-            'utf-8',
-          );
-        }
       }
     }
   });
