@@ -16,5 +16,2513 @@
     <itunes:image href="https://data.gatewaychurch.co.uk/uploads/church_family.jpg"/>
     <itunes:category text="Religion & Spirituality"/>
     <itunes:explicit>no</itunes:explicit>
-  </channel>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20141005.mp3" length="8250552" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>a-call-to-worship - Sun, 05 Oct 2014 11:00:00 GMT</guid>
+      <title>A Call To Worship</title>
+      <pubDate>Sun, 05 Oct 2014 11:00:00 GMT</pubDate>
+      <author>nicola-betts</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>1031.184</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20141102.mp3" length="11128256" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>the-importance-of-testimony - Sun, 02 Nov 2014 12:00:00 GMT</guid>
+      <title>The Importance Of Testimony</title>
+      <pubDate>Sun, 02 Nov 2014 12:00:00 GMT</pubDate>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>1390.896</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20141109.mp3" length="33129055" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>be-perfect - Sun, 09 Nov 2014 12:00:00 GMT</guid>
+      <title>Be Perfect</title>
+      <pubDate>Sun, 09 Nov 2014 12:00:00 GMT</pubDate>
+      <author>caleb-ellwood</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>2760.72</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20141116.mp3" length="14067378" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>your-god-reigns - Sun, 16 Nov 2014 12:00:00 GMT</guid>
+      <title>Your God Reigns</title>
+      <pubDate>Sun, 16 Nov 2014 12:00:00 GMT</pubDate>
+      <author>john-wilson</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>1758.288</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20141123.mp3" length="19917026" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>living-stones - Sun, 23 Nov 2014 12:00:00 GMT</guid>
+      <title>Living Stones</title>
+      <pubDate>Sun, 23 Nov 2014 12:00:00 GMT</pubDate>
+      <author>john-wilson</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>2489.496</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20141207.mp3" length="9923816" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>the-mind-of-christ - Sun, 07 Dec 2014 12:00:00 GMT</guid>
+      <title>The Mind Of Christ</title>
+      <pubDate>Sun, 07 Dec 2014 12:00:00 GMT</pubDate>
+      <author>david-donkin</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>1240.344</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20141214.mp3" length="12186987" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>treasure-and-ponder - Sun, 14 Dec 2014 12:00:00 GMT</guid>
+      <title>Treasure And Ponder</title>
+      <pubDate>Sun, 14 Dec 2014 12:00:00 GMT</pubDate>
+      <author>rachael-bulley</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>1522.728</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20150104.mp3" length="18352247" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>live-a-life-of-love - Sun, 04 Jan 2015 12:00:00 GMT</guid>
+      <title>Live A Life Of Love</title>
+      <pubDate>Sun, 04 Jan 2015 12:00:00 GMT</pubDate>
+      <author>john-wilson</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>2293.896</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20150111.mp3" length="18830523" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>knowing - Sun, 11 Jan 2015 12:00:00 GMT</guid>
+      <title>Knowing</title>
+      <pubDate>Sun, 11 Jan 2015 12:00:00 GMT</pubDate>
+      <author>peter-sloan</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>2353.68</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20150118.mp3" length="20286622" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>growing - Sun, 18 Jan 2015 12:00:00 GMT</guid>
+      <title>Growing</title>
+      <pubDate>Sun, 18 Jan 2015 12:00:00 GMT</pubDate>
+      <author>john-wilson</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>2535.696</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20150125.mp3" length="18133741" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>going - Sun, 25 Jan 2015 12:00:00 GMT</guid>
+      <title>Going</title>
+      <pubDate>Sun, 25 Jan 2015 12:00:00 GMT</pubDate>
+      <author>caleb-ellwood</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>2266.584</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20150201.mp3" length="21447071" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>faith - Sun, 01 Feb 2015 12:00:00 GMT</guid>
+      <title>Faith</title>
+      <pubDate>Sun, 01 Feb 2015 12:00:00 GMT</pubDate>
+      <author>neville-croucher</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>2680.752</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20150208.mp3" length="20138862" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>who-do-you-think-you-are? - Sun, 08 Feb 2015 12:00:00 GMT</guid>
+      <title>Who Do You Think You Are?</title>
+      <pubDate>Sun, 08 Feb 2015 12:00:00 GMT</pubDate>
+      <author>john-wilson</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>2516.712</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20150215.mp3" length="18649254" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>turn-on-the-lights - Sun, 15 Feb 2015 12:00:00 GMT</guid>
+      <title>Turn On The Lights</title>
+      <pubDate>Sun, 15 Feb 2015 12:00:00 GMT</pubDate>
+      <author>john-wilson</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>2331.024</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20150222.mp3" length="18560448" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>love-and-life - Sun, 22 Feb 2015 00:00:00 GMT</guid>
+      <title>Love And Life</title>
+      <pubDate>Sun, 22 Feb 2015 00:00:00 GMT</pubDate>
+      <author>nathan-bulley</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>2319.432</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20150301.mp3" length="15318249" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>out-of-your-depth - Sun, 01 Mar 2015 00:00:00 GMT</guid>
+      <title>Out Of Your Depth</title>
+      <pubDate>Sun, 01 Mar 2015 00:00:00 GMT</pubDate>
+      <author>rachael-bulley</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>1914.648</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20150308.mp3" length="22380288" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>wall-builders-or-bridge-builders? - Sun, 08 Mar 2015 12:00:00 GMT</guid>
+      <title>Wall Builders Or Bridge Builders?</title>
+      <pubDate>Sun, 08 Mar 2015 12:00:00 GMT</pubDate>
+      <author>john-wilson</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>2796.912</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20150315.mp3" length="20701747" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>for-the-sake-of-you-gentiles - Sun, 15 Mar 2015 12:00:00 GMT</guid>
+      <title>For The Sake Of You Gentiles</title>
+      <pubDate>Sun, 15 Mar 2015 12:00:00 GMT</pubDate>
+      <author>caleb-ellwood</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>2587.584</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20150322.mp3" length="16745384" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>glory-in-the-church - Sun, 22 Mar 2015 12:00:00 GMT</guid>
+      <title>Glory In The Church</title>
+      <pubDate>Sun, 22 Mar 2015 12:00:00 GMT</pubDate>
+      <author>john-wilson</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>2093.04</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20150329.mp3" length="18633141" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>easter-week-readings - Sun, 29 Mar 2015 11:00:00 GMT</guid>
+      <title>Easter Week Readings</title>
+      <pubDate>Sun, 29 Mar 2015 11:00:00 GMT</pubDate>
+      <author>john-wilson</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>2329.008</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20150412.mp3" length="18609139" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>walk-worthy.-walk-together. - Sun, 12 Apr 2015 11:00:00 GMT</guid>
+      <title>Walk Worthy. Walk Together.</title>
+      <pubDate>Sun, 12 Apr 2015 11:00:00 GMT</pubDate>
+      <author>simon-neary</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>2326.008</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20150503.mp3" length="20888369" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>choices-in-the-wilderness - Sun, 03 May 2015 11:00:00 GMT</guid>
+      <title>Choices In The Wilderness</title>
+      <pubDate>Sun, 03 May 2015 11:00:00 GMT</pubDate>
+      <author>billy-geraghty</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>1730.304</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20150517.mp3" length="18641845" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>walking-in-the-way-of-light - Sun, 17 May 2015 11:00:00 GMT</guid>
+      <title>Walking In The Way Of Light</title>
+      <pubDate>Sun, 17 May 2015 11:00:00 GMT</pubDate>
+      <author>simon-desborough</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>2329.584</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20150524.mp3" length="21149762" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>be-filled-with-the-spirit - Sun, 24 May 2015 11:00:00 GMT</guid>
+      <title>Be Filled With The Spirit</title>
+      <pubDate>Sun, 24 May 2015 11:00:00 GMT</pubDate>
+      <author>john-wilson</author>
+      <author>bethany-wheeler</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>2643.072</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20150531.mp3" length="23576980" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>marriage - Sun, 31 May 2015 11:00:00 GMT</guid>
+      <title>Marriage</title>
+      <pubDate>Sun, 31 May 2015 11:00:00 GMT</pubDate>
+      <author>tom-ross</author>
+      <author>jill-ross</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>2946.984</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20150607.mp3" length="16017131" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>global-mission-sunday - Sun, 07 Jun 2015 11:00:00 GMT</guid>
+      <title>Global Mission Sunday</title>
+      <pubDate>Sun, 07 Jun 2015 11:00:00 GMT</pubDate>
+      <author>faith-turner</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>2002.008</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20150614.mp3" length="21097651" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>children-and-parents - Sun, 14 Jun 2015 11:00:00 GMT</guid>
+      <title>Children And Parents</title>
+      <pubDate>Sun, 14 Jun 2015 11:00:00 GMT</pubDate>
+      <author>nicola-betts</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>2637.072</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20150621.mp3" length="28956009" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>slaves-and-masters - Sun, 21 Jun 2015 11:00:00 GMT</guid>
+      <title>Slaves And Masters</title>
+      <pubDate>Sun, 21 Jun 2015 11:00:00 GMT</pubDate>
+      <author>caleb-ellwood</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>1809.72</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20150628.mp3" length="18749926" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>the-armour-of-god - Sun, 28 Jun 2015 11:00:00 GMT</guid>
+      <title>The Armour Of God</title>
+      <pubDate>Sun, 28 Jun 2015 11:00:00 GMT</pubDate>
+      <author>peter-sloan</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>2343.096</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20150705.mp3" length="20357928" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>jesus-is-the-centre - Sun, 05 Jul 2015 11:00:00 GMT</guid>
+      <title>Jesus Is The Centre</title>
+      <pubDate>Sun, 05 Jul 2015 11:00:00 GMT</pubDate>
+      <author>john-wilson</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>2544.096</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20150712.mp3" length="13349482" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>the-prodigal-son - Sun, 12 Jul 2015 11:00:00 GMT</guid>
+      <title>The Prodigal Son</title>
+      <pubDate>Sun, 12 Jul 2015 11:00:00 GMT</pubDate>
+      <author>neville-croucher</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>1668.552</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20150719.mp3" length="18718973" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>the-merciful-god - Sun, 19 Jul 2015 11:00:00 GMT</guid>
+      <title>The Merciful God</title>
+      <pubDate>Sun, 19 Jul 2015 11:00:00 GMT</pubDate>
+      <author>dan-wheeler</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>2339.736</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20150726.mp3" length="12650218" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>the-foolish-farmer - Sun, 26 Jul 2015 11:00:00 GMT</guid>
+      <title>The Foolish Farmer</title>
+      <pubDate>Sun, 26 Jul 2015 11:00:00 GMT</pubDate>
+      <author>jamie-holliday</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>1577.472</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20150802.mp3" length="19139815" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>the-good-samaritan - Sun, 02 Aug 2015 11:00:00 GMT</guid>
+      <title>The Good Samaritan</title>
+      <pubDate>Sun, 02 Aug 2015 11:00:00 GMT</pubDate>
+      <author>simon-neary</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>2354.04</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20150809.mp3" length="21272573" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>speculate-to-accumulate - Sun, 09 Aug 2015 11:00:00 GMT</guid>
+      <title>Speculate To Accumulate</title>
+      <pubDate>Sun, 09 Aug 2015 11:00:00 GMT</pubDate>
+      <author>nathan-bulley</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>2394.456</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20150816.mp3" length="11677557" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>the-wise-and-foolish-builders - Sun, 16 Aug 2015 11:00:00 GMT</guid>
+      <title>The Wise And Foolish Builders</title>
+      <pubDate>Sun, 16 Aug 2015 11:00:00 GMT</pubDate>
+      <author>rachael-bulley</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>1459.56</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20150823.mp3" length="11074100" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>the-mustard-seed - Sun, 23 Aug 2015 11:00:00 GMT</guid>
+      <title>The Mustard Seed</title>
+      <pubDate>Sun, 23 Aug 2015 11:00:00 GMT</pubDate>
+      <author>david-donkin</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>1384.128</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20150920.mp3" length="20596209" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>making-disciples-in-our-city - Sun, 20 Sep 2015 11:00:00 GMT</guid>
+      <title>Making Disciples In Our City</title>
+      <pubDate>Sun, 20 Sep 2015 11:00:00 GMT</pubDate>
+      <author>dan-wheeler</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>2573.88</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20150927.mp3" length="14809392" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>transformation.-relationship.-love. - Sun, 27 Sep 2015 11:00:00 GMT</guid>
+      <title>Transformation. Relationship. Love.</title>
+      <pubDate>Sun, 27 Sep 2015 11:00:00 GMT</pubDate>
+      <author>caleb-ellwood</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>1850.52</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20151004.mp3" length="10337018" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>a-place-called-welcome - Sun, 04 Oct 2015 11:07:00 GMT</guid>
+      <title>A Place Called Welcome</title>
+      <pubDate>Sun, 04 Oct 2015 11:07:00 GMT</pubDate>
+      <author>john-wilson</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>1291.992</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20151011.mp3" length="16486380" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>praying-for-one-another - Sun, 11 Oct 2015 11:00:00 GMT</guid>
+      <title>Praying For One Another</title>
+      <pubDate>Sun, 11 Oct 2015 11:00:00 GMT</pubDate>
+      <author>john-wilson</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>2060.664</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20151018.mp3" length="9507430" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>serving-one-another - Sun, 18 Oct 2015 11:00:00 GMT</guid>
+      <title>Serving One Another</title>
+      <pubDate>Sun, 18 Oct 2015 11:00:00 GMT</pubDate>
+      <author>john-wilson</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>1187.784</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20151025.mp3" length="16721194" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>kingdom-ambassadors - Sun, 25 Oct 2015 12:00:00 GMT</guid>
+      <title>Kingdom Ambassadors</title>
+      <pubDate>Sun, 25 Oct 2015 12:00:00 GMT</pubDate>
+      <author>caleb-ellwood</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>2090.016</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20151101.mp3" length="12697457" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>naming-rights - Sun, 01 Nov 2015 12:00:00 GMT</guid>
+      <title>Naming Rights</title>
+      <pubDate>Sun, 01 Nov 2015 12:00:00 GMT</pubDate>
+      <author>dan-wheeler</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>1587.048</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20151115.mp3" length="15243039" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>just-be - Sun, 15 Nov 2015 12:00:00 GMT</guid>
+      <title>Just Be</title>
+      <pubDate>Sun, 15 Nov 2015 12:00:00 GMT</pubDate>
+      <author>rachael-bulley</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>1904.736</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20151122.mp3" length="21283295" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>cap-sunday-2015 - Sun, 22 Nov 2015 12:00:00 GMT</guid>
+      <title>Cap Sunday 2015</title>
+      <pubDate>Sun, 22 Nov 2015 12:00:00 GMT</pubDate>
+      <author>jackie-adie</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>2660.28</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20151206.mp3" length="15485745" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>the-promise-through-the-ages - Sun, 06 Dec 2015 12:00:00 GMT</guid>
+      <title>The Promise Through The Ages</title>
+      <pubDate>Sun, 06 Dec 2015 12:00:00 GMT</pubDate>
+      <author>john-wilson</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>1935.072</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20160103.mp3" length="15409100" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>calling,-co-operation,-christ-centred - Sun, 03 Jan 2016 12:00:00 GMT</guid>
+      <title>Calling, Co Operation, Christ Centred</title>
+      <pubDate>Sun, 03 Jan 2016 12:00:00 GMT</pubDate>
+      <author>david-donkin</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>1926</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20160110.mp3" length="20134256" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>in-the-beginning - Sun, 10 Jan 2016 12:00:00 GMT</guid>
+      <title>In The Beginning</title>
+      <pubDate>Sun, 10 Jan 2016 12:00:00 GMT</pubDate>
+      <author>john-wilson</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>2516.136</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20160117.mp3" length="19639488" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>the-lie-we-all-fell-for - Sun, 17 Jan 2016 12:00:00 GMT</guid>
+      <title>The Lie We All Fell For</title>
+      <pubDate>Sun, 17 Jan 2016 12:00:00 GMT</pubDate>
+      <author>john-wilson</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>2454.288</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20160124.mp3" length="19695080" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>in-the-days-of-noah - Sun, 24 Jan 2016 12:00:00 GMT</guid>
+      <title>In The Days Of Noah</title>
+      <pubDate>Sun, 24 Jan 2016 12:00:00 GMT</pubDate>
+      <author>john-wilson</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>2461.752</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20160207.mp3" length="5581826" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>trusting-only-in-the-rock - Sun, 07 Feb 2016 12:00:00 GMT</guid>
+      <title>Trusting Only In The Rock</title>
+      <pubDate>Sun, 07 Feb 2016 12:00:00 GMT</pubDate>
+      <author>simon-desborough</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>697.08</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20160214.mp3" length="24427170" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>do-not-be-anxious - Sun, 14 Feb 2016 12:00:00 GMT</guid>
+      <title>Do Not Be Anxious</title>
+      <pubDate>Sun, 14 Feb 2016 12:00:00 GMT</pubDate>
+      <author>caleb-ellwood</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>3053.256</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20160221.mp3" length="28974922" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>a-city-and-a-tower - Sun, 21 Feb 2016 12:00:00 GMT</guid>
+      <title>A City And A Tower</title>
+      <pubDate>Sun, 21 Feb 2016 12:00:00 GMT</pubDate>
+      <author>john-wilson</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>2297.652244897959</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20160228.mp3" length="32517845" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>the-call-of-abraham - Sun, 28 Feb 2016 12:00:00 GMT</guid>
+      <title>The Call Of Abraham</title>
+      <pubDate>Sun, 28 Feb 2016 12:00:00 GMT</pubDate>
+      <author>john-wilson</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>2663.7844897959185</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20160306.mp3" length="22606758" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>what-is-communion? - Sun, 06 Mar 2016 12:00:00 GMT</guid>
+      <title>What Is Communion?</title>
+      <pubDate>Sun, 06 Mar 2016 12:00:00 GMT</pubDate>
+      <author>john-wilson</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>1833.221224489796</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20160313.mp3" length="22348521" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>easter-preparation - Sun, 13 Mar 2016 12:00:00 GMT</guid>
+      <title>Easter Preparation</title>
+      <pubDate>Sun, 13 Mar 2016 12:00:00 GMT</pubDate>
+      <author>dan-wheeler</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>1840.7706122448978</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20160320.mp3" length="19430930" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>the-triumphal-entry - Sun, 20 Mar 2016 12:00:00 GMT</guid>
+      <title>The Triumphal Entry</title>
+      <pubDate>Sun, 20 Mar 2016 12:00:00 GMT</pubDate>
+      <author>rachael-bulley</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>1496.9730612244898</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20160403.mp3" length="22949357" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>where-is-god-when-it-hurts? - Sun, 03 Apr 2016 11:00:00 GMT</guid>
+      <title>Where Is God When It Hurts?</title>
+      <pubDate>Sun, 03 Apr 2016 11:00:00 GMT</pubDate>
+      <author>bethany-wheeler</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>1804.225306122449</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20160410.mp3" length="35461623" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>did-jesus-really-rise-from-the-dead? - Sun, 10 Apr 2016 11:00:00 GMT</guid>
+      <title>Did Jesus Really Rise From The Dead?</title>
+      <pubDate>Sun, 10 Apr 2016 11:00:00 GMT</pubDate>
+      <author>caleb-ellwood</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>2616.1110204081633</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20160508.mp3" length="35380806" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>7-things-that-happen-when-god-steps-in-and-people-step-up - Sun, 08 May 2016 11:00:00 GMT</guid>
+      <title>7 Things That Happen When God Steps In And People Step Up</title>
+      <pubDate>Sun, 08 May 2016 11:00:00 GMT</pubDate>
+      <author>john-wilson</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>2774.4391836734694</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20160522.mp3" length="10287741" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>pointing-one-another-to-jesus - Sun, 22 May 2016 11:00:00 GMT</guid>
+      <title>Pointing One Another To Jesus</title>
+      <pubDate>Sun, 22 May 2016 11:00:00 GMT</pubDate>
+      <author>caleb-ellwood</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>786.7297959183674</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20160529.mp3" length="30354627" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>empty-or-full? - Sun, 29 May 2016 11:00:00 GMT</guid>
+      <title>Empty Or Full?</title>
+      <pubDate>Sun, 29 May 2016 11:00:00 GMT</pubDate>
+      <author>john-wilson</author>
+      <author>pam-wilson</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>2448.770612244898</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20160612.mp3" length="42122023" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>speaking-in-tongues - Sun, 12 Jun 2016 11:00:00 GMT</guid>
+      <title>Speaking In Tongues</title>
+      <pubDate>Sun, 12 Jun 2016 11:00:00 GMT</pubDate>
+      <author>john-wilson</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>3333.0155102040817</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20160626.mp3" length="27118972" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>nehemiah - Sun, 26 Jun 2016 11:00:00 GMT</guid>
+      <title>Nehemiah</title>
+      <pubDate>Sun, 26 Jun 2016 11:00:00 GMT</pubDate>
+      <author>david-donkin</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>2134.204081632653</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20160703.mp3" length="3000075" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>psalm-100 - Sun, 03 Jul 2016 11:00:00 GMT</guid>
+      <title>Psalm 100</title>
+      <pubDate>Sun, 03 Jul 2016 11:00:00 GMT</pubDate>
+      <author>simon-desborough</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>243.67020408163265</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20160710.mp3" length="39035134" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>the-good-shepherd - Sun, 10 Jul 2016 11:00:00 GMT</guid>
+      <title>The Good Shepherd</title>
+      <pubDate>Sun, 10 Jul 2016 11:00:00 GMT</pubDate>
+      <author>caleb-ellwood</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>2703.9608163265307</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20160717.mp3" length="30484834" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>i-am-the-true-vine - Sun, 17 Jul 2016 11:00:00 GMT</guid>
+      <title>I Am The True Vine</title>
+      <pubDate>Sun, 17 Jul 2016 11:00:00 GMT</pubDate>
+      <author>caleb-ellwood</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>2291.382857142857</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20160731.mp3" length="41182380" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>how-does-god-see-me? - Sun, 31 Jul 2016 11:00:00 GMT</guid>
+      <title>How Does God See Me?</title>
+      <pubDate>Sun, 31 Jul 2016 11:00:00 GMT</pubDate>
+      <author>tony-smith</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>3555.7877551020406</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20160807.mp3" length="29448473" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>i-am-the-resurrection-and-the-life - Sun, 07 Aug 2016 11:00:00 GMT</guid>
+      <title>I Am The Resurrection And The Life</title>
+      <pubDate>Sun, 07 Aug 2016 11:00:00 GMT</pubDate>
+      <author>simon-neary</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>2345.4563265306124</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20160814.mp3" length="33877521" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>i-am-the-way-and-the-truth-and-the-life - Sun, 14 Aug 2016 11:00:00 GMT</guid>
+      <title>I Am The Way And The Truth And The Life</title>
+      <pubDate>Sun, 14 Aug 2016 11:00:00 GMT</pubDate>
+      <author>peter-sloan</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>2572.2514285714287</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20160821.mp3" length="22912939" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>i-am-the-bread-of-life - Sun, 21 Aug 2016 11:00:00 GMT</guid>
+      <title>I Am The Bread Of Life</title>
+      <pubDate>Sun, 21 Aug 2016 11:00:00 GMT</pubDate>
+      <author>rachael-bulley</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>1860.7281632653062</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/201609011.mp3" length="29688874" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>the-man-with-a-big-but---4-keys-to-growing-in-confidence - Sun, 11 Sep 2016 11:00:00 GMT</guid>
+      <title>The Man With A Big But - 4 Keys To Growing In Confidence</title>
+      <pubDate>Sun, 11 Sep 2016 11:00:00 GMT</pubDate>
+      <author>john-wilson</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>2419.2261224489794</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20160918.mp3" length="35391032" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>two-crosses - Sun, 18 Sep 2016 11:00:00 GMT</guid>
+      <title>Two Crosses</title>
+      <pubDate>Sun, 18 Sep 2016 11:00:00 GMT</pubDate>
+      <author>mike-sprenger</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>3040.9665306122447</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20161001.mp3" length="18094636" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>keep-moving-forward-in-faith - Sun, 02 Oct 2016 11:00:00 GMT</guid>
+      <title>Keep Moving Forward In Faith</title>
+      <pubDate>Sun, 02 Oct 2016 11:00:00 GMT</pubDate>
+      <author>dan-wheeler</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>1501.44</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20161016.mp3" length="29820164" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>how-could-a-good-god-send-people-to-hell? - Sun, 16 Oct 2016 11:00:00 GMT</guid>
+      <title>How Could A Good God Send People To Hell?</title>
+      <pubDate>Sun, 16 Oct 2016 11:00:00 GMT</pubDate>
+      <author>john-wilson</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>2504.5420408163263</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20161023.mp3" length="27487076" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>if-god-is-good,-why-does-my-life-suck? - Sun, 23 Oct 2016 11:00:00 GMT</guid>
+      <title>If God Is Good, Why Does My Life Suck?</title>
+      <pubDate>Sun, 23 Oct 2016 11:00:00 GMT</pubDate>
+      <author>john-wilson</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>2272.0783673469386</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20161106.mp3" length="28395245" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>freedom - Sun, 06 Nov 2016 12:00:00 GMT</guid>
+      <title>Freedom</title>
+      <pubDate>Sun, 06 Nov 2016 12:00:00 GMT</pubDate>
+      <author>caleb-ellwood</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>2202.3314285714287</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20161120.mp3" length="29553704" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>how-to-live-free - Sun, 20 Nov 2016 12:00:00 GMT</guid>
+      <title>How To Live Free</title>
+      <pubDate>Sun, 20 Nov 2016 12:00:00 GMT</pubDate>
+      <author>caleb-ellwood</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>2409.168979591837</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20161127.mp3" length="33588879" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>a-salvation-story - Sun, 27 Nov 2016 12:00:00 GMT</guid>
+      <title>A Salvation Story</title>
+      <pubDate>Sun, 27 Nov 2016 12:00:00 GMT</pubDate>
+      <author>caleb-ellwood</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>2272.032</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20161204.mp3" length="5255132" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>an-adoption-story - Sun, 04 Dec 2016 12:00:00 GMT</guid>
+      <title>An Adoption Story</title>
+      <pubDate>Sun, 04 Dec 2016 12:00:00 GMT</pubDate>
+      <author>peter-sloan</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>419.94448979591834</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20161211.mp3" length="24675043" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>follow-jesus - Sun, 11 Dec 2016 12:00:00 GMT</guid>
+      <title>Follow Jesus</title>
+      <pubDate>Sun, 11 Dec 2016 12:00:00 GMT</pubDate>
+      <author>bethany-wheeler</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>2008.764081632653</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20161225.mp3" length="7810541" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>a-christmas-gift - Sun, 25 Dec 2016 12:00:00 GMT</guid>
+      <title>A Christmas Gift</title>
+      <pubDate>Sun, 25 Dec 2016 12:00:00 GMT</pubDate>
+      <author>dan-wheeler</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>675.6310204081633</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20170108.mp3" length="29989179" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>john-prepares-the-way - Sun, 08 Jan 2017 12:00:00 GMT</guid>
+      <title>John Prepares The Way</title>
+      <pubDate>Sun, 08 Jan 2017 12:00:00 GMT</pubDate>
+      <author>david-donkin</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>2358.5959183673467</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20170115.mp3" length="36154208" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>the-testing - Sun, 15 Jan 2017 12:00:00 GMT</guid>
+      <title>The Testing</title>
+      <pubDate>Sun, 15 Jan 2017 12:00:00 GMT</pubDate>
+      <author>caleb-ellwood</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>2586.1485714285714</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20170122.mp3" length="25620506" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>repent-for-the-kingdom-of-heaven-has-come-near - Sun, 22 Jan 2017 12:00:00 GMT</guid>
+      <title>Repent For The Kingdom Of Heaven Has Come Near</title>
+      <pubDate>Sun, 22 Jan 2017 12:00:00 GMT</pubDate>
+      <author>dan-wheeler</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>2083.8661224489797</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20170129.mp3" length="34375263" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>repurposed-for-god - Sun, 29 Jan 2017 12:00:00 GMT</guid>
+      <title>Repurposed For God</title>
+      <pubDate>Sun, 29 Jan 2017 12:00:00 GMT</pubDate>
+      <author>caleb-ellwood</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>2430.145306122449</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20170212.mp3" length="31710508" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>goodonya - Sun, 12 Feb 2017 12:00:00 GMT</guid>
+      <title>Goodonya</title>
+      <pubDate>Sun, 12 Feb 2017 12:00:00 GMT</pubDate>
+      <author>caleb-ellwood</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>2506.89306122449</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20170219.mp3" length="27097805" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>mind-the-gap - Sun, 19 Feb 2017 12:00:00 GMT</guid>
+      <title>Mind The Gap</title>
+      <pubDate>Sun, 19 Feb 2017 12:00:00 GMT</pubDate>
+      <author>john-wilson</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>2189.9232653061226</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20170226.mp3" length="33556781" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>anger - Sun, 26 Feb 2017 12:00:00 GMT</guid>
+      <title>Anger</title>
+      <pubDate>Sun, 26 Feb 2017 12:00:00 GMT</pubDate>
+      <author>simon-neary</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>2534.4</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20170305.mp3" length="31620536" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>the-consequences-of-lust - Sun, 05 Mar 2017 12:00:00 GMT</guid>
+      <title>The Consequences Of Lust</title>
+      <pubDate>Sun, 05 Mar 2017 12:00:00 GMT</pubDate>
+      <author>caleb-ellwood</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>2211.9444897959183</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20170312.mp3" length="37048950" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>five-truths-about-marriage-and-divorce - Sun, 12 Mar 2017 12:00:00 GMT</guid>
+      <title>Five Truths About Marriage And Divorce</title>
+      <pubDate>Sun, 12 Mar 2017 12:00:00 GMT</pubDate>
+      <author>caleb-ellwood</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>2666.26612244898</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20170319.mp3" length="26815199" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>respond-with-grace - Sun, 19 Mar 2017 12:00:00 GMT</guid>
+      <title>Respond With Grace</title>
+      <pubDate>Sun, 19 Mar 2017 12:00:00 GMT</pubDate>
+      <author>dan-wheeler</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>2126.9420408163264</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20170326.mp3" length="31032416" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>love-your-enemies - Sun, 26 Mar 2017 11:00:00 GMT</guid>
+      <title>Love Your Enemies</title>
+      <pubDate>Sun, 26 Mar 2017 11:00:00 GMT</pubDate>
+      <author>john-wilson</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>2428.2644897959185</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20170402.mp3" length="24468518" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>a-polished-arrow - Sun, 02 Apr 2017 11:00:00 GMT</guid>
+      <title>A Polished Arrow</title>
+      <pubDate>Sun, 02 Apr 2017 11:00:00 GMT</pubDate>
+      <author>jeremy-simpkins</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>1988.5714285714287</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20170409.mp3" length="23888597" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>freedom-in-the-kingdom - Sun, 09 Apr 2017 11:00:00 GMT</guid>
+      <title>Freedom In The Kingdom</title>
+      <pubDate>Sun, 09 Apr 2017 11:00:00 GMT</pubDate>
+      <author>bethany-wheeler</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>1857.6195918367348</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20170507.mp3" length="44967226" type="audio/mpeg"/>
+      <description>
+        <p>A Youtube video of Dot's testimony is available above. For the whole of Caleb's talk please listen to the audio above the Youtube video.
+        </p>
+      </description>
+      <guid>fasting-feasting-on-god - Sun, 07 May 2017 11:00:00 GMT</guid>
+      <title>Fasting Feasting On God</title>
+      <pubDate>Sun, 07 May 2017 11:00:00 GMT</pubDate>
+      <author>caleb-ellwood</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>2498.194285714286</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20170514.mp3" length="31511894" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>treasures-in-heaven - Sun, 14 May 2017 11:00:00 GMT</guid>
+      <title>Treasures In Heaven</title>
+      <pubDate>Sun, 14 May 2017 11:00:00 GMT</pubDate>
+      <author>john-wilson</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>1925.3551020408163</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20170521.mp3" length="34810370" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>worry,-worry,-worry - Sun, 21 May 2017 11:00:00 GMT</guid>
+      <title>Worry, Worry, Worry</title>
+      <pubDate>Sun, 21 May 2017 11:00:00 GMT</pubDate>
+      <author>caleb-ellwood</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>2123.624489795918</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20170528.mp3" length="42534709" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>judging-others - Sun, 28 May 2017 11:00:00 GMT</guid>
+      <title>Judging Others</title>
+      <pubDate>Sun, 28 May 2017 11:00:00 GMT</pubDate>
+      <author>john-wilson</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>2480.901224489796</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20170604.mp3" length="10610818" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>how-to-vote - Sun, 04 Jun 2017 11:00:00 GMT</guid>
+      <title>How To Vote</title>
+      <pubDate>Sun, 04 Jun 2017 11:00:00 GMT</pubDate>
+      <author>john-wilson</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>605.0742857142857</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20170611.mp3" length="32178565" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>ask,-seek,-knock - Sun, 11 Jun 2017 11:00:00 GMT</guid>
+      <title>Ask, Seek, Knock</title>
+      <pubDate>Sun, 11 Jun 2017 11:00:00 GMT</pubDate>
+      <author>bethany-wheeler</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>1896.2285714285715</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20170618.mp3" length="33169922" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>three-questions - Sun, 18 Jun 2017 11:00:00 GMT</guid>
+      <title>Three Questions</title>
+      <pubDate>Sun, 18 Jun 2017 11:00:00 GMT</pubDate>
+      <author>simon-desborough</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>1980.7085714285715</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20170625.mp3" length="51226457" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>a-sermon-on-a-sermon - Sun, 25 Jun 2017 11:00:00 GMT</guid>
+      <title>A Sermon On A Sermon</title>
+      <pubDate>Sun, 25 Jun 2017 11:00:00 GMT</pubDate>
+      <author>caleb-ellwood</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>2732.617142857143</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20170702.mp3" length="35519875" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>zacchaeus - Sun, 02 Jul 2017 11:00:00 GMT</guid>
+      <title>Zacchaeus</title>
+      <pubDate>Sun, 02 Jul 2017 11:00:00 GMT</pubDate>
+      <author>caleb-ellwood</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>1971.461224489796</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20170716.mp3" length="36998814" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>one-body - Sun, 16 Jul 2017 11:00:00 GMT</guid>
+      <title>One Body</title>
+      <pubDate>Sun, 16 Jul 2017 11:00:00 GMT</pubDate>
+      <author>rachel-turner</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>2186.004897959184</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20170723.mp3" length="36507950" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>why-am-i-here? - Sun, 23 Jul 2017 11:00:00 GMT</guid>
+      <title>Why Am I Here?</title>
+      <pubDate>Sun, 23 Jul 2017 11:00:00 GMT</pubDate>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>2081.4889795918366</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20170806.mp3" length="27088757" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>lest-we-forget - Sun, 06 Aug 2017 11:00:00 GMT</guid>
+      <title>Lest We Forget</title>
+      <pubDate>Sun, 06 Aug 2017 11:00:00 GMT</pubDate>
+      <author>jenny-herrera</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>1535.164081632653</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20170813.mp3" length="37183542" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>be-humble - Sun, 13 Aug 2017 11:00:00 GMT</guid>
+      <title>Be Humble</title>
+      <pubDate>Sun, 13 Aug 2017 11:00:00 GMT</pubDate>
+      <author>peter-sloan</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>2059.0236734693876</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20170820.mp3" length="28955566" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>a-missed-opportunity - Sun, 20 Aug 2017 11:00:00 GMT</guid>
+      <title>A Missed Opportunity</title>
+      <pubDate>Sun, 20 Aug 2017 11:00:00 GMT</pubDate>
+      <author>david-donkin</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>1623.8497959183674</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20170825.mp3" length="36096425" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>knowing-god-as-father - Fri, 25 Aug 2017 19:00:00 GMT</guid>
+      <title>Knowing God As Father</title>
+      <pubDate>Fri, 25 Aug 2017 19:00:00 GMT</pubDate>
+      <author>dave-matthias</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>1995.8595918367346</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20170826.mp3" length="44130199" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>adoption - Sat, 26 Aug 2017 10:30:00 GMT</guid>
+      <title>Adoption</title>
+      <pubDate>Sat, 26 Aug 2017 10:30:00 GMT</pubDate>
+      <author>dave-matthias</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>2471.6277551020407</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20170826.mp3" length="44130199" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>purpose,-presence,-provision,-pleasure - Sat, 26 Aug 2017 08:30:00 GMT</guid>
+      <title>Purpose, Presence, Provision, Pleasure</title>
+      <pubDate>Sat, 26 Aug 2017 08:30:00 GMT</pubDate>
+      <author>dave-matthias</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>2471.6277551020407</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20170827.mp3" length="5034248" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>how-is-the-health-of-your-heart? - Sun, 27 Aug 2017 08:15:00 GMT</guid>
+      <title>How Is The Health Of Your Heart?</title>
+      <pubDate>Sun, 27 Aug 2017 08:15:00 GMT</pubDate>
+      <author>dave-matthias</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>299.65061224489796</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20170827.mp3" length="5034248" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>the-parable-of-the-loving-father - Sun, 27 Aug 2017 10:15:00 GMT</guid>
+      <title>The Parable Of The Loving Father</title>
+      <pubDate>Sun, 27 Aug 2017 10:15:00 GMT</pubDate>
+      <author>dave-matthias</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>299.65061224489796</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20170903.mp3" length="40705495" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>insecurity - Sun, 03 Sep 2017 11:00:00 GMT</guid>
+      <title>Insecurity</title>
+      <pubDate>Sun, 03 Sep 2017 11:00:00 GMT</pubDate>
+      <author>jamie-holliday</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>2140.238367346939</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20170910.mp3" length="48877446" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>the-power-you-have-today - Sun, 10 Sep 2017 11:00:00 GMT</guid>
+      <title>The Power You Have Today</title>
+      <pubDate>Sun, 10 Sep 2017 11:00:00 GMT</pubDate>
+      <author>caleb-ellwood</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>2730.8146938775512</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20170917.mp3" length="7332377" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>a-present-and-a-hint - Sun, 17 Sep 2017 11:00:00 GMT</guid>
+      <title>A Present And A Hint</title>
+      <pubDate>Sun, 17 Sep 2017 11:00:00 GMT</pubDate>
+      <author>simon-neary</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>458.24</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20170924.mp3" length="47951991" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>this-is-the-jesus-who-saves-you - Sun, 24 Sep 2017 11:00:00 GMT</guid>
+      <title>This Is The Jesus Who Saves You</title>
+      <pubDate>Sun, 24 Sep 2017 11:00:00 GMT</pubDate>
+      <author>caleb-ellwood</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>2410.6579591836735</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20171001.mp3" length="27979536" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>the-mystery - Sun, 01 Oct 2017 11:00:00 GMT</guid>
+      <title>The Mystery</title>
+      <pubDate>Sun, 01 Oct 2017 11:00:00 GMT</pubDate>
+      <author>rachael-bulley</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>1575.7061224489796</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20171008.mp3" length="40657902" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>how-we-grow-in-christ - Sun, 08 Oct 2017 11:00:00 GMT</guid>
+      <title>How We Grow In Christ</title>
+      <pubDate>Sun, 08 Oct 2017 11:00:00 GMT</pubDate>
+      <author>john-wilson</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>2376.751020408163</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20171022.mp3" length="16091029" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>clothe-yourself! - Sun, 22 Oct 2017 11:00:00 GMT</guid>
+      <title>Clothe Yourself!</title>
+      <pubDate>Sun, 22 Oct 2017 11:00:00 GMT</pubDate>
+      <author>rachel-turner</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>947.2783673469388</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20171029.mp3" length="41026033" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>local-mission-sunday - Sun, 29 Oct 2017 12:00:00 GMT</guid>
+      <title>Local Mission Sunday</title>
+      <pubDate>Sun, 29 Oct 2017 12:00:00 GMT</pubDate>
+      <author>caleb-ellwood</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>2268.9697959183673</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20171105.mp3" length="43556653" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>an-interview-with-miriam-howson - Sun, 05 Nov 2017 11:59:00 GMT</guid>
+      <title>An Interview With Miriam Howson</title>
+      <pubDate>Sun, 05 Nov 2017 11:59:00 GMT</pubDate>
+      <author>caleb-ellwood</author>
+      <author>miriam-howson</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>2488.2938775510206</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20171112.mp3" length="42372923" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>identifying-with-christ - Sun, 12 Nov 2017 12:00:00 GMT</guid>
+      <title>Identifying With Christ</title>
+      <pubDate>Sun, 12 Nov 2017 12:00:00 GMT</pubDate>
+      <author>caleb-ellwood</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>2353.2408163265304</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20171119.mp3" length="36252403" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>harmony-in-the-house - Sun, 19 Nov 2017 12:00:00 GMT</guid>
+      <title>Harmony In The House</title>
+      <pubDate>Sun, 19 Nov 2017 12:00:00 GMT</pubDate>
+      <author>john-wilson</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>2091.781224489796</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20171126.mp3" length="42177694" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>be-devoted-to-prayer - Sun, 26 Nov 2017 12:00:00 GMT</guid>
+      <title>Be Devoted To Prayer</title>
+      <pubDate>Sun, 26 Nov 2017 12:00:00 GMT</pubDate>
+      <author>caleb-ellwood</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>2226.0244897959183</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20171203.mp3" length="48919551" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>an-awakening - Sun, 03 Dec 2017 12:00:00 GMT</guid>
+      <title>An Awakening</title>
+      <pubDate>Sun, 03 Dec 2017 12:00:00 GMT</pubDate>
+      <author>mike-sprenger</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>2974.4587755102043</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20171210.mp3" length="28424783" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>hope - Sun, 10 Dec 2017 12:00:00 GMT</guid>
+      <title>Hope</title>
+      <pubDate>Sun, 10 Dec 2017 12:00:00 GMT</pubDate>
+      <author>joe-o'neill</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>1595.8987755102041</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20180107.mp3" length="42963091" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>plough-sunday - Sun, 07 Jan 2018 12:00:00 GMT</guid>
+      <title>Plough Sunday</title>
+      <pubDate>Sun, 07 Jan 2018 12:00:00 GMT</pubDate>
+      <author>john-wilson</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>2550.204081632653</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20180121.mp3" length="38244515" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>naaman - Sun, 21 Jan 2018 12:00:00 GMT</guid>
+      <title>Naaman</title>
+      <pubDate>Sun, 21 Jan 2018 12:00:00 GMT</pubDate>
+      <author>david-donkin</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>2010.6448979591837</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20180128.mp3" length="22389672" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>alpha-launch-part-1 - Sun, 28 Jan 2018 12:00:00 GMT</guid>
+      <title>Alpha Launch Part 1</title>
+      <pubDate>Sun, 28 Jan 2018 12:00:00 GMT</pubDate>
+      <author>caleb-ellwood</author>
+      <author>jon-day</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>1168.0130612244898</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20180204.mp3" length="50187239" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>dna-lifting-the-blanket - Sun, 04 Feb 2018 12:00:00 GMT</guid>
+      <title>Dna Lifting The Blanket</title>
+      <pubDate>Sun, 04 Feb 2018 12:00:00 GMT</pubDate>
+      <author>caleb-ellwood</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>2825.1167346938773</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20180218.mp3" length="43239340" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>listening-to-god - Sun, 18 Feb 2018 12:00:00 GMT</guid>
+      <title>Listening To God</title>
+      <pubDate>Sun, 18 Feb 2018 12:00:00 GMT</pubDate>
+      <author>simon-desborough</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>2521.730612244898</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20180225.mp3" length="34793570" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>waiting,-filling - Sun, 25 Feb 2018 12:00:00 GMT</guid>
+      <title>Waiting, Filling</title>
+      <pubDate>Sun, 25 Feb 2018 12:00:00 GMT</pubDate>
+      <author>caleb-ellwood</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>1806.9681632653062</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20180304.mp3" length="50675125" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>speaking,-spilling - Sun, 04 Mar 2018 12:00:00 GMT</guid>
+      <title>Speaking, Spilling</title>
+      <pubDate>Sun, 04 Mar 2018 12:00:00 GMT</pubDate>
+      <author>caleb-ellwood</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>2799.3861224489797</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20180311.mp3" length="33042768" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>the-maternal-nature-of-god - Sun, 11 Mar 2018 12:00:00 GMT</guid>
+      <title>The Maternal Nature Of God</title>
+      <pubDate>Sun, 11 Mar 2018 12:00:00 GMT</pubDate>
+      <author>bethany-wheeler</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>1943.7191836734694</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20180318.mp3" length="37487876" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>a-spirit-filled-church - Sun, 18 Mar 2018 12:00:00 GMT</guid>
+      <title>A Spirit Filled Church</title>
+      <pubDate>Sun, 18 Mar 2018 12:00:00 GMT</pubDate>
+      <author>mike-sprenger</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>2271.738775510204</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20180401.mp3" length="28164239" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>easter-sunday-celebration - Sun, 01 Apr 2018 11:00:00 GMT</guid>
+      <title>Easter Sunday Celebration</title>
+      <pubDate>Sun, 01 Apr 2018 11:00:00 GMT</pubDate>
+      <author>caleb-ellwood</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>1524.2710204081632</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20180408.mp3" length="40477631" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>healing - Sun, 08 Apr 2018 11:00:00 GMT</guid>
+      <title>Healing</title>
+      <pubDate>Sun, 08 Apr 2018 11:00:00 GMT</pubDate>
+      <author>john-wilson</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>2383.4644897959183</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20180415.mp3" length="51479762" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>signs-and-wonders - Sun, 15 Apr 2018 11:00:00 GMT</guid>
+      <title>Signs And Wonders</title>
+      <pubDate>Sun, 15 Apr 2018 11:00:00 GMT</pubDate>
+      <author>caleb-ellwood</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>2895.542857142857</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20180422.mp3" length="43519804" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>ambassadors-of-christ - Sun, 22 Apr 2018 11:00:00 GMT</guid>
+      <title>Ambassadors Of Christ</title>
+      <pubDate>Sun, 22 Apr 2018 11:00:00 GMT</pubDate>
+      <author>caleb-ellwood</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>2385.8416326530614</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20180429.mp3" length="43973327" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>gluttons-and-drunkards - Sun, 29 Apr 2018 11:00:00 GMT</guid>
+      <title>Gluttons And Drunkards</title>
+      <pubDate>Sun, 29 Apr 2018 11:00:00 GMT</pubDate>
+      <author>caleb-ellwood</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>2405.2767346938776</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20180506.mp3" length="36632560" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>joining-the-resistance - Sun, 06 May 2018 11:00:00 GMT</guid>
+      <title>Joining The Resistance</title>
+      <pubDate>Sun, 06 May 2018 11:00:00 GMT</pubDate>
+      <author>tom-ross</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>2276.597551020408</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20180513.mp3" length="31406450" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>worship - Sun, 13 May 2018 11:00:00 GMT</guid>
+      <title>Worship</title>
+      <pubDate>Sun, 13 May 2018 11:00:00 GMT</pubDate>
+      <author>dan-wheeler</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>1886.4326530612245</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20180520.mp3" length="28208786" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>the-desolation-of-inadequacy - Sun, 20 May 2018 11:00:00 GMT</guid>
+      <title>The Desolation Of Inadequacy</title>
+      <pubDate>Sun, 20 May 2018 11:00:00 GMT</pubDate>
+      <author>caleb-ellwood</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>1476.4669387755102</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20180527.mp3" length="38033898" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>doorways-and-barriers-to-worship - Sun, 27 May 2018 11:00:00 GMT</guid>
+      <title>Doorways And Barriers To Worship</title>
+      <pubDate>Sun, 27 May 2018 11:00:00 GMT</pubDate>
+      <author>dan-wheeler</author>
+      <author>bethany-wheeler</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>2189.035102040816</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20180603.mp3" length="43206149" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>joy - Sun, 03 Jun 2018 11:00:00 GMT</guid>
+      <title>Joy</title>
+      <pubDate>Sun, 03 Jun 2018 11:00:00 GMT</pubDate>
+      <author>dave-matthias</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>2475.9379591836737</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20180610.mp3" length="59614879" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>permission-to-speak - Sun, 10 Jun 2018 11:00:00 GMT</guid>
+      <title>Permission To Speak</title>
+      <pubDate>Sun, 10 Jun 2018 11:00:00 GMT</pubDate>
+      <author>caleb-ellwood</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>3162.2008163265305</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20180617.mp3" length="29398616" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>radical-generosity - Sun, 17 Jun 2018 11:00:00 GMT</guid>
+      <title>Radical Generosity</title>
+      <pubDate>Sun, 17 Jun 2018 11:00:00 GMT</pubDate>
+      <author>caleb-ellwood</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>2092.669387755102</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20180624.mp3" length="42617260" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>devoted-to-one-another - Sun, 24 Jun 2018 11:00:00 GMT</guid>
+      <title>Devoted To One Another</title>
+      <pubDate>Sun, 24 Jun 2018 11:00:00 GMT</pubDate>
+      <author>caleb-ellwood</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>2321.29306122449</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20180701.mp3" length="38688487" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>what-is-mission - Sun, 01 Jul 2018 11:00:00 GMT</guid>
+      <title>What Is Mission</title>
+      <pubDate>Sun, 01 Jul 2018 11:00:00 GMT</pubDate>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>2250.2922448979593</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20180715.mp3" length="29743418" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>when-people-are-big-and-god-is-small - Sun, 15 Jul 2018 11:00:00 GMT</guid>
+      <title>When People Are Big And God Is Small</title>
+      <pubDate>Sun, 15 Jul 2018 11:00:00 GMT</pubDate>
+      <author>john-wilson</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>1767.5232653061225</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20180722.mp3" length="28927197" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>from-fear-to-freedom - Sun, 22 Jul 2018 11:00:00 GMT</guid>
+      <title>From Fear To Freedom</title>
+      <pubDate>Sun, 22 Jul 2018 11:00:00 GMT</pubDate>
+      <author>peter-sloan</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>1680.4571428571428</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20180805.mp3" length="28015669" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>strength-in-surrender - Sun, 05 Aug 2018 11:00:00 GMT</guid>
+      <title>Strength In Surrender</title>
+      <pubDate>Sun, 05 Aug 2018 11:00:00 GMT</pubDate>
+      <author>jenny-herrera</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>1632.3395918367346</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20180812.mp3" length="23586551" type="audio/mpeg"/>
+      <description>
+      </description>
+      <guid>feel-the-fear-but-follow-with-faith - Sun, 12 Aug 2018 11:00:00 GMT</guid>
+      <title>Feel The Fear But Follow With Faith</title>
+      <pubDate>Sun, 12 Aug 2018 11:00:00 GMT</pubDate>
+      <author>david-donkin</author>
+      <itunes:image>/uploads/logo.jpg</itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+      <itunes:duration>1338.0440816326532</itunes:duration>
+      <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+    </item>
+    <item>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20180902.mp3" length="29981544" type="audio/mpeg"/>
+      <description>
+        <p>You can watch the Alpha video that Jon mentions here: <a href="https://youtu.be/fViYK_Xb3Wg" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en-GB&amp;q=https://youtu.be/fViYK_Xb3Wg&amp;source=gmail&amp;ust=1536070517707000&amp;usg=AFQjCNGK4jOUJKLOZC-O49Au00GJ3NJU1Q">https://youtu.be/fViYK_Xb3Wg</a>
+      </p>
+    </description>
+    <guid>bought-with-a-price - Sun, 02 Sep 2018 11:00:00 GMT</guid>
+    <title>Bought With A Price</title>
+    <pubDate>Sun, 02 Sep 2018 11:00:00 GMT</pubDate>
+    <author>jon-day</author>
+    <itunes:image>/uploads/logo.jpg</itunes:image>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+    <itunes:duration>1790.72</itunes:duration>
+    <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+  </item>
+  <item>
+    <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20180909.mp3" length="42689599" type="audio/mpeg"/>
+    <description>
+    </description>
+    <guid>grace-that-restores - Sun, 09 Sep 2018 11:00:00 GMT</guid>
+    <title>Grace That Restores</title>
+    <pubDate>Sun, 09 Sep 2018 11:00:00 GMT</pubDate>
+    <author>caleb-ellwood</author>
+    <itunes:image>/uploads/logo.jpg</itunes:image>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+    <itunes:duration>2191.281632653061</itunes:duration>
+    <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+  </item>
+  <item>
+    <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20180916.mp3" length="34075260" type="audio/mpeg"/>
+    <description>
+    </description>
+    <guid>grace-that-ends-in-joy - Sun, 16 Sep 2018 11:00:00 GMT</guid>
+    <title>Grace That Ends In Joy</title>
+    <pubDate>Sun, 16 Sep 2018 11:00:00 GMT</pubDate>
+    <author>john-wilson</author>
+    <itunes:image>/uploads/logo.jpg</itunes:image>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+    <itunes:duration>2027.7289795918368</itunes:duration>
+    <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+  </item>
+  <item>
+    <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20180923.mp3" length="43243538" type="audio/mpeg"/>
+    <description>
+    </description>
+    <guid>grace-that-smashes-ceilings - Sun, 23 Sep 2018 11:00:00 GMT</guid>
+    <title>Grace That Smashes Ceilings</title>
+    <pubDate>Sun, 23 Sep 2018 11:00:00 GMT</pubDate>
+    <author>caleb-ellwood</author>
+    <itunes:image>/uploads/logo.jpg</itunes:image>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+    <itunes:duration>2280.385306122449</itunes:duration>
+    <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+  </item>
+  <item>
+    <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20181007.mp3" length="41594757" type="audio/mpeg"/>
+    <description>
+    </description>
+    <guid>i-saw-the-lord - Sun, 07 Oct 2018 11:00:00 GMT</guid>
+    <title>I Saw The Lord</title>
+    <pubDate>Sun, 07 Oct 2018 11:00:00 GMT</pubDate>
+    <author>mike-sprenger</author>
+    <itunes:image>/uploads/logo.jpg</itunes:image>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+    <itunes:duration>2535.444897959184</itunes:duration>
+    <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+  </item>
+  <item>
+    <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20181014.mp3" length="47087386" type="audio/mpeg"/>
+    <description>
+    </description>
+    <guid>a-people-with-a-purpose-in-a-place - Sun, 14 Oct 2018 11:00:00 GMT</guid>
+    <title>A People With A Purpose In A Place</title>
+    <pubDate>Sun, 14 Oct 2018 11:00:00 GMT</pubDate>
+    <author>caleb-ellwood</author>
+    <author>jackie-adie</author>
+    <author>jenny-herrera</author>
+    <itunes:image>/uploads/logo.jpg</itunes:image>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+    <itunes:duration>2477.2179591836734</itunes:duration>
+    <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+  </item>
+  <item>
+    <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20181021.mp3" length="20478965" type="audio/mpeg"/>
+    <description>
+      <p> The video shown at the beginning of the interview is available <a href="https://vimeo.com/231808360" target="_blank">here</a>
+    </p>
+  </description>
+  <guid>introducing-our-christmas-kindness-project-with-compassion - Sun, 21 Oct 2018 10:59:00 GMT</guid>
+  <title>Introducing Our Christmas Kindness Project With Compassion</title>
+  <pubDate>Sun, 21 Oct 2018 10:59:00 GMT</pubDate>
+  <author>caleb-ellwood</author>
+  <itunes:image>/uploads/logo.jpg</itunes:image>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+  <itunes:duration>1038.4718367346939</itunes:duration>
+  <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+</item>
+<item>
+  <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20181021.mp3" length="20478965" type="audio/mpeg"/>
+  <description>
+  </description>
+  <guid>propelled-into-action - Sun, 21 Oct 2018 11:00:00 GMT</guid>
+  <title>Propelled Into Action</title>
+  <pubDate>Sun, 21 Oct 2018 11:00:00 GMT</pubDate>
+  <author>jenny-herrera</author>
+  <itunes:image>/uploads/logo.jpg</itunes:image>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+  <itunes:duration>1038.4718367346939</itunes:duration>
+  <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+</item>
+<item>
+  <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20181028.mp3" length="7943550" type="audio/mpeg"/>
+  <description>
+  </description>
+  <guid>justice - Sun, 28 Oct 2018 12:00:00 GMT</guid>
+  <title>Justice</title>
+  <pubDate>Sun, 28 Oct 2018 12:00:00 GMT</pubDate>
+  <author>caleb-ellwood</author>
+  <itunes:image>/uploads/logo.jpg</itunes:image>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+  <itunes:duration>388.2057142857143</itunes:duration>
+  <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+</item>
+<item>
+  <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20181104.mp3" length="32207641" type="audio/mpeg"/>
+  <description>
+  </description>
+  <guid>the-kids-are-alright - Sun, 04 Nov 2018 12:00:00 GMT</guid>
+  <title>The Kids Are Alright</title>
+  <pubDate>Sun, 04 Nov 2018 12:00:00 GMT</pubDate>
+  <itunes:image>/uploads/logo.jpg</itunes:image>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+  <itunes:duration>1732.6497959183673</itunes:duration>
+  <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+</item>
+<item>
+  <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20181118.mp3" length="31088193" type="audio/mpeg"/>
+  <description>
+  </description>
+  <guid>over-the-rainbow - Sun, 18 Nov 2018 12:00:00 GMT</guid>
+  <title>Over The Rainbow</title>
+  <pubDate>Sun, 18 Nov 2018 12:00:00 GMT</pubDate>
+  <author>john-wilson</author>
+  <itunes:image>/uploads/logo.jpg</itunes:image>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+  <itunes:duration>1800.4375510204081</itunes:duration>
+  <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+</item>
+<item>
+  <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20181125.mp3" length="21747727" type="audio/mpeg"/>
+  <description>
+  </description>
+  <guid>a-time-to-laugh - Sun, 25 Nov 2018 12:00:00 GMT</guid>
+  <title>A Time To Laugh</title>
+  <pubDate>Sun, 25 Nov 2018 12:00:00 GMT</pubDate>
+  <author>john-wilson</author>
+  <itunes:image>/uploads/logo.jpg</itunes:image>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+  <itunes:duration>1736.96</itunes:duration>
+  <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+</item>
+<item>
+  <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20181202.mp3" length="25528169" type="audio/mpeg"/>
+  <description>
+  </description>
+  <guid>the-seed-of-abraham - Sun, 02 Dec 2018 12:00:00 GMT</guid>
+  <title>The Seed Of Abraham</title>
+  <pubDate>Sun, 02 Dec 2018 12:00:00 GMT</pubDate>
+  <author>john-wilson</author>
+  <itunes:image>/uploads/logo.jpg</itunes:image>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+  <itunes:duration>2088.8816326530614</itunes:duration>
+  <itunes:image href="https://data.gatewaychurch.co.uk/uploads/logo.jpg"/>
+</item>
+<item>
+  <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20181216.mp3" length="28886540" type="audio/mpeg"/>
+  <description>
+  </description>
+  <guid>advent,-presents-and-presence - Sun, 16 Dec 2018 00:00:00 GMT</guid>
+  <title>Advent, Presents And Presence</title>
+  <pubDate>Sun, 16 Dec 2018 00:00:00 GMT</pubDate>
+  <author>mike-sprenger</author>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+  <itunes:duration>2472.646530612245</itunes:duration>
+</item>
+<item>
+  <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20190106.mp3" length="38875119" type="audio/mpeg"/>
+  <description>\</description>
+  <guid>glory - Sun, 06 Jan 2019 00:00:00 GMT</guid>
+  <title>Glory</title>
+  <pubDate>Sun, 06 Jan 2019 00:00:00 GMT</pubDate>
+  <author>Caleb Ellwood</author>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+  <itunes:duration>2689.854693877551</itunes:duration>
+</item>
+<item>
+  <enclosure url="http://gateway-cms.netlify.com/uploads/20190113-mike-sprenger.mp3" length="24814948" type="audio/mpeg"/>
+  <description>
+  </description>
+  <guid>enter-by-the-narrow-gate - Sun, 13 Jan 2019 00:00:00 GMT</guid>
+  <title>Enter By The Narrow Gate</title>
+  <pubDate>Sun, 13 Jan 2019 00:00:00 GMT</pubDate>
+  <author>Mike Sprenger</author>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+  <itunes:duration>2008.2677551020408</itunes:duration>
+</item>
+<item>
+  <enclosure url="http://gateway-cms.netlify.com/uploads/20190120-dave-donkin.mp3" length="33445516" type="audio/mpeg"/>
+  <description>
+  </description>
+  <guid>living-wisely - Sun, 20 Jan 2019 00:00:00 GMT</guid>
+  <title>Living Wisely</title>
+  <pubDate>Sun, 20 Jan 2019 00:00:00 GMT</pubDate>
+  <author>David Donkin</author>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+  <itunes:duration>2486.9616326530613</itunes:duration>
+</item>
+<item>
+  <enclosure url="http://gateway-cms.netlify.com/uploads/20190203-caleb-ellwood.mp3" length="21759470" type="audio/mpeg"/>
+  <description>
+  </description>
+  <guid>superhero-jesus-supernatural-god - Sun, 03 Feb 2019 00:00:00 GMT</guid>
+  <title>Superhero Jesus Supernatural God</title>
+  <pubDate>Sun, 03 Feb 2019 00:00:00 GMT</pubDate>
+  <author>Caleb Ellwood</author>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+  <itunes:duration>1606.2955102040817</itunes:duration>
+</item>
+<item>
+  <enclosure url="http://gateway-cms.netlify.com/uploads/20190210-peter-sloan.mp3" length="23516244" type="audio/mpeg"/>
+  <description>
+  </description>
+  <guid>supernatural-love - Sun, 10 Feb 2019 00:00:00 GMT</guid>
+  <title>Supernatural Love</title>
+  <pubDate>Sun, 10 Feb 2019 00:00:00 GMT</pubDate>
+  <author>Peter Sloan</author>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+  <itunes:duration>1840.6661224489796</itunes:duration>
+</item>
+<item>
+  <enclosure url="http://gateway-cms.netlify.com/uploads/20190217-caleb-ellwood.mp3" length="31459851" type="audio/mpeg"/>
+  <description>
+  </description>
+  <guid>superhero-jesus-supernatural-healing - Sun, 17 Feb 2019 00:00:00 GMT</guid>
+  <title>Superhero Jesus Supernatural Healing</title>
+  <pubDate>Sun, 17 Feb 2019 00:00:00 GMT</pubDate>
+  <author>Caleb Ellwood</author>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+  <itunes:duration>2109.2832653061223</itunes:duration>
+</item>
+<item>
+  <enclosure url="http://gateway-cms.netlify.com/uploads/20190224-jenny-herrera.mp3" length="21754171" type="audio/mpeg"/>
+  <description>
+  </description>
+  <guid>supernatural-provision - Sun, 24 Feb 2019 00:00:00 GMT</guid>
+  <title>Supernatural Provision</title>
+  <pubDate>Sun, 24 Feb 2019 00:00:00 GMT</pubDate>
+  <author>Jenny Herrera</author>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+  <itunes:duration>1754.2791836734693</itunes:duration>
+</item>
+<item>
+  <enclosure url="http://gateway-cms.netlify.com/uploads/20190303-caleb-ellwood.mp3" length="14795322" type="audio/mpeg"/>
+  <description>
+  </description>
+  <guid>superhero-jesus-supernatural-salvation - Sun, 03 Mar 2019 00:00:00 GMT</guid>
+  <title>Superhero Jesus Supernatural Salvation</title>
+  <pubDate>Sun, 03 Mar 2019 00:00:00 GMT</pubDate>
+  <author>Caleb Ellwood</author>
+  <author>Alex den Braber</author>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+  <itunes:duration>1066.684081632653</itunes:duration>
+</item>
+<item>
+  <enclosure url="http://gateway-cms.netlify.com/uploads/20190310-caleb-ellwood.mp3" length="35204371" type="audio/mpeg"/>
+  <description>
+  </description>
+  <guid>superhero-jesus-supernatural-deliverance - Sun, 10 Mar 2019 00:00:00 GMT</guid>
+  <title>Superhero Jesus Supernatural Deliverance</title>
+  <pubDate>Sun, 10 Mar 2019 00:00:00 GMT</pubDate>
+  <author>Caleb Ellwood</author>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+  <itunes:duration>2481.8938775510205</itunes:duration>
+</item>
+<item>
+  <enclosure url="http://gateway-cms.netlify.com/uploads/20190317-bethany-wheeler.mp3" length="26894397" type="audio/mpeg"/>
+  <description>
+  </description>
+  <guid>superhero-jesus-supernatural-intervention - Sun, 17 Mar 2019 00:00:00 GMT</guid>
+  <title>Superhero Jesus Supernatural Intervention</title>
+  <pubDate>Sun, 17 Mar 2019 00:00:00 GMT</pubDate>
+  <author>Bethany Wheeler</author>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+  <itunes:duration>2052.728163265306</itunes:duration>
+</item>
+</channel>
 </rss>

@@ -60,7 +60,7 @@ const createText = (text = '') => {
   let podcasts = Object.values(wordsData);
 
   podcasts = (podcasts || [])
-    .filter(podcast => (podcast || {}).data.showOnPodcast)
+    .filter(p => (p || {}).data.showOnPodcast)
     .sort((a, b) => {
       const aDate = parseInt(a.data.date.split('-').join(''));
       const bDate = parseInt(b.data.date.split('-').join(''));
@@ -156,21 +156,7 @@ const createText = (text = '') => {
 
   podcasts.forEach(async (item = {}, index) => {
     const {data = {}} = item;
-    let {audioFile = ''} = data;
-    audioFile = audioFile
-      .split('%20')
-      .join('-')
-      .toLowerCase();
-    let podcastFile = item.data.audioFile || item.data.file;
-    if (
-      podcastFile &&
-      podcastFile.includes('/uploads') &&
-      !podcastFile.includes('gateway-cms')
-    ) {
-      podcastFile = `http://gateway-cms.netlify.com${podcastFile}`;
-    }
-    console.log(item);
-    return;
+    let {podcastFile = ''} = data;
     const size = item.data.contentLength;
     if (podcastFile) {
       createElement('item');
@@ -199,7 +185,13 @@ const createText = (text = '') => {
       createElement('/guid');
 
       createElement('title');
-      createText(item.data.title);
+      const t = item.data.title
+        .split('-')
+        .map(word => word && word[0] && word[0].toUpperCase() + word.substr(1))
+        .join(' ')
+        .split('   ')
+        .join(' - ');
+      createText(t);
       createElement('/title');
 
       createElement('pubDate');
