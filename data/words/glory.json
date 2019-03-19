@@ -23,5 +23,8 @@
   ],
   "image": "/uploads/28070547_1814014815330047_482469622474938652_o.jpg",
   "file": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20190106.mp3",
-  "podcastFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20190106.mp3"
+  "podcastFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20190106.mp3",
+  "contentLength": "38875119",
+  "contentType": "audio/mp3",
+  "duration": 2689.854693877551
 }
