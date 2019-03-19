@@ -203,7 +203,18 @@ const createText = (text = '') => {
       if (item.data.authors && item.data.authors.length) {
         item.data.authors.forEach(({author}) => {
           createElement('author');
-          createText(author);
+          const a = author
+            .split('-')
+            .map(
+              word => word && word[0] && word[0].toUpperCase() + word.substr(1),
+            )
+            .join(' ')
+            .split('   ')
+            .join(' - ')
+            .split('&')
+            .join('and');
+
+          createText(a);
           createElement('/author');
         });
       }
