@@ -67,13 +67,17 @@ function httpGet(url) {
     }
   });
 
+  let count = 0;
   podcasts.forEach(async podcast => {
     const item = podcast[1];
     let podcastFile = item.data.podcastFile || '';
+
     if (!item.data.audioFile && !item.data.file) {
       console.log(podcast[0]);
       return;
     }
+
+    if (!item.data.duration) console.log(podcast[0]);
     if ((podcastFile || '').trim().length > 0 && !item.data.duration) {
       const httpData = await httpGet(podcastFile).catch(e => e);
       if (httpData.statusCode === 200) {
@@ -92,6 +96,7 @@ function httpGet(url) {
         const {format} = result;
         const {duration} = format;
         console.log(podcastFile);
+        count = count + 1;
         data.duration = duration;
         fs.writeFileSync(
           './data/words/' + podcast[0],
@@ -101,4 +106,6 @@ function httpGet(url) {
       }
     }
   });
+
+  console.log(count);
 })();
