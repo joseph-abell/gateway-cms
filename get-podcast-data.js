@@ -9,7 +9,6 @@ function httpGet(url) {
   let cleanedUrl = url;
   if (url.includes('/uploads') && !url.includes('gateway-cms'))
     cleanedUrl = `http://gateway-cms.netlify.com${url}`;
-
   return new Promise((resolve, reject) => {
     let httpType = https;
     if (cleanedUrl.includes('http://')) {
@@ -34,7 +33,7 @@ function httpGet(url) {
   );
   const wordsData = await wordsRequest.json();
   const podcasts = Object.entries(wordsData).filter(
-    word => word[1].data.showOnPodcast,
+    word => word[1] && word[1].data && word[1].data.showOnPodcast,
   );
 
   // Setting podcastFile section
@@ -47,8 +46,8 @@ function httpGet(url) {
       wordData.podcastFile !== (wordData.audioFile || wordData.file)
     ) {
       const fileData = JSON.parse(fs.readFileSync(localDirectory, 'utf-8'));
-
       let podcastFile = fileData.audioFile || fileData.file;
+
       if (
         podcastFile &&
         podcastFile.length > 0 &&
@@ -68,17 +67,14 @@ function httpGet(url) {
     }
   });
 
-  let count = 0;
   podcasts.forEach(async podcast => {
-    if (count > 5) return;
     const item = podcast[1];
-
     let podcastFile = item.data.podcastFile || '';
-    if (
-      (podcastFile || '').trim().length > 0 &&
-      (!item.data.contentType || !item.data.duration)
-    ) {
-      count = count + 1;
+    if (!item.data.audioFile && !item.data.file) {
+      console.log(podcast[0]);
+      return;
+    }
+    if ((podcastFile || '').trim().length > 0 && !item.data.duration) {
       const httpData = await httpGet(podcastFile).catch(e => e);
       if (httpData.statusCode === 200) {
         const contentLength = httpData.headers['content-length'];
