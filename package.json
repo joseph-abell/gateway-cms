@@ -18,7 +18,7 @@
     "import-people": "node ./scripts/people/index",
     "import-words": "node ./scripts/words/index",
     "import-data": "npm run import-homepage; npm run import-who-we-are; npm run import-what-we-do; npm run import-connecting-in; npm run import-serving-the-community; npm run import-events-list; npm run people-list; npm run words-list; npm run import-contact-us; npm run import-events; npm run import-people; npm run import-words;",
-    "build": "node ./create-indexes.js; node ./create-search.js;  node ./create-relationships; node ./resize-images;"
+    "build": "node ./create-indexes.js; node ./create-search.js;  node ./create-relationships; node ./resize-images; node ./get-podcast-data; node ./create-podcast;"
   },
   "repository": {
     "type": "git",
