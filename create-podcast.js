@@ -146,7 +146,7 @@ const createText = (text = '') => {
 
   createElement(
     'itunes:category',
-    [{name: 'text', value: 'Religion & Spirituality'}],
+    [{name: 'text', value: 'Religion &amp; Spirituality'}],
     true,
   );
 

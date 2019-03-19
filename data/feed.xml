@@ -14,7 +14,7 @@
       <itunes:email>gatewaychurch@josephabell.co.uk</itunes:email>
     </itunes:owner>
     <itunes:image href="https://data.gatewaychurch.co.uk/uploads/church_family.jpg"/>
-    <itunes:category text="Religion & Spirituality"/>
+    <itunes:category text="Religion &amp; Spirituality"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
       <enclosure url="https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20141005.mp3" length="8250552" type="audio/mpeg"/>
