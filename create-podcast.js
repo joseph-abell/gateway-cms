@@ -217,6 +217,10 @@ const createText = (text = '') => {
           createText(a);
           createElement('/author');
         });
+      } else {
+        createElement('author');
+        createText('Gateway Church');
+        createElement('/author');
       }
 
       if (item.data.itunesImage) {
