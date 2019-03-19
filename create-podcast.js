@@ -138,7 +138,7 @@ const createText = (text = '') => {
     [
       {
         name: 'href',
-        value: `https://data.gatewaychurch.co.uk${data.image}`,
+        value: `https://gateway-cms.netlify.com${data.image}`,
       },
     ],
     true,
