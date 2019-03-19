@@ -5,7 +5,7 @@
   "supportEmail": "gatewaychurch@josephabell.co.uk",
   "subtitle": "Sermons from Gateway Church, York, UK",
   "title": "Gateway Church York ",
-  "link": "https://www.gatewaychurch.co.uk/data/feed.xml",
+  "link": "https://gateway-cms.netlify.com/data/feed.xml",
   "image": "/uploads/church_family.jpg",
   "ownerName": "Caleb Ellwood"
 }
