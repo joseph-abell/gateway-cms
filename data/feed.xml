@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
-    <title>Gateway Church York</title>
-    <link>https://www.gatewaychurch.co.uk/data/feed.xml</link>
+    <title>Gateway Church York </title>
+    <link>https://gateway-cms.netlify.com/data/feed.xml</link>
     <language>en</language>
     <copyright>© Gateway Church</copyright>
-    <itunes:subtitle>Gateway Church York, Gateway Church York, Gateway Church York, Gateway Church York, Gateway Church York</itunes:subtitle>
-    <itunes:author>Joseph Abell</itunes:author>
-    <itunes:summary>Gateway Church York, Gateway Church York, Gateway Church York, Gateway Church York, Gateway Church York, Gateway Church York, Gateway Church York, Gateway Church York, Gateway Church York, Gateway Church York, Gateway Church York, Gateway Church York</itunes:summary>
-    <description>Gateway Church York, Gateway Church York, Gateway Church York, Gateway Church York, Gateway Church York, Gateway Church York, Gateway Church York, Gateway Church York, Gateway Church York, Gateway Church York, Gateway Church York, Gateway Church York</description>
+    <itunes:subtitle>Sermons from Gateway Church, York, UK</itunes:subtitle>
+    <itunes:author>Gateway Church</itunes:author>
+    <itunes:summary>Sermons from Gateway Church, York, UK</itunes:summary>
+    <description>Sermons from Gateway Church, York, UK</description>
     <itunes:owner>
       <itunes:name>Caleb Ellwood</itunes:name>
       <itunes:email>gatewaychurch@josephabell.co.uk</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://data.gatewaychurch.co.uk/uploads/church_family.jpg"/>
+    <itunes:image href="https://gateway-cms.netlify.com/uploads/podcast-image.jpg"/>
     <itunes:category text="Religion &amp; Spirituality"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
