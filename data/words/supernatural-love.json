@@ -8,7 +8,7 @@
   "colour": "green",
   "date": "2019-02-10",
   "subtitle": "What is love? ",
-  "title": "Supernatural Love",
+  "title": "Superhero Jesus: Supernatural Love",
   "tags": [
     {
       "tag": "Superhero Jesus sermon series"
@@ -21,9 +21,5 @@
     }
   ],
   "image": "/uploads/superhero-jesus.jpg",
-  "file": "/uploads/20190210-peter-sloan.mp3",
-  "podcastFile": "http://gateway-cms.netlify.com/uploads/20190210-peter-sloan.mp3",
-  "contentLength": "23516244",
-  "contentType": "audio/mpeg",
-  "duration": 1840.6661224489796
+  "file": "/uploads/20190210-peter-sloan.mp3"
 }
