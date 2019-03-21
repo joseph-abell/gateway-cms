@@ -1,11 +1,11 @@
 {
-  "summary": "Sermons from Gateway Church, York, UK",
+  "summary": "All the talks from our weekly Sunday morning meeting",
   "copyright": "Gateway Church",
   "author": "Gateway Church",
   "supportEmail": "gatewaychurch@josephabell.co.uk",
-  "subtitle": "Sermons from Gateway Church, York, UK",
-  "title": "Gateway Church York ",
+  "subtitle": "All the talks from our weekly Sunday morning meeting",
+  "title": "Gateway Church York - Weekly Sermons",
   "link": "https://gateway-cms.netlify.com/data/feed.xml",
   "image": "/uploads/podcast-image.jpg",
-  "ownerName": "Caleb Ellwood"
+  "ownerName": "Gateway Church"
 }
