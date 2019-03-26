@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
-    <title>Gateway Church York </title>
+    <title>Gateway Church York - Weekly Sermons</title>
     <link>https://gateway-cms.netlify.com/data/feed.xml</link>
     <language>en</language>
     <copyright>© Gateway Church</copyright>
-    <itunes:subtitle>Sermons from Gateway Church, York, UK</itunes:subtitle>
+    <itunes:subtitle>All the talks from our weekly Sunday morning meeting</itunes:subtitle>
     <itunes:author>Gateway Church</itunes:author>
-    <itunes:summary>Sermons from Gateway Church, York, UK</itunes:summary>
-    <description>Sermons from Gateway Church, York, UK</description>
+    <itunes:summary>All the talks from our weekly Sunday morning meeting</itunes:summary>
+    <description>All the talks from our weekly Sunday morning meeting</description>
     <itunes:owner>
-      <itunes:name>Caleb Ellwood</itunes:name>
+      <itunes:name>Gateway Church</itunes:name>
       <itunes:email>gatewaychurch@josephabell.co.uk</itunes:email>
     </itunes:owner>
     <itunes:image href="https://gateway-cms.netlify.com/uploads/podcast-image.jpg"/>
@@ -2456,18 +2456,6 @@
   <itunes:duration>1606.2955102040817</itunes:duration>
 </item>
 <item>
-  <enclosure url="http://gateway-cms.netlify.com/uploads/20190210-peter-sloan.mp3" length="23516244" type="audio/mpeg"/>
-  <description>
-  </description>
-  <guid>supernatural-love - Sun, 10 Feb 2019 00:00:00 GMT</guid>
-  <title>Supernatural Love</title>
-  <pubDate>Sun, 10 Feb 2019 00:00:00 GMT</pubDate>
-  <author>Peter Sloan</author>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
-  <itunes:duration>1840.6661224489796</itunes:duration>
-</item>
-<item>
   <enclosure url="http://gateway-cms.netlify.com/uploads/20190217-caleb-ellwood.mp3" length="31459851" type="audio/mpeg"/>
   <description>
   </description>
@@ -2478,18 +2466,6 @@
   <itunes:explicit>no</itunes:explicit>
   <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
   <itunes:duration>2109.2832653061223</itunes:duration>
-</item>
-<item>
-  <enclosure url="http://gateway-cms.netlify.com/uploads/20190224-jenny-herrera.mp3" length="21754171" type="audio/mpeg"/>
-  <description>
-  </description>
-  <guid>supernatural-provision - Sun, 24 Feb 2019 00:00:00 GMT</guid>
-  <title>Supernatural Provision</title>
-  <pubDate>Sun, 24 Feb 2019 00:00:00 GMT</pubDate>
-  <author>Jenny Herrera</author>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
-  <itunes:duration>1754.2791836734693</itunes:duration>
 </item>
 <item>
   <enclosure url="http://gateway-cms.netlify.com/uploads/20190303-caleb-ellwood.mp3" length="14795322" type="audio/mpeg"/>
@@ -2527,6 +2503,19 @@
   <itunes:explicit>no</itunes:explicit>
   <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
   <itunes:duration>2052.728163265306</itunes:duration>
+</item>
+<item>
+  <enclosure url="http://gateway-cms.netlify.com/uploads/20190324-john-wilson.mp3" length="undefined" type="audio/mpeg"/>
+  <description>
+  </description>
+  <guid>supernatural-wealth-management - Sun, 24 Mar 2019 00:00:00 GMT</guid>
+  <title>Supernatural Wealth Management</title>
+  <pubDate>Sun, 24 Mar 2019 00:00:00 GMT</pubDate>
+  <author>John Wilson</author>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+  <itunes:duration>
+  </itunes:duration>
 </item>
 </channel>
 </rss>
