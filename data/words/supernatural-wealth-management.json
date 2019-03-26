@@ -25,5 +25,8 @@
   ],
   "image": "/uploads/General Sermon.jpg",
   "file": "/uploads/20190324-john-wilson.mp3",
-  "podcastFile": "http://gateway-cms.netlify.com/uploads/20190324-john-wilson.mp3"
+  "podcastFile": "http://gateway-cms.netlify.com/uploads/20190324-john-wilson.mp3",
+  "contentLength": "26158566",
+  "contentType": "audio/mpeg",
+  "duration": 2131.644081632653
 }
