@@ -2505,7 +2505,7 @@
   <itunes:duration>2052.728163265306</itunes:duration>
 </item>
 <item>
-  <enclosure url="http://gateway-cms.netlify.com/uploads/20190324-john-wilson.mp3" length="undefined" type="audio/mpeg"/>
+  <enclosure url="http://gateway-cms.netlify.com/uploads/20190324-john-wilson.mp3" length="26158566" type="audio/mpeg"/>
   <description>
   </description>
   <guid>supernatural-wealth-management - Sun, 24 Mar 2019 00:00:00 GMT</guid>
@@ -2514,8 +2514,7 @@
   <author>John Wilson</author>
   <itunes:explicit>no</itunes:explicit>
   <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
-  <itunes:duration>
-  </itunes:duration>
+  <itunes:duration>2131.644081632653</itunes:duration>
 </item>
 </channel>
 </rss>
