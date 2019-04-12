@@ -28,10 +28,7 @@ function httpGet(url) {
 }
 
 (async () => {
-  const wordsRequest = await fetch(
-    'http://gateway-cms.netlify.com/data/words/index.json',
-  );
-  const wordsData = await wordsRequest.json();
+  const wordsData = require('./data/words/index.json');
   const podcasts = Object.entries(wordsData).filter(
     word => word[1] && word[1].data && word[1].data.showOnPodcast,
   );
