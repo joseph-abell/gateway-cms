@@ -2517,7 +2517,7 @@
   <itunes:duration>2131.644081632653</itunes:duration>
 </item>
 <item>
-  <enclosure url="http://gateway-cms.netlify.com/uploads/20190331-dan-wheeler.mp3" length="undefined" type="audio/mpeg"/>
+  <enclosure url="http://gateway-cms.netlify.com/uploads/20190331-dan-wheeler.mp3" length="17791513" type="audio/mpeg"/>
   <description>
   </description>
   <guid>an-encounter-with-jesus - Sun, 31 Mar 2019 00:00:00 GMT</guid>
@@ -2526,11 +2526,10 @@
   <author>Dan Wheeler</author>
   <itunes:explicit>no</itunes:explicit>
   <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
-  <itunes:duration>
-  </itunes:duration>
+  <itunes:duration>1443.9444897959183</itunes:duration>
 </item>
 <item>
-  <enclosure url="http://gateway-cms.netlify.com/uploads/20190407-rachael-bulley.mp3" length="undefined" type="audio/mpeg"/>
+  <enclosure url="http://gateway-cms.netlify.com/uploads/20190407-rachael-bulley.mp3" length="19605472" type="audio/mpeg"/>
   <description>
   </description>
   <guid>sing - Sat, 06 Apr 2019 23:00:00 GMT</guid>
@@ -2539,8 +2538,7 @@
   <author>Rachael Bulley</author>
   <itunes:explicit>no</itunes:explicit>
   <itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
-  <itunes:duration>
-  </itunes:duration>
+  <itunes:duration>1505.0448979591836</itunes:duration>
 </item>
 </channel>
 </rss>
