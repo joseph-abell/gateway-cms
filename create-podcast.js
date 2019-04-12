@@ -47,15 +47,8 @@ const createText = (text = '') => {
 };
 
 (async () => {
-  const podcastInfoRequest = await fetch(
-    'http://gateway-cms.netlify.com/data/podcast-info.json',
-  );
-  const data = await podcastInfoRequest.json();
-
-  const wordsRequest = await fetch(
-    'http://gateway-cms.netlify.com/data/words/index.json',
-  );
-  const wordsData = await wordsRequest.json();
+  const data = require('./data/podcast-info.json');
+  const wordsData = require('./data/words/index.json');
 
   let podcasts = Object.values(wordsData);
 
