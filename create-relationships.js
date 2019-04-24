@@ -36,11 +36,12 @@ const createRelationships = async () => {
       .join('-');
     const fileName = name.concat('.json');
     if (fileName !== '.json') {
-      const personData = await getDataPromise(
-        `${__dirname}/data/people/${fileName}`,
-      );
-      personData.words = wordsList;
-      writeFile('people', fileName, personData);
+      getDataPromise(`${__dirname}/data/people/${fileName}`)
+        .then(personData => {
+          personData.words = wordsList;
+          writeFile('people', fileName, personData);
+        })
+        .catch(err => {});
     }
   });
 };
