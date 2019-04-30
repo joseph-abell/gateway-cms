@@ -1,7 +1,7 @@
 {
   "header": {
     "title": "Welcome",
-    "image": "/uploads/church_family.jpg",
+    "image": "/uploads/dscf1195.jpg",
     "menuColour": "red"
   },
   "cta": [
@@ -29,16 +29,16 @@
   ],
   "quotes": [
     {
-      "author": "David",
-      "quote": "I love Gateway. It's my family!"
+      "quote": "I love Gateway. It's my family!",
+      "author": "David"
     },
     {
-      "author": "Jill",
-      "quote": "My Lifegroup are the warmest, kindest people."
+      "quote": "My Lifegroup are the warmest, kindest people.",
+      "author": "Jill"
     },
     {
-      "author": "Karen",
-      "quote": "I've been made to feel so welcome at Gateway."
+      "quote": "I've been made to feel so welcome at Gateway.",
+      "author": "Karen"
     }
   ],
   "deck": {
