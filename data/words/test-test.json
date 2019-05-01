@@ -1,0 +1,18 @@
+{
+  "title": "Test, Test",
+  "date": "1990-09-27",
+  "subtitle": "Test Word",
+  "image": "/uploads/28070547_1814014815330047_482469622474938652_o.jpg",
+  "deck": "Test Test",
+  "authors": [
+    {
+      "author": "Caleb Ellwood"
+    }
+  ],
+  "tags": [
+    {
+      "tag": "Test article"
+    }
+  ],
+  "colour": "purple"
+}
