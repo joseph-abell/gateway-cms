@@ -150,7 +150,12 @@ const createText = (text = '') => {
   podcasts.forEach(async (item = {}, index) => {
     const {data = {}} = item;
     let {podcastFile = ''} = data;
-    if (!podcastFile && item.data.file.includes('.mp3')) {
+    if (
+      !podcastFile &&
+      item.data &&
+      item.data.file &&
+      item.data.file.includes('.mp3')
+    ) {
       podcastFile = item.data.file.includes('netlify')
         ? item.data.file
         : `http://gateway-cms.netlify.com${item.data.file}`;
