@@ -100,7 +100,7 @@ collections:
         create: true
         fields:
             - {label: Title, name: title, widget: string}
-            - {label: Date, name: date, widget: date}
+            - {label: Date, name: date, widget: datetime}
             - {label: Subtitle, name: subtitle, widget: string}
             - {label: Image, name: image, widget: image}
             - {label: Description, name: deck, widget: markdown, required: false}
