@@ -8,12 +8,13 @@
   "itunesImage": "/uploads/logo.jpg",
   "colour": "green",
   "date": "2015-08-09T12:00:00+01:00",
-  "audioFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20150809.mp3",
-  "subtitle": "Nathan Bulley teaches from Jesus' story commonly known as the parable of the talents.",
+  "audioFile": "",
+  "subtitle": "Nathan Bulley teaches from Jesus' story commonly known as the parable of the talents. To listen to this talk, please contact the Gateway office. ",
   "title": "Speculate to accumulate",
-  "image": "/uploads/Parables.jpg",
-  "podcastFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20150809.mp3",
-  "contentLength": "21272573",
-  "contentType": "audio/mp3",
-  "duration": 2394.456
+  "tags": [
+    {
+      "tag": "Sermon"
+    }
+  ],
+  "image": "/uploads/Parables.jpg"
 }
