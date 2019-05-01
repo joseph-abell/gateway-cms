@@ -3,60 +3,66 @@
     "url": "https://gateway-cms.netlify.com/data/peopleFilters/all.json",
     "type": "peopleFilters",
     "data": {
-      "title": "all",
+      "title": "All",
       "name": "all",
       "colour": "orange",
-      "deck": "Click here to see all of the People profiles on our website."
+      "deck": "Click here to see all of the People profiles on our website.",
+      "slug": "all"
     }
   },
   "elders.json": {
     "url": "https://gateway-cms.netlify.com/data/peopleFilters/elders.json",
     "type": "peopleFilters",
     "data": {
-      "title": "elders",
+      "title": "Elders",
       "name": "elders",
       "colour": "purple",
-      "deck": "Gateway Church is led by a team of elders (elder is the Bible's name for those who give oversight and spiritual direction to the local church)."
+      "deck": "Gateway Church is led by a team of elders (elder is the Bible's name for those who give oversight and spiritual direction to the local church).",
+      "slug": "elders"
     }
   },
   "lifegroup-leaders.json": {
     "url": "https://gateway-cms.netlify.com/data/peopleFilters/lifegroup-leaders.json",
     "type": "peopleFilters",
     "data": {
-      "title": "lifegroup-leaders",
+      "title": "Lifegroup Leaders",
       "name": "lifegroupLeaders",
       "colour": "green",
-      "deck": "Lifegroups form an important part of what we do as a church. Our lifegroup leaders host and lead small groups meeting regularly in homes across the city of York."
+      "deck": "Lifegroups form an important part of what we do as a church. Our lifegroup leaders host and lead small groups meeting regularly in homes across the city of York.",
+      "slug": "lifegroup-leaders"
     }
   },
   "ministry-leaders.json": {
     "url": "https://gateway-cms.netlify.com/data/peopleFilters/ministry-leaders.json",
     "type": "peopleFilters",
     "data": {
-      "title": "ministry-leaders",
+      "title": "Ministry Leaders",
       "name": "ministryLeaders",
       "colour": "red",
-      "deck": "Gateway has various ministries serving the church and the local community. Each ministry team is led by a ministry leader."
+      "deck": "Gateway has various ministries serving the church and the local community. Each ministry team is led by a ministry leader.",
+      "slug": "ministry-leaders"
     }
   },
   "staff.json": {
     "url": "https://gateway-cms.netlify.com/data/peopleFilters/staff.json",
     "type": "peopleFilters",
     "data": {
-      "title": "staff",
+      "title": "Staff",
       "name": "staff",
       "colour": "red",
-      "deck": "The work of the church is supported by a great staff team who fulfil a range of roles varying from a few hours a week to full-time."
+      "deck": "The work of the church is supported by a great staff team who fulfil a range of roles varying from a few hours a week to full-time.",
+      "slug": "staff"
     }
   },
   "trustees.json": {
     "url": "https://gateway-cms.netlify.com/data/peopleFilters/trustees.json",
     "type": "peopleFilters",
     "data": {
-      "title": "trustees",
+      "title": "Trustees",
       "name": "trustees",
       "colour": "green",
-      "deck": "Gateway Church is the working name for Gateway (York) CIO - registered charity (1165744). The trustees are legally responsible for the governance of Gateway Church."
+      "deck": "Gateway Church is the working name for Gateway (York) CIO - registered charity (1165744). The trustees are legally responsible for the governance of Gateway Church.",
+      "slug": "trustees"
     }
   }
 }

@@ -24,5 +24,9 @@
     }
   ],
   "image": "/uploads/28070547_1814014815330047_482469622474938652_o.jpg",
-  "file": "/uploads/20190421-caleb-ellwood.mp3"
+  "file": "/uploads/20190421-caleb-ellwood.mp3",
+  "podcastFile": "http://gateway-cms.netlify.com/uploads/20190421-caleb-ellwood.mp3",
+  "contentLength": "22984229",
+  "contentType": "audio/mpeg",
+  "duration": 1610.370612244898
 }

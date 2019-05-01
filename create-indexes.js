@@ -60,11 +60,12 @@ const buildFileStructure = async fileNames => {
     const type = splitName[splitName.length - 2];
     const appendix = splitName[splitName.length - 1];
     const url = `https://gateway-cms.netlify.com/data/${type}/${appendix}`;
+    const data = getDataPromise(fileName);
 
     fileStructure[appendix] = {
       url,
       type,
-      data: getDataPromise(fileName),
+      data,
     };
   });
   return fileStructure;

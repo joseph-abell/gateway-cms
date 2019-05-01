@@ -18,5 +18,9 @@
     }
   ],
   "image": "/uploads/dscf1195-cropped-blurred.jpg",
-  "file": "/uploads/20190413-cwe-session-2.mp3"
+  "file": "/uploads/20190413-cwe-session-2.mp3",
+  "podcastFile": "http://gateway-cms.netlify.com/uploads/20190413-cwe-session-2.mp3",
+  "contentLength": "11896611",
+  "contentType": "audio/mpeg",
+  "duration": 999.105306122449
 }
