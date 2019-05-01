@@ -8,11 +8,13 @@
   "itunesImage": "/uploads/logo.jpg",
   "colour": "green",
   "date": "2015-02-22T00:00:00+00:00",
-  "audioFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20150222.mp3",
+  "audioFile": "",
+  "subtitle": "To listen to this talk, please contact the office",
   "title": "Love and life",
-  "image": "/uploads/Ephesians.jpg",
-  "podcastFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20150222.mp3",
-  "contentLength": "18560448",
-  "contentType": "audio/mp3",
-  "duration": 2319.432
+  "tags": [
+    {
+      "tag": "Sermon"
+    }
+  ],
+  "image": "/uploads/Ephesians.jpg"
 }
