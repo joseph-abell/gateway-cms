@@ -6,7 +6,7 @@
   ],
   "showOnPodcast": true,
   "colour": "green",
-  "date": "2019-04-14",
+  "date": "2019-04-14T00:01:00+01:00",
   "subtitle": "Church Weekend Away Session Four",
   "title": "The Power of God",
   "tags": [
@@ -18,9 +18,5 @@
     }
   ],
   "image": "/uploads/dscf1195-cropped-blurred.jpg",
-  "file": "/uploads/20190414-cwe-session-4.mp3",
-  "podcastFile": "http://gateway-cms.netlify.com/uploads/20190414-cwe-session-4.mp3",
-  "contentLength": "22672293",
-  "contentType": "audio/mpeg",
-  "duration": 1899.389387755102
+  "file": "/uploads/20190414-cwe-session-4.mp3"
 }
