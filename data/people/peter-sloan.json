@@ -7,6 +7,6 @@
   "filters": {
     "all": "true",
     "lifegroupLeaders": "true",
-    "ministryLeaders": "true"
+    "ministryLeaders": "false"
   }
 }
