@@ -5,11 +5,7 @@
   "image": "/uploads/George (Small).jpg",
   "titleRole": "Oasis Team Leader",
   "filters": {
-    "all": "true",
-    "ministryLeaders": "true"
-  },
-  "words": [
-    "An interview with George and Rosemary Davis"
-  ],
-  "slug": "george-davis"
+    "all": "false",
+    "ministryLeaders": "false"
+  }
 }
