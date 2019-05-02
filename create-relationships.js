@@ -7,10 +7,6 @@ const createRelationships = async () => {
   Object.entries(words).forEach(([wordFileName, {data} = {}]) => {
     const {authors = [], title} = data;
     if (title) {
-      if (authors.length === 0) {
-        authors.push({author: 'caleb-ellwood'});
-      }
-
       authors
         .map(({author}) => ({
           author: (author || 'caleb-ellwood')
