@@ -5,6 +5,7 @@
   "image": "/uploads/susan05.jpg",
   "titleRole": "Cleaner",
   "filters": {
-    "staff": "true"
+    "all": "false",
+    "staff": "false"
   }
 }
