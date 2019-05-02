@@ -43,11 +43,11 @@
     {
       "content": {
         "left": {
-          "image": "/uploads/the city.jpg",
+          "image": "/uploads/slack.jpg",
           "colour": "green"
         },
         "right": {
-          "deck": "To help people communicate with one another, we have our own social media website called The City. If you have already set up an account, you can click through to it here and enter your username and password.\nIf you would like to join The City, please contact the office.",
+          "deck": "To help people communicate with one another, we have our own social media channel on Slack. If you would like to join Slack, please contact the office.",
           "colour": "green"
         }
       }
