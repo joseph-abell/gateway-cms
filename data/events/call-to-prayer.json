@@ -1,6 +1,7 @@
 {
   "title": "Call To Prayer",
   "image": "/uploads/call-to-pray-praying-hands.jpg",
+  "listImage": "/uploads/call-to-pray-praying-hands.jpg",
   "header": {
     "menuColour": "green"
   },
