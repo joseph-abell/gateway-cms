@@ -4,9 +4,10 @@
     "menuColour": "red"
   },
   "subtitle": {
-    "subtitle": ""
+    "subtitle": "<iframe frameborder=\"0\" height=\"600\" scrolling=\"yes\" src=\"https://gateway.churchsuite.co.uk/embed/addressbook/form?preview=true\" style=\"border-width:0\" width=\"100%\"></iframe>"
   },
   "deck": {
+    "title": "",
     "paragraph": "<iframe frameborder=\"0\" height=\"600\" scrolling=\"yes\" src=\"https://gateway.churchsuite.co.uk/embed/addressbook/form?preview=true\" style=\"border-width:0\" width=\"100%\"></iframe>",
     "colour": "red"
   },
