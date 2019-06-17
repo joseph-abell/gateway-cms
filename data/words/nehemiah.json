@@ -1,19 +1,25 @@
 {
   "authors": [
     {
-      "author": "david-donkin"
+      "author": "David Donkin"
     }
   ],
   "showOnPodcast": true,
-  "itunesImage": "/uploads/logo.jpg",
   "colour": "green",
-  "date": "2016-06-26T12:00:00+01:00",
-  "audioFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20160626.mp3",
-  "subtitle": "David Donkin teaches from the life of the Old Testament character Nehemiah.",
+  "date": "2019-06-16T12:00:00+01:00",
+  "subtitle": "Lessons from Nehemiah's rebuilding of the walls",
   "title": "Nehemiah",
-  "image": "/uploads/IMG_7161.jpg",
-  "podcastFile": "https://s3-eu-west-1.amazonaws.com/gatewaychurchyork/20160626.mp3",
-  "contentLength": "27118972",
-  "contentType": "audio/mp3",
-  "duration": 2134.204081632653
+  "tags": [
+    {
+      "tag": "Sermon"
+    },
+    {
+      "tag": "Return, Rebuild, Restore (Sermon Series)"
+    },
+    {
+      "tag": "Nehemiah"
+    }
+  ],
+  "image": "/uploads/return-rebuild-restore.jpg",
+  "file": "/uploads/20190616-david-donkin.mp3"
 }
