@@ -9,12 +9,13 @@ const createRelationships = async () => {
     if (title) {
       authors
         .map(({author}) => ({
-          author: (author || 'caleb-ellwood')
+          author: author
             .trim()
             .toLowerCase()
             .split(' ')
             .join('-'),
         }))
+        .filter(({author}) => !!author)
         .forEach(({author}) => {
           if (!peopleData[author]) {
             peopleData[author] = [];
