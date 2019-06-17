@@ -39,6 +39,8 @@ const getDataPromise = (filename, includeIndex = false) =>
         .join('')
         .split('!')
         .join('')
+        .split('"')
+        .join('')
         .trim()
         .split(' ')
         .join('-');
