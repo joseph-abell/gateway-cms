@@ -1,0 +1,14 @@
+{
+  "title": "special\" character' test! words",
+  "date": "1990-09-27T08:53:32+01:00",
+  "subtitle": "This is a thing",
+  "image": "/uploads/24 (Large).jpg",
+  "deck": "This is a thing",
+  "authors": [],
+  "tags": [
+    {
+      "tag": "Test article"
+    }
+  ],
+  "colour": "green"
+}
