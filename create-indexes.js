@@ -88,35 +88,39 @@ const addDataToFileStructure = async fileStructure => {
     const data = await i.data;
     return {...i, data};
   });
+
   const data = await Promise.all(promises);
+
   data.forEach(item => {
     const {data} = item;
+    const title = `${data.title
+      .split('(')
+      .join('')
+      .split(')')
+      .join('')
+      .split('%26')
+      .join('')
+      .split('%27')
+      .join('')
+      .split('.')
+      .join('')
+      .split('?')
+      .join('')
+      .split(',')
+      .join('')
+      .split("'")
+      .join('')
+      .split('!')
+      .join('')
+      .split('"')
+      .join('')
+      .toLowerCase()
+      .trim()
+      .split(' ')
+      .join('-')}.json`;
+
     keys.forEach(key => {
-      if (
-        `${data.title
-          .split('(')
-          .join('')
-          .split(')')
-          .join('')
-          .split('%26')
-          .join('')
-          .split('%27')
-          .join('')
-          .split('.')
-          .join('')
-          .split('?')
-          .join('')
-          .split(',')
-          .join('')
-          .split("'")
-          .join('')
-          .split('!')
-          .join('')
-          .toLowerCase()
-          .trim()
-          .split(' ')
-          .join('-')}.json` === key
-      ) {
+      if (title === key) {
         if (data.json) {
           fileStructure[key].data = data.json;
         } else {
