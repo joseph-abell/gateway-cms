@@ -1,12 +1,12 @@
 {
   "title": "Alan Gee",
-  "deck": "<p>I am husband to Steph and dad to Tom and Annie, and work for an electronics company in Saltaire, near Bradford.  Steph and I lead a Lifegroup together.  As a charity, Gateway has a team of trustees of which I am the Chair.  In my spare time I love reading and catching up on old Doctor Who episodes on telly.\n</p>",
+  "deck": "<p>I am husband to Steph and dad to Tom and Annie, and work for an electronics company in Saltaire, near Bradford.  As a charity, Gateway has a team of trustees of which I am the Chair.  In my spare time I love reading and catching up on old Doctor Who episodes on telly.\n</p>",
   "menuColour": "red",
   "image": "/uploads/Alan Gee (Small).JPG",
-  "titleRole": "Lifegroup Leader, Cluster Leader and Chair of Trustees",
+  "titleRole": "Chair of Trustees",
   "filters": {
     "all": "true",
-    "trustees": "true",
-    "lifegroupLeaders": "true"
+    "lifegroupLeaders": "false",
+    "trustees": "true"
   }
 }
