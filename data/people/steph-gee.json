@@ -5,8 +5,8 @@
   "image": "/uploads/Stephanie Gee (Small).JPG",
   "titleRole": "Lifegroup Leader and Cluster Leader ",
   "filters": {
-    "all": "true",
-    "ministryLeaders": "true",
-    "lifegroupLeaders": "true"
+    "all": "false",
+    "lifegroupLeaders": "false",
+    "ministryLeaders": "false"
   }
 }
