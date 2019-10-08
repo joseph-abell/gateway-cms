@@ -1,6 +1,7 @@
 {
   "title": "Light Party",
-  "image": "/uploads/light-party-edited.jpeg",
+  "image": "/uploads/lights.jpg",
+  "listImage": "/uploads/light-party-edited.jpeg",
   "header": {
     "menuColour": "green"
   },
