@@ -1,0 +1,31 @@
+{
+  "authors": [
+    {
+      "author": "Ben Greene"
+    },
+    {
+      "author": "Jenny Herrera"
+    }
+  ],
+  "showOnPodcast": true,
+  "colour": "green",
+  "date": "2019-10-20T12:00:00+01:00",
+  "subtitle": "Launching our 80 Hours of Prayer",
+  "title": "Teach Us How To Intercede",
+  "tags": [
+    {
+      "tag": "Sermon"
+    },
+    {
+      "tag": "80 hours of prayer"
+    },
+    {
+      "tag": "Prayer"
+    },
+    {
+      "tag": "Intercession"
+    }
+  ],
+  "image": "/uploads/teach-us-how-to-pray.jpg",
+  "file": "/uploads/20191020-all-age-prayer-event.mp3"
+}
