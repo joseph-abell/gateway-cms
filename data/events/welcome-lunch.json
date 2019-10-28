@@ -2,7 +2,7 @@
   "title": "Welcome Lunch",
   "image": "/uploads/welcome lunch.jpg",
   "header": {
-    "menuColour": "Green"
+    "menuColour": "green"
   },
   "dateTime": "2019-11-24T12:30:00+00:00",
   "deck": "Our monthly lunch for newcomers",
