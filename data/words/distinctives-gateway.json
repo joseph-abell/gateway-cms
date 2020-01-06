@@ -1,0 +1,28 @@
+{
+  "authors": [
+    {
+      "author": "Caleb Ellwood"
+    }
+  ],
+  "showOnPodcast": true,
+  "colour": "green",
+  "date": "2020-01-05T12:00:00+00:00",
+  "subtitle": "A people who demonstrate and proclaim the good news of God's kingdom",
+  "title": "Distinctives Gateway",
+  "tags": [
+    {
+      "tag": "Sermon"
+    },
+    {
+      "tag": "Distinctives"
+    },
+    {
+      "tag": "Gateway"
+    },
+    {
+      "tag": "Genesis"
+    }
+  ],
+  "image": "/uploads/distinctives.jpg",
+  "file": "/uploads/20200105-caleb-ellwood.mp3"
+}
