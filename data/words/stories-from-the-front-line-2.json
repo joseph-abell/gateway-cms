@@ -1,0 +1,22 @@
+{
+  "authors": [
+    {
+      "author": "Rachael Maskell"
+    }
+  ],
+  "showOnPodcast": true,
+  "colour": "red",
+  "date": "2020-01-12T11:59:00+00:00",
+  "subtitle": "Rachael's life in politics",
+  "title": "Stories from the Front Line 2",
+  "tags": [
+    {
+      "tag": "Stories from the Front Line"
+    },
+    {
+      "tag": "Politics"
+    }
+  ],
+  "image": "/uploads/stories-from-the-front-line-web-1-.jpg",
+  "file": "/uploads/20200112-rachael-maskell-stories-from-the-frontline.mp3"
+}
