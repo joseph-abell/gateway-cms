@@ -1,0 +1,25 @@
+{
+  "authors": [
+    {
+      "author": "Nicola Betts"
+    }
+  ],
+  "showOnPodcast": true,
+  "colour": "red",
+  "date": "2020-01-27T10:07:46+00:00",
+  "subtitle": "Nicola's life as a musician",
+  "title": "Stories from the Front Line 4",
+  "tags": [
+    {
+      "tag": "Stories from the Front Line"
+    },
+    {
+      "tag": "Arts"
+    },
+    {
+      "tag": "Music"
+    }
+  ],
+  "image": "/uploads/stories-from-the-front-line-web-1-.jpg",
+  "file": "/uploads/20200126-nicola-betts-stories-from-the-front-line.mp3"
+}
