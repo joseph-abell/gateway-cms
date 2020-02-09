@@ -7,3 +7,8 @@ data/events/index.json
 data/people/index.json
 data/search/index.json
 data/words/index.json
+data/pages/index-list.json
+data/events/index-list.json
+data/people/index-list.json
+data/search/index-list.json
+data/words/index-list.json
