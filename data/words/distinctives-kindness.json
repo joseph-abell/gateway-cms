@@ -1,0 +1,24 @@
+{
+  "title": "Distinctives Kindness",
+  "date": "2020-02-09T12:00:00+00:00",
+  "subtitle": "Responding to the Father's kindness to us by serving others",
+  "image": "/uploads/distinctives.jpg",
+  "authors": [
+    {
+      "author": "Caleb Ellwood"
+    }
+  ],
+  "tags": [
+    {
+      "tag": "Sermon"
+    },
+    {
+      "tag": "Distinctives"
+    },
+    {
+      "tag": "Kindness"
+    }
+  ],
+  "colour": "green",
+  "showOnPodcast": true
+}
