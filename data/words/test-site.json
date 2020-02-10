@@ -1,0 +1,18 @@
+{
+  "title": "Test site",
+  "date": "1970-01-01T13:55:36+01:00",
+  "subtitle": "test sub",
+  "image": "/uploads/24 (Large).jpg",
+  "deck": "asdf",
+  "authors": [
+    {
+      "author": "Caleb Ellwood"
+    }
+  ],
+  "tags": [
+    {
+      "tag": "Test article"
+    }
+  ],
+  "colour": "red"
+}
