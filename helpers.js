@@ -18,8 +18,7 @@ const getDataPromise = (filename, includeIndex = false) =>
       return resolve(data);
     } else {
       const data = JSON.parse(fs.readFileSync(filename, 'utf8'));
-
-      const slug = data.title
+      const slug = data && data.title && data.title
         .toLowerCase()
         .split('(')
         .join('')

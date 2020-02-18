@@ -93,7 +93,7 @@ const addDataToFileStructure = async fileStructure => {
 
   data.forEach(item => {
     const {data} = item;
-    const title = `${data.title
+    const title = `${data && data.title && data.title
       .split('(')
       .join('')
       .split(')')
