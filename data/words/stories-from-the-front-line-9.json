@@ -1,0 +1,25 @@
+{
+  "authors": [
+    {
+      "author": "Nina Sloan"
+    }
+  ],
+  "showOnPodcast": true,
+  "colour": "red",
+  "date": "2020-03-22T11:59:00+00:00",
+  "subtitle": "We hear from Nina, a local GP",
+  "title": "Stories from the Front Line 9",
+  "tags": [
+    {
+      "tag": "Stories from the Front Line"
+    },
+    {
+      "tag": "Coronavirus"
+    },
+    {
+      "tag": "GP"
+    }
+  ],
+  "image": "/uploads/stories-from-the-front-line-web-1-.jpg",
+  "file": "/uploads/20200322-nina-sloan-stories-from-the-front-line.mp3"
+}
