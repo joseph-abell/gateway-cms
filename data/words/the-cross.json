@@ -1,0 +1,28 @@
+{
+  "authors": [
+    {
+      "author": "Jenny Herrera"
+    }
+  ],
+  "showOnPodcast": true,
+  "colour": "green",
+  "date": "2020-04-05T12:00:00+01:00",
+  "subtitle": "Individual encounters with Jesus at the cross",
+  "title": "The Cross",
+  "tags": [
+    {
+      "tag": "Sermon"
+    },
+    {
+      "tag": "Passion Week"
+    },
+    {
+      "tag": "Easter"
+    },
+    {
+      "tag": "Cross"
+    }
+  ],
+  "image": "/uploads/passion-week.jpg",
+  "file": "/uploads/20200405-jenny-herrera.mp3"
+}
