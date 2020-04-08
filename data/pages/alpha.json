@@ -1,0 +1,29 @@
+{
+  "title": "Alpha",
+  "header": {
+    "image": "/uploads/IMG_0035 (Large).jpg",
+    "menuColour": "purple"
+  },
+  "subtitle": {
+    "subtitle": ""
+  },
+  "deck": {
+    "title": "Eager to explore Christianity further?",
+    "paragraph": "",
+    "colour": "purple"
+  },
+  "contents": [
+    {
+      "content": {
+        "left": {
+          "deck": "\rAlpha is an opportunity for people to investigate the Christian faith for themselves. Alpha is really for anyone who’s curious. Exploring topics such as “Is there more to life than this?” and “Who is Jesus?”\r\n\n\rEach week will involve watching a 20-25 minute presentation, followed by an online discussion via video call. Our next Alpha starts on Wednesday 29th April and runs for 7 weeks.",
+          "colour": "purple"
+        },
+        "right": {
+          "image": "/uploads/alpha.jpg"
+        }
+      }
+    }
+  ],
+  "optionalContent": "noContent"
+}
