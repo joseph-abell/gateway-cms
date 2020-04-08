@@ -16,11 +16,11 @@
     {
       "content": {
         "left": {
-          "deck": "Alpha is an opportunity for people to investigate the Christian faith for themselves. Alpha is really for anyone who’s curious. Exploring topics such as “Is there more to life than this?” and “Who is Jesus?”\n\nEach week will involve watching a 20-25 minute presentation, followed by an online discussion via video call. Our next Alpha starts on Wednesday 29th April and runs for 7 weeks.\n\n[If you're interested in attending Alpha, sign up here.](https://gateway.churchsuite.co.uk/events/vigmsln3)",
+          "deck": "<!DOCTYPE html>\r\n\n<html>\r\n\n<body>\r\n\n\r\n\n<h1>The iframe element</h1>\r\n\n\r\n\n<iframe src=\"https://gateway.churchsuite.co.uk/events/vigmsln3\">\r\n\n  <p>Your browser does not support iframes.</p>\r\n\n</iframe>\r\n\n\r\n\n</body>\r\n\n</html>",
           "colour": "purple"
         },
         "right": {
-          "image": "/uploads/alpha.jpg"
+          "image": ""
         }
       }
     }
