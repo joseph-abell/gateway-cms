@@ -7,16 +7,16 @@
   "cta": [
     {
       "title": "Sundays",
-      "deck": "We gather every Sunday at 10.40am at the Gateway Centre. More details here.",
+      "deck": "In this current season, we gather online every Sunday at 10.40am. Click here for details. ",
       "link": "/sundays",
       "image": "/uploads/IMG_0072 (Small).jpg",
       "colour": "green"
     },
     {
-      "title": "Upcoming Events",
-      "deck": "Information about all events happening in the coming months.",
-      "link": "/events",
-      "image": "/uploads/Ceilidh - edited.jpg",
+      "title": "Alpha",
+      "deck": "Information about our upcoming Online Alpha.",
+      "link": "/alpha",
+      "image": "/uploads/IMG_5867a - edited.jpg",
       "colour": "orange"
     },
     {

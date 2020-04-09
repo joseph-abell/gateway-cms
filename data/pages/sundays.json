@@ -21,7 +21,7 @@
           "colour": "purple"
         },
         "right": {
-          "deck": "We meet at the Gateway Centre every Sunday at 10:40am for worship and teaching for all ages. Refreshments are served from 10:15am in the cafe, before we spend time singing and worshipping together. Part way through the service the children and young people (up to the age of 16) head out to a full range of excellent children's groups, while the adults hear teaching and continue to worship together.",
+          "deck": "In this current season, we meet together online every Sunday at 10:40am for worship and teaching. Join us at: [youtube.com/gatewaychurchyork](https://www.youtube.com/gatewaychurchyork)",
           "colour": "purple"
         }
       }
@@ -51,5 +51,6 @@
       }
     }
   ],
+  "iframe": " ",
   "optionalContent": "noContent"
 }
