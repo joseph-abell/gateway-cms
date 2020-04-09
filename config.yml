@@ -382,7 +382,7 @@ collections:
               },
             ],
         }
-      - { label: iframe, name: iframe, widget: text }
+      - { label: iframe, name: iframe, widget: text, required: false }
       - {
           label: 'Optional Content',
           name: optionalContent,
