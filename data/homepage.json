@@ -13,10 +13,10 @@
       "colour": "green"
     },
     {
-      "title": "Upcoming Events",
-      "deck": "Information about all events happening in the coming months.",
-      "link": "/events",
-      "image": "/uploads/Ceilidh - edited.jpg",
+      "title": "Alpha",
+      "deck": "Information about our upcoming Online Alpha.",
+      "link": "/alpha",
+      "image": "/uploads/IMG_5867a - edited.jpg",
       "colour": "orange"
     },
     {
