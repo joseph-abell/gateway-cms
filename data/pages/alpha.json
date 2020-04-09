@@ -2,7 +2,7 @@
   "title": "Alpha",
   "header": {
     "image": "/uploads/IMG_0035 (Large).jpg",
-    "menuColour": "purple"
+    "menuColour": "red"
   },
   "subtitle": {
     "subtitle": ""
@@ -10,7 +10,7 @@
   "deck": {
     "title": "Eager to explore Christianity further?",
     "paragraph": "",
-    "colour": "purple"
+    "colour": "red"
   },
   "contents": [],
   "iframe": "<iframe src=\"https://gateway.churchsuite.co.uk/events/vigmsln3\">  <p>Your browser does not support iframes.</p></iframe>",
