@@ -1,0 +1,28 @@
+{
+  "authors": [
+    {
+      "author": "John Wilson"
+    }
+  ],
+  "showOnPodcast": true,
+  "colour": "green",
+  "date": "2020-04-19T12:00:00+01:00",
+  "subtitle": "How we handle difficulties ",
+  "title": "Faith That Gets You Through",
+  "tags": [
+    {
+      "tag": "Sermon"
+    },
+    {
+      "tag": "Faith Works"
+    },
+    {
+      "tag": "James"
+    },
+    {
+      "tag": "Difficulties"
+    }
+  ],
+  "image": "/uploads/faith-works.jpg",
+  "file": "/uploads/20200419-john-wilson.mp3"
+}
