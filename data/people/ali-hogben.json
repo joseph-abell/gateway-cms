@@ -5,11 +5,7 @@
   "image": "/uploads/Ali Hogben.jpg",
   "titleRole": "Worship Leader",
   "filters": {
-    "all": "true",
-    "ministryLeaders": "true"
-  },
-  "words": [
-    "The importance of a heavenly perspective"
-  ],
-  "slug": "ali-hogben"
+    "all": "false",
+    "ministryLeaders": "false"
+  }
 }
