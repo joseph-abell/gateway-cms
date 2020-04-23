@@ -5,17 +5,8 @@
   "image": "/uploads/Jenny Herrera - edited.jpg",
   "titleRole": "Lifegroup Leader",
   "filters": {
+    "all": "true",
     "lifegroupLeaders": "true",
-    "all": "true"
-  },
-  "words": [
-    "A People with a Purpose in a Place",
-    "An interview with Jenny Herrera",
-    "Conviction, Confidence and Courage",
-    "I am with you",
-    "Lest We Forget",
-    "Propelled into Action",
-    "Strength in Surrender"
-  ],
-  "slug": "jenny-herrera"
+    "staff": "true"
+  }
 }
