@@ -1,25 +1,12 @@
 {
   "title": "David Donkin",
-  "deck": "<p>I am married to Karen and we have two boys who have both flown the nest.\n</p>\n<p>I have the privilege of being on the eldership team at Gateway and am a Trustee with responsibility for Church Finances.\n</p>\n<p>I am a Chartered Surveyor and work in Hull for a property investment and development company\n</p>\n<p>In my spare time I like to keep fit and am particularly keen on cycling at the moment.\n</p>",
+  "deck": "<p>I am married to Karen and we have two boys who have both flown the nest.\n</p>\n<p>I have the privilege of being on the eldership team at Gateway and am a Trustee with responsibility for Church Finances.\n</p>\n<p>I am a Chartered Surveyor and work in Hull for a property investment and development company.\n</p>\n<p>In my spare time I like to keep fit and am particularly keen on cycling at the moment.\n</p>",
   "menuColour": "green",
   "image": "/uploads/Dave Donkin (Small).jpg",
   "titleRole": "Elder and Trustee",
   "filters": {
     "all": "true",
     "elders": "true",
-    "trustees": "true",
-    "preachingTeam": "true"
-  },
-  "words": [
-    "A Missed Opportunity",
-    "Calling, co-operation, Christ-centred",
-    "Feel the Fear But Follow With Faith",
-    "John Prepares the Way",
-    "Living Wisely",
-    "Naaman",
-    "Nehemiah",
-    "The mind of Christ",
-    "The mustard seed"
-  ],
-  "slug": "david-donkin"
+    "trustees": "true"
+  }
 }
