@@ -3,18 +3,9 @@
   "deck": "<p>I'm Simon, and at Gateway I'm involved in the music ministry and the occasional preach as well. As I'm a teacher by trade, I have a real passion for seeing the teachings of Jesus applied to our lives. You'll often see me at the front with my guitar, and I'm excited by the way God is moving through our worship of Him. When I'm not at Gateway, I'm usually cycling or hanging out with friends.\n</p>",
   "menuColour": "purple",
   "image": "/uploads/IMG_1196 - amended.jpg",
-  "titleRole": "Worship Leader and Preaching Team",
+  "titleRole": "Preaching Team",
   "filters": {
-    "all": "true",
-    "preachingTeam": "true",
-    "ministryLeaders": "true"
-  },
-  "words": [
-    "Listening to God",
-    "Psalm 100",
-    "Three Questions",
-    "Trusting only in the Rock",
-    "Walking in the way of light"
-  ],
-  "slug": "simon-desborough"
+    "all": "false",
+    "ministryLeaders": "false"
+  }
 }
