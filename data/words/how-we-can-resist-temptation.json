@@ -1,0 +1,31 @@
+{
+  "authors": [
+    {
+      "author": "Peter Sloan"
+    }
+  ],
+  "showOnPodcast": true,
+  "colour": "green",
+  "date": "2020-04-26T12:00:00+01:00",
+  "subtitle": "Continuing our Faith Works series",
+  "title": "How We Can Resist Temptation",
+  "tags": [
+    {
+      "tag": "Sermon"
+    },
+    {
+      "tag": "Faith Works"
+    },
+    {
+      "tag": "James"
+    },
+    {
+      "tag": "Temptation"
+    },
+    {
+      "tag": "Trial"
+    }
+  ],
+  "image": "/uploads/faith-works.jpg",
+  "file": "/uploads/20200426-peter-sloan.mp3"
+}
