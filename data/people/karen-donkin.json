@@ -1,15 +1,11 @@
 {
   "title": "Karen Donkin",
-  "deck": "<p>I am married to David, mum to Scott and Jonny and mother-in-law to Alex. I have lived in Acomb and  have been part of Gateway for many years and LOVE this church! I  work one day a week in the office, mainly with finances and stuff relating to the Centre. On Sundays I can sometimes  be found serving refreshments or manning the Info desk. I also work part time in a local college, and when I'm not doing any of the above  I enjoy reading, films and a good natter over a cuppa.\n</p>",
+  "deck": "<p>I am married to David, mum to Scott and Jonny and mother-in-law to Alex. I have lived in Acomb and have been part of Gateway for many years and LOVE this church! I work one day a week in the office, mainly with finances and stuff relating to the Centre. On Sundays I can sometimes be found manning the Info Point. I also work part time in a local college, and when I'm not doing any of the above I enjoy reading, films and a good natter over a cuppa.\n</p>",
   "menuColour": "green",
   "image": "/uploads/Karen.jpg",
   "titleRole": "Finance Assistant ",
   "filters": {
     "all": "true",
     "staff": "true"
-  },
-  "words": [
-    "An Interview with Karen Donkin"
-  ],
-  "slug": "karen-donkin"
+  }
 }
