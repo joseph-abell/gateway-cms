@@ -1,17 +1,12 @@
 {
   "title": "Katie Greene",
-  "deck": "<p>Hi my name is Katie and I've been a member of Gateway church since 2006. I'm married to Ben and we have three boys - Jacob, Zach and Caleb. I help out at Gateway Toddlers on a Wednesday morning. At the moment I'm mainly a full-time Mum but I also work a few hours a week for Acts 435 - an online direct needs charity. At the weekend I love spending time as a family - baking, going on days out and relaxing!<br>\n</p>",
+  "deck": "Hi, my name is Katie and I've been a member of Gateway church since 2006. I'm married to Ben and we have three boys - Jacob, Zach and Caleb. I help out at Gateway Toddlers on a Wednesday morning, with our Discoverers group on a Sunday and help to lead our 'Who Let The Dads Out?' group with my husband, which happens monthly on a Saturday. My daytime job (alongside being a mum) is as the Communications Officer for Acts 435 - an online direct needs charity. At the weekend we love spending time as a family, especially exploring Yorkshire!",
   "menuColour": "purple",
   "image": "/uploads/katie (Small).jpg",
-  "titleRole": "'Who Let the Dads Out? Leader",
+  "titleRole": "'Who Let the Dads Out?' Leader",
   "filters": {
     "all": "true",
     "lifegroupLeaders": "false",
     "ministryLeaders": "true"
-  },
-  "words": [
-    "Do not worry",
-    "Gateway Women Together Event"
-  ],
-  "slug": "katie-greene"
+  }
 }
