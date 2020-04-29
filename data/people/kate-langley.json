@@ -1,11 +1,11 @@
 {
   "title": "Kate Langley",
-  "deck": "<p>Hi. My name is Kate and I lead a life group with Sarah Curry. I have been at Gateway since 2015 and feel very settled here. I am an archaeologist, which basically means I play in mud all day! At Gateway I am also a CAP Money coach, helping to run money management courses, and I help organise @ - the 20's and 30's social group. I enjoy reading, watching sport and tv, and spending time with friends and family.\n</p>",
+  "deck": "<p>Hi. My name is Kate and I lead a Lifegroup with Sarah Curry. I have been at Gateway since 2015 and feel very settled here. I am an archaeologist, which basically means I play in mud all day! At Gateway I am a CAP Money coach, helping to run money management courses, and I also help with the Lights youth group. I enjoy reading, watching sport and TV, and spending time with friends and family.\n</p>",
   "menuColour": "purple",
   "image": "/uploads/Kate Langley.jpg",
   "titleRole": "Lifegroup Leader",
   "filters": {
-    "lifegroupLeaders": "true",
-    "all": "true"
+    "all": "true",
+    "lifegroupLeaders": "true"
   }
 }
