@@ -4,5 +4,7 @@
   "menuColour": "purple",
   "image": "/uploads/Louise (Small).JPG",
   "titleRole": "Lifegroup Leader",
-  "filters": {}
+  "filters": {
+    "all": "false"
+  }
 }
