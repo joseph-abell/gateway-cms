@@ -4,5 +4,7 @@
   "menuColour": "red",
   "image": "/uploads/manton (Small).jpg",
   "titleRole": "Trustee",
-  "filters": {}
+  "filters": {
+    "all": "false"
+  }
 }
