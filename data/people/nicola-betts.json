@@ -4,10 +4,7 @@
   "menuColour": "purple",
   "image": "/uploads/Nicola (Small).jpg",
   "titleRole": "Worship Leader",
-  "filters": {},
-  "words": [
-    "A call to worship",
-    "Children and parents"
-  ],
-  "slug": "nicola-betts"
+  "filters": {
+    "all": "false"
+  }
 }
