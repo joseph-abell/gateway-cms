@@ -1,0 +1,23 @@
+{
+  "authors": [
+    {
+      "author": "Caleb Ellwood"
+    },
+    {
+      "author": "Jenny Herrera"
+    }
+  ],
+  "showOnPodcast": true,
+  "deck": "Jenny has been working from home for the best part of 10 years so in this interview, Caleb asks her for some top tips on making it work.",
+  "colour": "red",
+  "date": "2020-04-23T12:00:00+01:00",
+  "subtitle": "Thriving in Lockdown Episode #4",
+  "title": "Working from Home",
+  "tags": [
+    {
+      "tag": "Thriving in Lockdown"
+    }
+  ],
+  "image": "/uploads/thriving-in-lockdown.jpg",
+  "youtubeLink": "https://youtu.be/MnGqiJuclTo"
+}
