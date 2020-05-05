@@ -1,17 +1,11 @@
 {
   "title": "Neville Croucher",
-  "deck": "<p>I’m Neville. I am blessed &amp; honoured to be married to Karen. Together we lead a life group on a Wednesday evening. I also have the privilege of being on the prayer team and the welcome team, and occasionally I preach at Gateway.\n</p>\n<p><u></u>\n</p>\n<p>I have a passion for evangelism and this has taken me off to Malawi on 10 occasions so far, where along with a team of people we work with local churches to reach out to people who do not yet know Jesus.<u></u><u></u>\n</p>\n<p>Family is very important to me and I have recently become a Grandad.\n</p>",
+  "deck": "I’m Neville. I am blessed and honoured to be married to Karen. Together we lead a Lifegroup on a Wednesday evening. I am also on the prayer and welcome teams.\r\n\n\rI have a passion for evangelism and this has taken me off to Malawi on around a dozen occasions, where along with a team of people we work with local churches to reach out to people who do not yet know Jesus.\r\n\nFamily is very important to me and I now have a number of grandchildren.",
   "menuColour": "purple",
   "image": "/uploads/Neville.jpg",
-  "titleRole": "Lifegroup Leader and Preaching Team",
+  "titleRole": "Lifegroup Leader",
   "filters": {
     "all": "true",
-    "preachingTeam": "true",
     "lifegroupLeaders": "true"
-  },
-  "words": [
-    "Faith",
-    "The prodigal son"
-  ],
-  "slug": "neville-croucher"
+  }
 }
