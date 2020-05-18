@@ -1,0 +1,28 @@
+{
+  "authors": [
+    {
+      "author": "Nathan Bulley"
+    }
+  ],
+  "showOnPodcast": true,
+  "colour": "green",
+  "date": "2020-05-17T12:00:00+01:00",
+  "subtitle": "Faith alone saves, but the faith that saves is not alone",
+  "title": "What good is it",
+  "tags": [
+    {
+      "tag": "Sermon"
+    },
+    {
+      "tag": "Faith Works"
+    },
+    {
+      "tag": "Faith"
+    },
+    {
+      "tag": "James"
+    }
+  ],
+  "image": "/uploads/faith-works.jpg",
+  "file": "/uploads/20200517-nathan-bulley.mp3"
+}
