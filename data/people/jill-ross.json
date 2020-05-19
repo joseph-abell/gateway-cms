@@ -1,15 +1,11 @@
 {
   "title": "Jill Ross",
-  "deck": "<p>I am married to Tom and help lead prayer and marriage ministry in the Church. We have two children and three grandchildren.\n</p>\n<p>I am a Health Improvement Specialist with City of York Council and have a private Counselling Practice. l volunteer with two Christian charities in the city, as a trainer and supervisor with  Reflect Pregnancy choices and loss service, and as a trustee for Family Matters where Tom and l are also part of the couples in crisis team. I love supporting couples and individuals to work through issues to become happier and healthier, and also reading and relaxing with friends and playing with my gorgeous grandchildren.\n</p>",
+  "deck": "<p>I am married to Tom and help lead prayer and marriage ministry in the church. We have two children and three grandchildren.\n</p>\n<p>I am a Health Improvement Specialist with City of York Council and have a private Counselling Practice. l volunteer with two Christian charities in the city, as a trainer and supervisor with  Reflect Pregnancy choices and loss service, and as a trustee for Family Matters where Tom and l are also part of the couples in crisis team. I love supporting couples and individuals to work through issues to become happier and healthier, and also reading and relaxing with friends and playing with my gorgeous grandchildren.\n</p>",
   "menuColour": "purple",
   "image": "/uploads/IMAG0117.jpg",
   "titleRole": "Prayer Ministry Leader",
   "filters": {
     "all": "true",
     "ministryLeaders": "true"
-  },
-  "words": [
-    "Marriage"
-  ],
-  "slug": "jill-ross"
+  }
 }
