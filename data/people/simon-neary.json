@@ -1,19 +1,10 @@
 {
   "title": "Simon Neary",
-  "deck": "<p>I am married to Wendy with two lovely teenage daughters. I am an RE teacher in a North Yorkshire secondary school.\n</p>\n<p>I love music, photography, cooking, the Lake District and my family, but not necessarily in that order!\n</p>",
+  "deck": "<p>I am married to Wendy with two lovely daughters. I am an RE teacher in a secondary school.\n</p>\n<p>I love music, photography, cooking, the Lake District and my family, but not necessarily in that order!\n</p>",
   "menuColour": "orange",
   "image": "/uploads/Simon.jpg",
   "titleRole": "Preaching Team",
   "filters": {
-    "all": "true",
-    "preachingTeam": "true"
-  },
-  "words": [
-    "A Present and a Hint",
-    "Anger",
-    "I AM the Resurrection and the Life",
-    "The good Samaritan",
-    "Walk worthy. Walk together."
-  ],
-  "slug": "simon-neary"
+    "all": "true"
+  }
 }
