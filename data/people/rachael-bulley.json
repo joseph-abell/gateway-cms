@@ -1,23 +1,11 @@
 {
   "title": "Rachael Bulley",
-  "deck": "<p>I'm Rachael, mum of the Bulley clan. Married to Nathan, we have 3 gorgeous primary school aged girls. At Gateway I'm involved in preaching, and I love how sharing stories can encourage and challenge us. Outside of church you'll find me spending time with my family or watching American TV dramas.\n</p>",
+  "deck": "<p>I'm Rachael, mum of the Bulley clan. Married to Nathan, we have 3 gorgeous girls. At Gateway I'm involved in preaching, and I love how sharing stories can encourage and challenge us. Outside of church you'll find me spending time with my family or watching American TV dramas.\n</p>",
   "menuColour": "purple",
   "image": "/uploads/Rach B (Small).jpg",
   "titleRole": "Lifegroup Leader and Preaching Team",
   "filters": {
     "all": "true",
     "lifegroupLeaders": "true"
-  },
-  "words": [
-    "But What If... ?",
-    "I AM the Bread of Life",
-    "Just be",
-    "Out of your depth",
-    "Sing",
-    "The Mystery",
-    "The triumphal entry",
-    "The wise and foolish builders",
-    "Treasure and ponder"
-  ],
-  "slug": "rachael-bulley"
+  }
 }
