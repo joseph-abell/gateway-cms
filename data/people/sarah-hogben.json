@@ -1,6 +1,6 @@
 {
   "title": "Sarah Hogben",
-  "deck": "<p>Hi my name is Sarah and I work part time at Gateway leading our wonderful kids team. I live with my husband Alistair and our two lovely children in Acomb. As a mum of 2 young children I spend most of my time at toddler groups or on the floor playing with toys! I love searching on Pinterest for new ideas and activities to do with the kids at home or at church, and especially love anything involving glitter, gloop or any other colourful mess!\n</p>",
+  "deck": "<p>Hi my name is Sarah and I work part time at Gateway leading our wonderful kids team. I live with my husband Alistair and our three lovely children in Acomb. As a mum of 3 young children I spend most of my time at toddler groups or on the floor playing with toys! I love searching on Pinterest for new ideas and activities to do with the kids at home or at church, and especially love anything involving glitter, gloop or any other colourful mess!\n</p>",
   "menuColour": "green",
   "image": "/uploads/Sarah (Small).jpg",
   "titleRole": "Children's Work Team Leader",
@@ -8,10 +8,5 @@
     "all": "true",
     "ministryLeaders": "true",
     "staff": "true"
-  },
-  "words": [
-    "An Interview with Sarah Hogben",
-    "Life is Good"
-  ],
-  "slug": "sarah-hogben"
+  }
 }
