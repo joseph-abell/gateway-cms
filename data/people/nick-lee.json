@@ -1,11 +1,11 @@
 {
   "title": "Nick Lee",
-  "deck": "<p>I'm Nick, married to Margie, and part of Gateway church since 2014 when we moved to York. I spent most of my career as an accountant in the charity sector, with a stint at Joseph Rowntree here in York. I'm now working on developing a smallholding and wildlife site, and we run a B&amp;B as well. If I could, I'd spend most days on the river just pottering about. We are privileged to lead a life group where we aim to learn together, hear from God and encourage and pray for each other.\n</p>",
+  "deck": "<p>I'm Nick, married to Margie, and part of Gateway church since 2014 when we moved to York. I spent most of my career as an accountant in the charity sector, with a stint at Joseph Rowntree here in York. I'm now working on developing a smallholding and wildlife site, and we run a B&amp;B as well. If I could, I'd spend most days on the river just pottering about. We are privileged to lead a Lifegroup where we aim to learn together, hear from God, and encourage and pray for each other.\n</p>",
   "menuColour": "purple",
   "image": "/uploads/Nick Lee - edited.jpg",
   "titleRole": "Lifegroup Leader",
   "filters": {
-    "lifegroupLeaders": "true",
-    "all": "true"
+    "all": "true",
+    "lifegroupLeaders": "true"
   }
 }
