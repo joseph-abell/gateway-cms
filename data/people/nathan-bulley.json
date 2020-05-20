@@ -1,6 +1,6 @@
 {
   "title": "Nathan Bulley",
-  "deck": "<p>I am the father of Leah, Sarah and Jessica and husband of Rachael. I've been a teacher for far too long, but remain passionate about my favourite subjects: history and politics. Combined with my involvement in church, that probably amounts to three topics never to bring up at dinner parties. I enjoy reading and photography as well as the occasional data-related spreadsheet.\n</p>",
+  "deck": "<p>I am the father of Leah, Sarah and Jessica, and husband of Rachael. I've been a teacher for far too long, but remain passionate about my favourite subjects: history and politics. Combined with my involvement in church, that probably amounts to three topics never to bring up at dinner parties. I enjoy reading and photography as well as the occasional data-related spreadsheet.\n</p>",
   "menuColour": "green",
   "image": "/uploads/nathan bulley.jpg",
   "titleRole": "Elder, Trustee and Lifegroup Leader",
@@ -9,17 +9,5 @@
     "elders": "true",
     "lifegroupLeaders": "true",
     "trustees": "true"
-  },
-  "words": [
-    "A Tale of Three Monuments",
-    "Choose Faith 2",
-    "Choose Faith",
-    "God is good",
-    "I AM",
-    "Jesus and...",
-    "Love and life",
-    "Speculate to accumulate",
-    "The Righteous"
-  ],
-  "slug": "nathan-bulley"
+  }
 }
