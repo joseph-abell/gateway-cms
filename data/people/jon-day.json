@@ -5,7 +5,7 @@
   "image": "/uploads/Jon Day (Small).jpg",
   "titleRole": "Alpha Team Leader",
   "filters": {
-    "all": "true",
-    "ministryLeaders": "true"
+    "all": "false",
+    "ministryLeaders": "false"
   }
 }
