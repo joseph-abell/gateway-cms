@@ -5,7 +5,7 @@
   "image": "/uploads/29482760866_7d4eb7b34e_o - amended.jpg",
   "titleRole": "Facilities Assistant",
   "filters": {
-    "all": "true",
-    "staff": "true"
+    "all": "false",
+    "staff": "false"
   }
 }
