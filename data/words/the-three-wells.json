@@ -1,0 +1,25 @@
+{
+  "authors": [
+    {
+      "author": "Simon Neary"
+    }
+  ],
+  "showOnPodcast": true,
+  "colour": "green",
+  "date": "2020-07-12T12:00:00+01:00",
+  "subtitle": "Waiting well, behaving well and speaking well",
+  "title": "The Three Wells",
+  "tags": [
+    {
+      "tag": "Sermon"
+    },
+    {
+      "tag": "Faith Works"
+    },
+    {
+      "tag": "James"
+    }
+  ],
+  "image": "/uploads/faith-works.jpg",
+  "file": "/uploads/20200712-simon-neary.mp3"
+}
