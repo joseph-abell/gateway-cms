@@ -1,0 +1,28 @@
+{
+  "authors": [
+    {
+      "author": "Caleb Ellwood"
+    }
+  ],
+  "showOnPodcast": true,
+  "colour": "green",
+  "date": "2020-07-19T12:00:00+01:00",
+  "subtitle": "Bring everything to God in prayer with faith",
+  "title": "The Power of Prayer",
+  "tags": [
+    {
+      "tag": "Sermon"
+    },
+    {
+      "tag": "Faith Works"
+    },
+    {
+      "tag": "James"
+    },
+    {
+      "tag": "Prayer"
+    }
+  ],
+  "image": "/uploads/faith-works.jpg",
+  "file": "/uploads/20200719-caleb-ellwood.mp3"
+}
