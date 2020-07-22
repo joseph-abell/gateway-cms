@@ -5,8 +5,8 @@
   "image": "/uploads/Hannah (Small).jpg",
   "titleRole": "Toddlers Leader",
   "filters": {
-    "all": "true",
+    "all": "false",
     "lifegroupLeaders": "false",
-    "ministryLeaders": "true"
+    "ministryLeaders": "false"
   }
 }
