@@ -1,0 +1,28 @@
+{
+  "authors": [
+    {
+      "author": "Joe O'Neill"
+    }
+  ],
+  "showOnPodcast": true,
+  "colour": "green",
+  "date": "2020-08-16T12:00:00+01:00",
+  "subtitle": "Three Signs",
+  "title": "Abraham",
+  "tags": [
+    {
+      "tag": "Sermon"
+    },
+    {
+      "tag": "Finding Jesus in the Old Testament"
+    },
+    {
+      "tag": "Abraham"
+    },
+    {
+      "tag": "Signs"
+    }
+  ],
+  "image": "/uploads/finding-jesus.jpg",
+  "file": "/uploads/20200816-joseph-o-neill.mp3"
+}
