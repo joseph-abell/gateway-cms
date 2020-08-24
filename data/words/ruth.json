@@ -1,0 +1,25 @@
+{
+  "authors": [
+    {
+      "author": "Pippa Young"
+    }
+  ],
+  "showOnPodcast": true,
+  "colour": "green",
+  "date": "2020-08-23T12:00:00+01:00",
+  "subtitle": "There is more to the story",
+  "title": "Ruth",
+  "tags": [
+    {
+      "tag": "Sermon"
+    },
+    {
+      "tag": "Finding Jesus in the Old Testament"
+    },
+    {
+      "tag": "Ruth"
+    }
+  ],
+  "image": "/uploads/finding-jesus.jpg",
+  "file": "/uploads/20200823-pippa-young.mp3"
+}
