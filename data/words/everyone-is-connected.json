@@ -1,0 +1,25 @@
+{
+  "authors": [
+    {
+      "author": "Caleb Ellwood"
+    }
+  ],
+  "showOnPodcast": true,
+  "colour": "green",
+  "date": "2020-09-06T12:00:00+01:00",
+  "subtitle": "What makes a body a body is that the parts are connected together in the right way",
+  "title": "Everyone is Connected",
+  "tags": [
+    {
+      "tag": "Sermon"
+    },
+    {
+      "tag": "One Body"
+    },
+    {
+      "tag": "1 Corinthians"
+    }
+  ],
+  "image": "/uploads/one-body.jpg",
+  "file": "/uploads/20200906-caleb-ellwood.mp3"
+}
