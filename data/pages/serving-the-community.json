@@ -30,32 +30,6 @@
     {
       "content": {
         "left": {
-          "deck": "A group for new parents in our local community to get to know one another.\nWednesdays 12:30-2:00pm.",
-          "colour": "red"
-        },
-        "right": {
-          "deck": "Acomb Babies",
-          "image": "/uploads/IMG_6806 (Large).jpg",
-          "colour": "red"
-        }
-      }
-    },
-    {
-      "content": {
-        "left": {
-          "deck": "Toddler Group",
-          "image": "/uploads/DSC_3450 (Large).JPG",
-          "colour": "red"
-        },
-        "right": {
-          "deck": "A friendly, fun place for parents to bring their toddlers for free play and story time.\nWednesdays 9:30-11:00am.",
-          "colour": "red"
-        }
-      }
-    },
-    {
-      "content": {
-        "left": {
           "deck": "We partner with the award-winning national charity Christians Against Poverty (CAP) to deliver a free debt advice service to those struggling with unmanageable debt. Our Debt Coaches, [Jackie Adie](https://www.gatewaychurch.co.uk/people/Jackie%20Adie) and [Lucy den Braber](https://www.gatewaychurch.co.uk/people/Lucy%20den%20Braber), work with individuals and families to support them out of debt. For more information you can visit the[ CAP website](https://capuk.org/) or call 0800 328 0006.",
           "colour": "red"
         },
