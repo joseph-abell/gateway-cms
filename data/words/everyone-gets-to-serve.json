@@ -1,0 +1,28 @@
+{
+  "authors": [
+    {
+      "author": "John Wilson"
+    }
+  ],
+  "showOnPodcast": true,
+  "colour": "green",
+  "date": "2020-09-13T12:00:00+01:00",
+  "subtitle": "Each of us has a part to play in the Body of Christ",
+  "title": "Everyone Gets To Serve",
+  "tags": [
+    {
+      "tag": "Sermon"
+    },
+    {
+      "tag": "One Body"
+    },
+    {
+      "tag": "Ephesians"
+    },
+    {
+      "tag": "Serve"
+    }
+  ],
+  "image": "/uploads/one-body.jpg",
+  "file": "/uploads/20200913-john-wilson.mp3"
+}
