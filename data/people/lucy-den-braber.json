@@ -3,10 +3,10 @@
   "deck": "<p>I'm Lucy den Braber, married to Alex and have three beautiful children called Rebecca, Oliver and Samuel. I've been coming to Gateway for about four years and can honestly say it has become my home and I've made some amazing friends and new family through the congregation. \n\n<p>Within Gateway, I work as a Debt Coach for CAP.  I love meeting new people and having the amazing opportunity of being able to bring Jesus into their lives as well as practically giving people solutions to get out of debt. \n\n<p>I'm also part of the kids team and help out two Sundays a month worshipping and playing with the vast amount of children that are a part of our Gateway family. \n\n<p>At home I'm a busy mum and I love meeting up for coffee and cake. I also love reading, walking and going camping.\n</p>",
   "menuColour": "green",
   "image": "/uploads/Lucy den Braber 23.jpg",
-  "titleRole": "CAP Debt Coach/Lifegroup Leader",
+  "titleRole": "CAP Debt Coach",
   "filters": {
     "all": "true",
-    "lifegroupLeaders": "true",
+    "lifegroupLeaders": "false",
     "ministryLeaders": "true",
     "staff": "true"
   }
