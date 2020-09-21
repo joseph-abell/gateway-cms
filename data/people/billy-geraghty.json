@@ -6,6 +6,6 @@
   "titleRole": "Lifegroup Leader",
   "filters": {
     "all": "false",
-    "lifegroupLeaders": "true"
+    "lifegroupLeaders": "false"
   }
 }
