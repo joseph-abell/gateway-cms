@@ -5,7 +5,7 @@
   "image": "/uploads/Alex.jpg",
   "titleRole": "Lifegroup Leader",
   "filters": {
-    "all": "true",
-    "lifegroupLeaders": "true"
+    "all": "false",
+    "lifegroupLeaders": "false"
   }
 }
