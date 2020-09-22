@@ -13,10 +13,10 @@
       "colour": "green"
     },
     {
-      "title": "Alpha",
-      "deck": "Information about our Online Alpha.",
-      "link": "/alpha",
-      "image": "/uploads/IMG_5867a - edited.jpg",
+      "title": "Student?",
+      "deck": "Are you a student coming to York this autumn? Click here for more information.",
+      "link": "/students",
+      "image": "/uploads/IMG_5854a.jpg",
       "colour": "orange"
     },
     {
