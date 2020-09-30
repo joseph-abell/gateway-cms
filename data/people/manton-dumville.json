@@ -1,10 +1,11 @@
 {
   "title": "Manton Dumville",
-  "deck": "<p>Married to Helen, with four children, youngest of whom is Bethany.\n</p>\n<p>Eleven grandchildren, only three in York.\n</p>\n<p>I am a trustee.\n</p>\n<p>We’ve been members since the very beginning of the fellowship.\n</p>\n<p>Interesting fact - the church met in our house during the second year of its existence back in the early 1980’s, until numbers exceeded thirty.\n</p>",
-  "menuColour": "red",
-  "image": "/uploads/manton (Small).jpg",
-  "titleRole": "Trustee",
+  "deck": "Helen and I have been members of Gateway Church since the very beginning in 1981. Over the years we have been involved in worship, trustees, food bank, kids work and leading Lifegroups. \n\n<p>We now find ourselves once again stepping in to happily host a group temporarily until life returns to something more like normal.\r\n\n<p>We have 4 grown up children who all grew up in Gateway. and 13 grandchildren who keep us on our toes.",
+  "menuColour": "purple",
+  "image": "/uploads/manton-helen.jpg",
+  "titleRole": "Lifegroup Leader",
   "filters": {
-    "all": "false"
+    "all": "true",
+    "lifegroupLeaders": "true"
   }
 }
