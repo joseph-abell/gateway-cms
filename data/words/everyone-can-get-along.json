@@ -1,0 +1,25 @@
+{
+  "authors": [
+    {
+      "author": "Caleb Ellwood"
+    }
+  ],
+  "showOnPodcast": true,
+  "colour": "green",
+  "date": "2020-10-04T12:00:00+01:00",
+  "subtitle": "How to disagree well",
+  "title": "Everyone Can Get Along",
+  "tags": [
+    {
+      "tag": "Sermon"
+    },
+    {
+      "tag": "One Body"
+    },
+    {
+      "tag": "Disagreement"
+    }
+  ],
+  "image": "/uploads/one-body.jpg",
+  "file": "/uploads/20201004-caleb-ellwood.mp3"
+}
