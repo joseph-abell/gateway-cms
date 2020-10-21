@@ -5,7 +5,7 @@
   "image": "/uploads/Karen.jpg",
   "titleRole": "Finance Assistant ",
   "filters": {
-    "all": "true",
-    "staff": "true"
+    "all": "false",
+    "staff": "false"
   }
 }
