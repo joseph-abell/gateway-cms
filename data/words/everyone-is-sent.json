@@ -1,0 +1,25 @@
+{
+  "authors": [
+    {
+      "author": "John Wilson"
+    }
+  ],
+  "showOnPodcast": true,
+  "colour": "green",
+  "date": "2020-10-25T12:00:00+00:00",
+  "subtitle": "As the Father has sent me, so I am sending you",
+  "title": "Everyone is Sent",
+  "tags": [
+    {
+      "tag": "Sermon"
+    },
+    {
+      "tag": "One Body"
+    },
+    {
+      "tag": "Sent"
+    }
+  ],
+  "image": "/uploads/one-body.jpg",
+  "file": "/uploads/20201025-john-wilson.mp3"
+}
