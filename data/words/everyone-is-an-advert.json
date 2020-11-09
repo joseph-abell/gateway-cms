@@ -1,0 +1,34 @@
+{
+  "authors": [
+    {
+      "author": "Caleb Ellwood"
+    }
+  ],
+  "showOnPodcast": true,
+  "colour": "green",
+  "date": "2020-11-08T12:00:00+00:00",
+  "subtitle": "A life marked by love",
+  "title": "Everyone is an Advert",
+  "tags": [
+    {
+      "tag": "Sermon"
+    },
+    {
+      "tag": "One Body"
+    },
+    {
+      "tag": "Love"
+    },
+    {
+      "tag": "Forgiveness"
+    },
+    {
+      "tag": "1 Corinthians"
+    },
+    {
+      "tag": "John"
+    }
+  ],
+  "image": "/uploads/one-body.jpg",
+  "file": "/uploads/20201108-caleb-ellwood.mp3"
+}
