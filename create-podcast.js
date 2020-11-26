@@ -1,11 +1,7 @@
 const https = require('https');
-const fetch = require('isomorphic-fetch');
-const sound = require('music-metadata');
 const {DateTime} = require('luxon');
 const xml = require('prettify-xml');
 const fs = require('fs');
-const {promisify} = require('es6-promisify');
-const get = promisify(https.get);
 
 let podcast = '';
 
@@ -179,7 +175,7 @@ const createText = (text = '') => {
       );
 
       createElement('description');
-      createText(item.data.deck);
+      createText(item.data.deck && item.data.deck.split('<').join('').split('/>').join(''));
       createElement('/description');
 
       const date = DateTime.fromISO(item.data.date).toHTTP();
