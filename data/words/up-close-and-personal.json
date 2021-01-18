@@ -1,0 +1,25 @@
+{
+  "authors": [
+    {
+      "author": "Jenny Herrera"
+    }
+  ],
+  "showOnPodcast": true,
+  "colour": "green",
+  "date": "2021-01-17T12:00:00+00:00",
+  "subtitle": "Jesus saw, touched and restored",
+  "title": "Up Close and Personal",
+  "tags": [
+    {
+      "tag": "Sermon"
+    },
+    {
+      "tag": "Encountering Jesus"
+    },
+    {
+      "tag": "Matthew"
+    }
+  ],
+  "image": "/uploads/encountering-jesus.jpg",
+  "file": "/uploads/20210117-jenny-herrera.mp3"
+}
