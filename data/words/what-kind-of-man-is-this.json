@@ -1,0 +1,31 @@
+{
+  "authors": [
+    {
+      "author": "Joe O'Neill"
+    },
+    {
+      "author": "Joe ONeill"
+    }
+  ],
+  "showOnPodcast": true,
+  "colour": "green",
+  "date": "2021-01-31T12:00:00+00:00",
+  "subtitle": "A contrast between faith and fear",
+  "title": "What Kind of Man is This",
+  "tags": [
+    {
+      "tag": "Sermon"
+    },
+    {
+      "tag": "Encountering Jesus"
+    },
+    {
+      "tag": "Matthew"
+    },
+    {
+      "tag": "Faith"
+    }
+  ],
+  "image": "/uploads/encountering-jesus.jpg",
+  "file": "/uploads/20210131-joe-o-neill.mp3"
+}
