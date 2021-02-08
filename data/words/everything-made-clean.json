@@ -1,0 +1,28 @@
+{
+  "authors": [
+    {
+      "author": "Caleb Ellwood"
+    }
+  ],
+  "showOnPodcast": true,
+  "colour": "green",
+  "date": "2021-02-07T12:00:00+00:00",
+  "subtitle": "Jesus has the authority to make all unclean things clean",
+  "title": "Everything Made Clean",
+  "tags": [
+    {
+      "tag": "Sermon"
+    },
+    {
+      "tag": "Encountering Jesus"
+    },
+    {
+      "tag": "unclean"
+    },
+    {
+      "tag": "clean"
+    }
+  ],
+  "image": "/uploads/encountering-jesus.jpg",
+  "file": "/uploads/20210207-caleb-ellwood.mp3"
+}
