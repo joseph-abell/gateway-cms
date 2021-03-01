@@ -1,0 +1,28 @@
+{
+  "authors": [
+    {
+      "author": "Peter Sloan"
+    }
+  ],
+  "showOnPodcast": true,
+  "colour": "green",
+  "date": "2021-02-28T12:00:00+00:00",
+  "subtitle": "Jesus' response to a question about fasting",
+  "title": "New Wine for New Wineskins",
+  "tags": [
+    {
+      "tag": "Sermon"
+    },
+    {
+      "tag": "Encountering Jesus"
+    },
+    {
+      "tag": "Matthew"
+    },
+    {
+      "tag": "Fasting"
+    }
+  ],
+  "image": "/uploads/encountering-jesus.jpg",
+  "file": "/uploads/20210228-peter-sloan.mp3"
+}
