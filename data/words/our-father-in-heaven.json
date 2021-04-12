@@ -1,0 +1,25 @@
+{
+  "authors": [
+    {
+      "author": "John Wilson"
+    }
+  ],
+  "showOnPodcast": true,
+  "colour": "green",
+  "date": "2021-04-11T12:00:00+01:00",
+  "subtitle": "Six home truths about ourselves",
+  "title": "Our Father in Heaven",
+  "tags": [
+    {
+      "tag": "Sermon"
+    },
+    {
+      "tag": "Lord's Prayer"
+    },
+    {
+      "tag": "Our Father"
+    }
+  ],
+  "image": "/uploads/our-father.jpg",
+  "file": "/uploads/20210411-john-wilson.mp3"
+}
