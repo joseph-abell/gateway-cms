@@ -1,0 +1,28 @@
+{
+  "authors": [
+    {
+      "author": "Jenny Herrera"
+    }
+  ],
+  "showOnPodcast": true,
+  "colour": "green",
+  "date": "2021-04-25T12:00:00+01:00",
+  "subtitle": "Lifting our broken world to our Father",
+  "title": "Your Kingdom Come",
+  "tags": [
+    {
+      "tag": "Our Father"
+    },
+    {
+      "tag": "Sermon"
+    },
+    {
+      "tag": "Lord's Prayer"
+    },
+    {
+      "tag": "Kingdom of God"
+    }
+  ],
+  "image": "/uploads/our-father.jpg",
+  "file": "/uploads/20210425-jenny-herrera.mp3"
+}
