@@ -1,23 +1,11 @@
 {
   "title": "Bethany Wheeler",
-  "deck": "<p>I've been part of Gateway my whole life, and absolutely love it! I’m married to Dan and we have 3 children who treat Gateway like their second home! I love all things creative, and am never happier than when out in the fresh air with my family and our dog. At Gateway I am involved in kids work, leading the worship team, preaching, and helping out in the office (when I’m not busy with the little people at home!)\n</p>",
+  "deck": "Worship Team Leader",
   "menuColour": "purple",
   "image": "/uploads/bethany (Small).jpg",
   "titleRole": "Worship Team Leader and Preaching Team",
   "filters": {
     "all": "true",
-    "preachingTeam": "true",
     "ministryLeaders": "true"
-  },
-  "words": [
-    "Ask, Seek, Knock",
-    "Be filled with the Spirit",
-    "Doorways and Barriers to Worship",
-    "Follow Jesus",
-    "Freedom in the Kingdom",
-    "Receiving the power",
-    "The Maternal Nature of God",
-    "Where is God when it hurts?"
-  ],
-  "slug": "bethany-wheeler"
+  }
 }
