@@ -1,0 +1,38 @@
+{
+  "authors": [
+    {
+      "author": "Jenny Herrera"
+    }
+  ],
+  "showOnPodcast": true,
+  "colour": "green",
+  "date": "2021-06-13T12:00:00+01:00",
+  "subtitle": " Are we ready to follow Jesus' example in serving the world through preaching, justice and compassion",
+  "title": "Inside Out",
+  "tags": [
+    {
+      "tag": "Sermon"
+    },
+    {
+      "tag": "Sent"
+    },
+    {
+      "tag": "Inside Out"
+    },
+    {
+      "tag": "Compassion"
+    },
+    {
+      "tag": "Justice"
+    },
+    {
+      "tag": "Preaching"
+    },
+    {
+      "tag": "Luke 4"
+    }
+  ],
+  "image": "/uploads/sent.jpg",
+  "file": "/uploads/20210613-jenny-herrera.mp3",
+  "youtubeLink": "https://youtu.be/XB2Ms7L7xBc"
+}
