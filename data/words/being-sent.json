@@ -1,0 +1,22 @@
+{
+  "authors": [
+    {
+      "author": "Derryck Orridge"
+    }
+  ],
+  "showOnPodcast": true,
+  "colour": "green",
+  "date": "2021-06-20T00:00:00+01:00",
+  "subtitle": "Is it a threat or a challenge?",
+  "title": "Being Sent",
+  "tags": [
+    {
+      "tag": "Sermon"
+    },
+    {
+      "tag": "Sent"
+    }
+  ],
+  "image": "/uploads/sent.jpg",
+  "file": "/uploads/20210620-derryck-orridge.mp3"
+}
