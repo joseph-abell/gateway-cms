@@ -1,0 +1,25 @@
+{
+  "authors": [
+    {
+      "author": "Peter Sloan"
+    }
+  ],
+  "showOnPodcast": true,
+  "colour": "green",
+  "date": "2021-06-27T12:00:00+01:00",
+  "subtitle": "We're called to know God and to make him known",
+  "title": "A Prism of Light",
+  "tags": [
+    {
+      "tag": "Sermon"
+    },
+    {
+      "tag": "Sent"
+    },
+    {
+      "tag": "John"
+    }
+  ],
+  "image": "/uploads/sent.jpg",
+  "file": "/uploads/20210627-peter-sloan.mp3"
+}
