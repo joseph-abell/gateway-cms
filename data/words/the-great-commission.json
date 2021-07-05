@@ -1,0 +1,25 @@
+{
+  "authors": [
+    {
+      "author": "Caleb Ellwood"
+    }
+  ],
+  "showOnPodcast": true,
+  "colour": "green",
+  "date": "2021-07-04T12:00:00+01:00",
+  "subtitle": "Sent by Jesus, for Jesus and with Jesus",
+  "title": "The Great Commission",
+  "tags": [
+    {
+      "tag": "Sermon"
+    },
+    {
+      "tag": "Sent"
+    },
+    {
+      "tag": "Great Commission"
+    }
+  ],
+  "image": "/uploads/sent.jpg",
+  "file": "/uploads/20210704-caleb-ellwood.mp3"
+}
